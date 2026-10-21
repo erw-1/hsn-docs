@@ -18,6 +18,14 @@ Welcome to your portable.md bundle.
 
 
 test
+
+---
+
+:::figure image de test (screenshot) {#image-de-test-screenshot}
+![image](assets/image.png)
+:::
+
+
 <!--pmd
 id:"first_page"
 title:"First page"

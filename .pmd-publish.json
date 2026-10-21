@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "c7a4ed23c39301d9e908af892e2d2ed0365b36bf980f93cd722c3a1119f97874",
-      "git": "e98c00dcfd0dc6591364452dbd4eaaff78ae75fa"
+      "hash": "5865f6810e4878aec496a8e4992e13dab810704ca301e41a2740783eeaa5af13",
+      "git": "e16e1a6ff94b1cdc896324b658c2e8767152639b"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,13 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "424e6dab8c6e7aa8f7ca10ccff09578d2180c8507297ef999fac02cab4766609",
-      "git": "3954f8e6e61ce7f4e1b2e2bf9e9fdb60f56adad1"
+      "hash": "e607db4055b294a5eff8d603fff0dda33ffcb7c9050b5ae4550500395f46a110",
+      "git": "827e818ace65ea859e6a35eff26d7877c621a515"
+    },
+    {
+      "path": "content/assets/image.png",
+      "hash": "79ee65d95ad507a90a22bc7c6860a1611a4c9b3ae6137e2ec33f336f9a931ea4",
+      "git": "829d58ad8a4de394fd44c84ad3f8247ac58db940"
     }
   ]
 }
