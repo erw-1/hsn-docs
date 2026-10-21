@@ -27,6 +27,22 @@ test
 
 
 <!--pmd
+id:"cuivre"
+title:"note_cuivre"
+parent:"home"
+updated:"2026-10-21"
+-->
+# note_cuivre
+
+Start writing here.
+
+
+
+
+![Cuivre](assets/drawing.excalidraw)
+
+
+<!--pmd
 id:"first_page"
 title:"First page"
 parent:"home"
