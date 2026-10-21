@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "42b5af9d9313bbd8ee147f8ae777245f57caaf76af2b35e562b05f40040bf44a",
-      "git": "fe30ff4b9a603a7b43769547bd45844de83b02e2"
+      "hash": "f8970639ea6740ef3ef14133d636aca2191bd62ba06250f3c939d5c329d7076f",
+      "git": "154ec3ae9ee847203ca25851e08bfbfc0c84ab36"
     },
     {
       "path": ".nojekyll",
@@ -23,13 +23,13 @@
     },
     {
       "path": "content/pmd.json",
-      "hash": "6b9afd907d189c5c3ba466876a94c4acf234a9c2ad782e57606d3fa57a18d196",
-      "git": "e9775f03efda7d1224dabd423d335535ce17848a"
+      "hash": "642b56abfddd8eabc2fd8bc872d5a6b0605a58e417ebd19ea0a79b4a33e104db",
+      "git": "bf5c2e24447acaf7ec814277cc3af748efe2b4c3"
     },
     {
       "path": "content/portable.md",
-      "hash": "7364353194dcd0fbc890984c2bd3781df273902d84c6ca10283cd36992c2ece2",
-      "git": "ec97ac2e3da979d46cc094327dad218cd4e897a8"
+      "hash": "e9f8f408d3150b3f64c85ae9b039d53bc868dc4067157bb1cf7b429ebad94793",
+      "git": "8e533b944401387f6fbeb43b4a41356bf6ce2f47"
     },
     {
       "path": "content/assets/drawing.excalidraw",
@@ -40,6 +40,16 @@
       "path": "content/assets/image.png",
       "hash": "79ee65d95ad507a90a22bc7c6860a1611a4c9b3ae6137e2ec33f336f9a931ea4",
       "git": "829d58ad8a4de394fd44c84ad3f8247ac58db940"
+    },
+    {
+      "path": "content/assets/emojis/product_8752093b-removebg-preview.webp",
+      "hash": "4d0b2fcb540f8439a3ce0cdd15ccc40b3634d1d8f30b449804b451e833e62446",
+      "git": "bd9ff5d75d6566945932940de76c6b6d93e1cc6a"
+    },
+    {
+      "path": "content/assets/drawing-2.excalidraw",
+      "hash": "f5a8becdd17881f27a2efee52abbe68ca23dd3b40ff2975a601afe959c61ac99",
+      "git": "981ba04c5535e753cb1e48a4f69fef958786f1c8"
     }
   ]
 }

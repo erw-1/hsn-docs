@@ -17,9 +17,16 @@ Welcome to your portable.md bundle.
 - [Glossary](#/pmd_glossary)
 
 
-test
-
+:product_8752093b-removebg-preview:
 ---
+:product_8752093b-removebg-preview:
+
+
+
+![drawing-2](assets/drawing-2.excalidraw)
+
+
+
 
 :::figure image de test (screenshot) {#image-de-test-screenshot}
 ![image](assets/image.png)
