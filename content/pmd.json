@@ -1,0 +1,11 @@
+{
+  "LANG": "en",
+  "TITLE": "Your Wiki",
+  "DEFAULT_THEME": "dark",
+  "ACCENT": "#3fabd1",
+  "CUSTOM_CSS": "",
+  "CACHE_MD": 0,
+  "ALLOW_JS_FROM_MD": false,
+  "SHOW_EDITOR_LINK": true,
+  "CUSTOM_EMOJI": []
+}
