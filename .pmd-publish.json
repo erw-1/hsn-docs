@@ -1,0 +1,35 @@
+{
+  "generator": "portable.md",
+  "files": [
+    {
+      "path": "index.html",
+      "hash": "c7a4ed23c39301d9e908af892e2d2ed0365b36bf980f93cd722c3a1119f97874",
+      "git": "e98c00dcfd0dc6591364452dbd4eaaff78ae75fa"
+    },
+    {
+      "path": ".nojekyll",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "pmd-reader-dist/reader-1606d780c90e5147.css",
+      "hash": "1606d780c90e5147f739dc497aa203064ffca334ad240e0e91dcc70618b4272d",
+      "git": "783b1142418ca99224a3e8dfadf6d20a0079630e"
+    },
+    {
+      "path": "pmd-reader-dist/reader-e5d00db7231a3c98.js",
+      "hash": "e5d00db7231a3c98cf819e89a38701d6be49d24f6dfeb9db4236a09f86adfd7c",
+      "git": "f3d334f61b75b9f12fef34cc986d03be0f049a2a"
+    },
+    {
+      "path": "content/pmd.json",
+      "hash": "f1c8485053fe905e9171a7db781da9364c36f65f9ea4109bf0529d208080457d",
+      "git": "79194b76d6932c4e503deed519e949dbfd6b55d6"
+    },
+    {
+      "path": "content/portable.md",
+      "hash": "424e6dab8c6e7aa8f7ca10ccff09578d2180c8507297ef999fac02cab4766609",
+      "git": "3954f8e6e61ce7f4e1b2e2bf9e9fdb60f56adad1"
+    }
+  ]
+}
