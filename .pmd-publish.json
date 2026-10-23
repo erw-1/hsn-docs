@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "a3e6dc96224a5b9fffd479b76d135123fe303346ddcebb8025a62aa327f9b380",
-      "git": "dd3ae0c726690abebb916a1d6a7e258c1b402376"
+      "hash": "3ee562592e36477e719092268bf0d8aba7424eee34c8ddaa39eea0a85af6ea99",
+      "git": "dec360f5ba5ac95596a24448fb398645318cd07b"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "b75613e4576f8413a07b88caf1aeb660222e7f2c1d307617c2e47214118d87e0",
-      "git": "4d24c1a0dae6b7062f31f66b3771c449b67b4c47"
+      "hash": "8060a069e7bc1e57a891fd9a71a7b86b12babf8ff24c4dfd27db0016dc7fcd25",
+      "git": "a86774df076780860c39f982e14053566a227c15"
     },
     {
       "path": "content/assets/drawing-2.excalidraw",
@@ -50,6 +50,16 @@
       "path": "content/assets/image.png",
       "hash": "79ee65d95ad507a90a22bc7c6860a1611a4c9b3ae6137e2ec33f336f9a931ea4",
       "git": "829d58ad8a4de394fd44c84ad3f8247ac58db940"
+    },
+    {
+      "path": "content/assets/photo-2026-10-23-093511.jpg",
+      "hash": "511e5e480057daba9956302c0d86e3239bace08ebd00cf8e033a0d2f438a102c",
+      "git": "110f0bbdffaf5365219f88d5ed1c87e73beabc75"
+    },
+    {
+      "path": "content/assets/video-2026-10-23-093529.mp4",
+      "hash": "8573f18fd7466df69c3cd95718026ffcc86534387e364786966b7c0a7e390568",
+      "git": "710a3c53719e01c6bd68710c95e7af1858d85c48"
     }
   ]
 }

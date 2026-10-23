@@ -22,6 +22,18 @@ Welcome to your portable.md bundle.
 :product_8752093b-removebg-preview:
 
 
+
+
+![photo-2026-10-23-093511](assets/photo-2026-10-23-093511.jpg)
+
+
+
+:::figure Une belle tasse {#une-belle-tasse}
+![video-2026-10-23-093529](assets/video-2026-10-23-093529.mp4 "GIF mode")
+:::
+
+
+
 lol
 
 ![drawing-2](assets/drawing-2.excalidraw)
