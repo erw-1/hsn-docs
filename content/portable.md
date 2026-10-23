@@ -7,7 +7,7 @@ title:"Home"
 kind:"home"
 tags:"start"
 journey:"Getting started"
-updated:"2026-10-21"
+updated:"2026-10-23"
 -->
 # Home
 
@@ -26,7 +26,7 @@ lol
 
 ![drawing-2](assets/drawing-2.excalidraw)
 
-
+Test depuis mon téléphone 
 
 
 :::figure image de test (screenshot) {#image-de-test-screenshot}
