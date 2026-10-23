@@ -21,7 +21,7 @@ Welcome to your portable.md bundle.
 ---
 :product_8752093b-removebg-preview:
 
-
+lol
 
 
 ![photo-2026-10-23-093511](assets/photo-2026-10-23-093511.jpg)
