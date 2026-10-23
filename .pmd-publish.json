@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "3ee562592e36477e719092268bf0d8aba7424eee34c8ddaa39eea0a85af6ea99",
-      "git": "dec360f5ba5ac95596a24448fb398645318cd07b"
+      "hash": "441592626c3bc799575931012d24fc0a7f39d60c407edfef306004b35bb020b6",
+      "git": "61fa81af02e8da07e9e22f248d8ad48ba6d2d934"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "8060a069e7bc1e57a891fd9a71a7b86b12babf8ff24c4dfd27db0016dc7fcd25",
-      "git": "a86774df076780860c39f982e14053566a227c15"
+      "hash": "f6f72b6ecdc03ad2f495fe8f65ff633b200eca28e276ad7cfda357cbc83f7274",
+      "git": "28825d8aab39ec680bd99ed4af00cd19ffee4040"
     },
     {
       "path": "content/assets/drawing-2.excalidraw",
@@ -60,6 +60,16 @@
       "path": "content/assets/video-2026-10-23-093529.mp4",
       "hash": "8573f18fd7466df69c3cd95718026ffcc86534387e364786966b7c0a7e390568",
       "git": "710a3c53719e01c6bd68710c95e7af1858d85c48"
+    },
+    {
+      "path": "content/assets/snapchat-13556516.mp4",
+      "hash": "c85a8e278dc9b42788f2d27e37e3a13541f6b99da1282ff1784591b7e0069b6a",
+      "git": "8baf2a4a9765c97ab4b02d911a9fa0010260d5a6"
+    },
+    {
+      "path": "content/assets/snapchat-267039811.mp4",
+      "hash": "cf0b9a422ac990d4ec5aa7d6bdbb929d0860ed66bb7a9421b7aeab78697881e2",
+      "git": "f94022556e658be3263a23d49b566246edfa2edb"
     }
   ]
 }
