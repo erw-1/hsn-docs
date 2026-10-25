@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "a74b865216191a9d01768ba8a71102cc57869ea8ce4ded006f14f24b5e61faa7",
-      "git": "35ce4e9b14001f92d4e480ad7dd753af2e47e6d5"
+      "hash": "0eeac3e964e122f09012265186eaa1b0707cfeec62d69af4a9e3bd369b824fcd",
+      "git": "d9005e36465632dd6ab63af84979245e34c776b5"
     },
     {
       "path": ".nojekyll",
@@ -12,64 +12,29 @@
       "git": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
     },
     {
-      "path": "pmd-reader-dist/reader-10d8709bfca9326b.css",
-      "hash": "10d8709bfca9326b25bdec13660b9ea3188ca43b21a9673ea7a61a577b19343f",
-      "git": "38ee2e2584c02d021e6828f37b2f46f387dc7f5c"
+      "path": "pmd-reader-dist/reader-6154c38675f7d85b.css",
+      "hash": "6154c38675f7d85bd6bbfa36a704e03167cf43de71fc02de0739e91751dd138a",
+      "git": "5fc251357ada453eb41f74d4302b732f81c37317"
     },
     {
-      "path": "pmd-reader-dist/reader-0e9cc591d8131cf5.js",
-      "hash": "0e9cc591d8131cf531bf2259fc0974927bd7f36b95a76fc202328864cc9f3370",
-      "git": "acd1828886b67b073ad9f8838981db460a8f8645"
+      "path": "pmd-reader-dist/reader-e2cd9c3d4efe5133.js",
+      "hash": "e2cd9c3d4efe51338a8b997210c8948490e9e5daba866c4bc492bdcde89e9e08",
+      "git": "15ae9de4e31a2a57652453d297b357ea78980d11"
     },
     {
       "path": "content/pmd.json",
-      "hash": "642b56abfddd8eabc2fd8bc872d5a6b0605a58e417ebd19ea0a79b4a33e104db",
-      "git": "bf5c2e24447acaf7ec814277cc3af748efe2b4c3"
+      "hash": "6b9afd907d189c5c3ba466876a94c4acf234a9c2ad782e57606d3fa57a18d196",
+      "git": "e9775f03efda7d1224dabd423d335535ce17848a"
     },
     {
       "path": "content/portable.md",
-      "hash": "891f25f135c808dc6d0f57500c63dea92a440cc81bca7c30a624ed391cdecddb",
-      "git": "d3ba3464b932436414af2eaa1aba8094804db1a3"
-    },
-    {
-      "path": "content/assets/drawing-2.excalidraw",
-      "hash": "f5a8becdd17881f27a2efee52abbe68ca23dd3b40ff2975a601afe959c61ac99",
-      "git": "981ba04c5535e753cb1e48a4f69fef958786f1c8"
-    },
-    {
-      "path": "content/assets/drawing.excalidraw",
-      "hash": "578ae9fa26d8e3db6c7242de99bb86cab79b4684dfa28650208ebfd0a1dce754",
-      "git": "69cdc5f196dcbc6bceb8fbe9f9c0edaf8ee60f2b"
+      "hash": "1c1e661195b6637a65583a802de1e038d099b77d28f550e78bbd808e047d21a7",
+      "git": "45fc92cb53ae67364e16ec7d94938fdcae2bcda2"
     },
     {
       "path": "content/assets/emojis/product_8752093b-removebg-preview.webp",
       "hash": "4d0b2fcb540f8439a3ce0cdd15ccc40b3634d1d8f30b449804b451e833e62446",
       "git": "bd9ff5d75d6566945932940de76c6b6d93e1cc6a"
-    },
-    {
-      "path": "content/assets/image.png",
-      "hash": "79ee65d95ad507a90a22bc7c6860a1611a4c9b3ae6137e2ec33f336f9a931ea4",
-      "git": "829d58ad8a4de394fd44c84ad3f8247ac58db940"
-    },
-    {
-      "path": "content/assets/photo-2026-10-23-093511.jpg",
-      "hash": "511e5e480057daba9956302c0d86e3239bace08ebd00cf8e033a0d2f438a102c",
-      "git": "110f0bbdffaf5365219f88d5ed1c87e73beabc75"
-    },
-    {
-      "path": "content/assets/snapchat-13556516.mp4",
-      "hash": "c85a8e278dc9b42788f2d27e37e3a13541f6b99da1282ff1784591b7e0069b6a",
-      "git": "8baf2a4a9765c97ab4b02d911a9fa0010260d5a6"
-    },
-    {
-      "path": "content/assets/snapchat-267039811.mp4",
-      "hash": "cf0b9a422ac990d4ec5aa7d6bdbb929d0860ed66bb7a9421b7aeab78697881e2",
-      "git": "f94022556e658be3263a23d49b566246edfa2edb"
-    },
-    {
-      "path": "content/assets/video-2026-10-23-093529.mp4",
-      "hash": "8573f18fd7466df69c3cd95718026ffcc86534387e364786966b7c0a7e390568",
-      "git": "710a3c53719e01c6bd68710c95e7af1858d85c48"
     }
   ]
 }
