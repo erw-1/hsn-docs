@@ -9,20 +9,7 @@ tags:"start"
 journey:"Getting started"
 updated:"2026-10-26"
 -->
-# Home
-
-Welcome to your portable.md bundle.
-
-- First page
-- Glossary
-
-test
-
-raul
+# Suivi du déploiement de l'outil "Mon territoire voirie"
 
 
-lol
-lol lol
 
-
-test
