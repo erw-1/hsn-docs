@@ -1,5 +1,5 @@
 {
-  "LANG": "en",
+  "LANG": "fr",
   "TITLE": "sandbox hsn",
   "DEFAULT_THEME": "dark",
   "ACCENT": "#3fabd1",
@@ -7,10 +7,5 @@
   "CACHE_MD": 0,
   "ALLOW_JS_FROM_MD": false,
   "SHOW_EDITOR_LINK": true,
-  "CUSTOM_EMOJI": [
-    {
-      "alias": "product_8752093b-removebg-preview",
-      "src": "assets/emojis/product_8752093b-removebg-preview.webp"
-    }
-  ]
+  "CUSTOM_EMOJI": []
 }
