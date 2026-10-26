@@ -12,11 +12,12 @@ updated:"2026-10-26"
 # Home
 
 
+
 <!--pmd
 id:"suivi_mt_voirie"
 title:"Suivi MT Voirie"
 parent:"home"
-updated:"2026-10-26"
+updated:"2026-10-26" "France et Erwan"
 -->
 # Suivi MT Voirie
 
@@ -24,3 +25,12 @@ updated:"2026-10-26"
 
 ---
 
+<!--pmd
+id:"new_page"
+title:"New page"
+parent:"home"
+updated:"2026-10-26"
+-->
+# New page
+
+Start writing here.
