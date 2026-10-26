@@ -40,7 +40,6 @@ updated:"2026-10-26" "France et Erwan"
 
 ## Premières étapes de l'accompagnement
 1) Présentation de l'outil aux collectivités
-   
 2) Formation des collectivités
 3) Distribution de documentation numérique
 
@@ -53,11 +52,11 @@ updated:"2026-10-26" "France et Erwan"
 | Value | Value | Value | Value |[?] Oui 
 | Value | Value | Value | Value | [?] Oui |
 | Value | Value | Value | Value | [?] Oui |
-| Value | Value | Value | Value | Value |
-| Value | Value | Value | Value | Value |
-| Value | Value | Value | Value | Value |
-| Value | Value | Value | Value | Value |
-| Value | Value | Value | Value | Value |
+| Value | Value | Value | Value | [?] Oui|
+| Value | Value | Value | Value | [?] Oui|
+| Value | Value | Value | Value | [?] Oui|
+| Value | Value | Value | Value | [?] Oui|
+| Value | Value | Value | Value | [?] Oui|
 
 
 <!--pmd
