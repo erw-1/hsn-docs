@@ -7,7 +7,7 @@ title:"Home"
 kind:"home"
 tags:"start"
 journey:"Getting started"
-updated:"2026-10-25"
+updated:"2026-10-26"
 -->
 # Home
 
@@ -16,8 +16,4 @@ Welcome to your portable.md bundle.
 - First page
 - Glossary
 
-
-:::figure Au-delà de l'horizon / technique diverses / 140 x 100 {#au-dela-de-l-horizon-technique-diverses}
-<center><img src="assets/17929327282233067414916467932809.jpg" alt="17929327282233067414916467932809"></center>
-:::
 
