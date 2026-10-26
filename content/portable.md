@@ -46,18 +46,15 @@ updated:"2026-10-26" "France et Erwan"
 
 ###### Présentation de l'outil aux collectivités
 
-| Collectivité | Agent mobilisé| Date convenue | Réferent |Présentation validée?|
-| --- | --- | --- | --- | --- |
-| Value | Value | Value | Value | [?] Oui |
-| Value | Value | Value | Value |[?] Oui 
-| Value | Value | Value | Value | [?] Oui |
-| Value | Value | Value | Value | [?] Oui |
-| Value | Value | Value | Value | [?] Oui|
-| Value | Value | Value | Value | [?] Oui|
-| Value | Value | Value | Value | [?] Oui|
-| Value | Value | Value | Value | [?] Oui|
-| Value | Value | Value | Value | [?] Oui|
-
+| Collectivité | Agent mobilisé | Date convenue | Réferent | Présentation validée? |
+| :---: | --- | --- | --- | --- |
+| Fresse| France | Value | Value | [?] Oui |
+| Saint-Sauveur| France  | Value | Value | [?] Oui |
+| Ternuay-Melay-et-Saint-Hilaire| France | Value | Value | [?] Oui |
+| Saint-Rémy-en-Comté| France | Value | Value | [?] Oui |
+| CC Pays de Villersexel| France | Value | Value | [?] Oui |
+| CC Terres de Saône| Erwan| Value | Value | [?] Oui |
+| Syndicat de voirie Val de Saône| Erwan | Value | Value | [?] Oui |
 
 <!--pmd
 id:"new_page"
