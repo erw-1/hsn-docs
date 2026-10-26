@@ -49,10 +49,10 @@ updated:"2026-10-26" "France et Erwan"
 
 | Collectivité | Agent mobilisé| Date convenue | Réferent |Présentation validée?|
 | --- | --- | --- | --- | --- |
-| Value | Value | Value | Value | - [?] Oui |
-| Value | Value | Value | Value | - [ ] Open task|
-| Value | Value | Value | Value | Value |
-| Value | Value | Value | Value | Value |
+| Value | Value | Value | Value | [?] Oui |
+| Value | Value | Value | Value |[?] Oui 
+| Value | Value | Value | Value | [?] Oui |
+| Value | Value | Value | Value | [?] Oui |
 | Value | Value | Value | Value | Value |
 | Value | Value | Value | Value | Value |
 | Value | Value | Value | Value | Value |
