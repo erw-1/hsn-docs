@@ -9,7 +9,7 @@ tags:"start"
 journey:"Getting started"
 updated:"2026-10-26"
 -->
-# Home
+# Home lol
 
 Welcome to your portable.md bundle.
 
