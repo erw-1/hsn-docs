@@ -47,15 +47,24 @@ updated:"2026-10-26" "France et Erwan"
 ###### Présentation de l'outil aux collectivités
 
 | Collectivité | Agent mobilisé | Date convenue | Réferent | Présentation validée? |
-| :---: | --- | --- | --- | --- |
-| Fresse| France | Value | Value | [?] Oui |
-| Saint-Sauveur| France  | Value | Value | [?] Oui |
-| Ternuay-Melay-et-Saint-Hilaire| France | Value | Value | [?] Oui |
-| Saint-Rémy-en-Comté| France | Value | Value | [?] Oui |
-| CC Pays de Villersexel| France | Value | Value | [?] Oui |
-| CC Terres de Saône| Erwan| Value | Value | [?] Oui |
-| Syndicat de voirie Val de Saône| Erwan | Value | Value | [?] Oui |
+| :---: | :---: | :---: | :---: | :---: |
+| Saint-Sauveur | France | Value | Value | [?] Oui |
+| Montot| France | Value | Value | [?] Oui |
+| Ternuay-Melay-et-Saint-Hilaire | France | Value | Value | [?] Oui |
+| Fresse | France | Value | Value | [?] Oui |
+| Saint-Rémy-en-Comté | France | Value | Value | [?] Oui |
+| CC Pays de Villersexel | France | Value | Value | [?] Oui |
+| CC Terres de Saône | Erwan | Value | Value | [?] Oui |
+| Syndicat de voirie Val de Saône | Erwan | Value | Value | [?] Oui |
 
+>[!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
+[Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
+Identifiant : france.bringard@hautesaonenumerique.fr  
+    Mot de passe : ||7F1!rN3s8v||
+  
+###### Formation des collectivités
+
+>
 <!--pmd
 id:"new_page"
 title:"New page"
