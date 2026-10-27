@@ -108,6 +108,7 @@
     "SHOW_FAVICON": true
   },
   "READER": {
-    "PRINT": true
+    "PRINT": true,
+    "READING_WIDTH": "full"
   }
 }
