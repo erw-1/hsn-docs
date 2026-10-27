@@ -773,7 +773,7 @@ updated:"2026-10-27" "France et Erwan"
 > Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
 > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK) *if u want*  
 > Identifiant : france.bringard@hautesaonenumerique.fr  
-> Mot de passe : ||7F1!rN3s8v||
+> Mot de passe : ||REDACTED||
 
 ###### Proposition par mail (France)
 
@@ -808,7 +808,7 @@ Start writing here.
 > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
 > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
 > Identifiant : france.bringard@hautesaonenumerique.fr  
-> Mot de passe : ||7F1!rN3s8v||
+> Mot de passe : ||REDACTED||
   
 <br>
 <br>
@@ -819,7 +819,7 @@ Start writing here.
 >[!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
 [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
 Identifiant : france.bringard@hautesaonenumerique.fr  
-Mot de passe : ||7F1!rN3s8v||
+Mot de passe : ||REDACTED||
 
 
 
