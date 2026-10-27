@@ -1,6 +1,6 @@
 {
   "LANG": "fr",
-  "TITLE": "sandbox hsn",
+  "TITLE": "doc HSN beta",
   "DEFAULT_THEME": "dark",
   "ACCENT": "#3fabd1",
   "CUSTOM_CSS": "",
@@ -12,5 +12,14 @@
       "alias": "product_8752093b-removebg-preview",
       "src": "assets/emojis/product_8752093b-removebg-preview.webp"
     }
-  ]
+  ],
+  "SITE": {
+    "ICON": "content/assets/fibre_icon-2.png",
+    "ICON_TYPE": "image/png",
+    "SHOW_LOGO": true,
+    "SHOW_FAVICON": true
+  },
+  "READER": {
+    "PRINT": true
+  }
 }
