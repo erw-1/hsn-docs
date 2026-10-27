@@ -44,7 +44,7 @@ updated:"2026-10-27" "France et Erwan"
 3) Distribution de documentation numérique
 
 
-###### Présentation de l'outil aux collectivités
+##### Présentation de l'outil aux collectivités
 
 | Collectivité | Agent mobilisé | Date convenue | Réfèrent | Présentation validée? |
 | :---: | :---: | :---: | :---: | :---: |
@@ -61,8 +61,13 @@ updated:"2026-10-27" "France et Erwan"
 [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
 Identifiant : france.bringard@hautesaonenumerique.fr  
     Mot de passe : ||7F1!rN3s8v||
-  
-###### Formation des collectivités
+    
+    
+  ###### Proposition par mail (France)
+
+![image](assets/image.png)
+
+##### Formation des collectivités
 
 >
 <!--pmd

@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "f74057b717351c2956a45da2223058d37af3d729884a62ceca655a3ff1b9b651",
-      "git": "a749dbb99361ce9d7fe3b096c22d8b49a68edcfd"
+      "hash": "827ae11be748227cd7282c1387d443ee41d30cff25225140ab8f2b54b374bdb9",
+      "git": "e061ed99af3493034e851618443277eeeac8a80e"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "45768355fcae78d722a52cbc7e8f255e689517d96ccb7b3015169b051688623f",
-      "git": "22d60e16cf4f05dd5bf2a1b979a18e005f521216"
+      "hash": "411ccb81f3b12280b2e3ee6a8488814638487899f526d4a0c24125cec991c35e",
+      "git": "e274eaf757d4699cebde08f139c9a381f88e0abc"
     },
     {
       "path": "content/assets/17929327282233067414916467932809.jpg",
@@ -40,6 +40,11 @@
       "path": "content/assets/emojis/product_8752093b-removebg-preview.webp",
       "hash": "4d0b2fcb540f8439a3ce0cdd15ccc40b3634d1d8f30b449804b451e833e62446",
       "git": "bd9ff5d75d6566945932940de76c6b6d93e1cc6a"
+    },
+    {
+      "path": "content/assets/image.png",
+      "hash": "7c5e81051bfedbee64a190c3ad324433777a6322e353b43d4e82c1d440d3ef2c",
+      "git": "6f64eca51f379f6ede93fe2ebd3e6b82531daffb"
     }
   ]
 }
