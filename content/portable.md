@@ -9,16 +9,7 @@ tags:"start"
 journey:"Getting started"
 updated:"2026-10-27"
 -->
-# test home
-
-**Test from Chrome**
-
-yoooo
-
-==Test from Edge==
-
-
-lol
+# home
 <!--pmd
 id:"analyse_cuivre_fibre"
 title:"Analyse Cuivre - Fibre"
