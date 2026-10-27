@@ -7,10 +7,11 @@ title:"Home"
 kind:"home"
 tags:"start"
 journey:"Getting started"
-updated:"2026-10-26"
+updated:"2026-10-27"
 -->
 # Home
 
+yoooo
 
 <!--pmd
 id:"suivi_mt_voirie"
