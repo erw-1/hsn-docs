@@ -6,11 +6,99 @@
   "CUSTOM_CSS": "",
   "CACHE_MD": 0,
   "ALLOW_JS_FROM_MD": false,
-  "SHOW_EDITOR_LINK": true,
+  "SHOW_EDITOR_LINK": false,
   "CUSTOM_EMOJI": [
     {
-      "alias": "product_8752093b-removebg-preview",
-      "src": "assets/emojis/product_8752093b-removebg-preview.webp"
+      "alias": "lien_hsf_confiance_faible",
+      "src": "assets/emojis/lien_hsf_confiance_faible.webp"
+    },
+    {
+      "alias": "lien_hsf_confiance_forte",
+      "src": "assets/emojis/lien_hsf_confiance_forte.webp"
+    },
+    {
+      "alias": "lien_hsf_confiance_moyenne",
+      "src": "assets/emojis/lien_hsf_confiance_moyenne.webp"
+    },
+    {
+      "alias": "lien_orange_categorie_1",
+      "src": "assets/emojis/lien_orange_categorie_1.webp"
+    },
+    {
+      "alias": "lien_orange_categorie_2",
+      "src": "assets/emojis/lien_orange_categorie_2.webp"
+    },
+    {
+      "alias": "point_cuivre_orange",
+      "src": "assets/emojis/point_cuivre_orange.webp"
+    },
+    {
+      "alias": "point_fibre_hsf",
+      "src": "assets/emojis/point_fibre_hsf.webp"
+    },
+    {
+      "alias": "point_fibre_orange",
+      "src": "assets/emojis/point_fibre_orange.webp"
+    },
+    {
+      "alias": "priorite_a_accompagner",
+      "src": "assets/emojis/priorite_a_accompagner.webp"
+    },
+    {
+      "alias": "priorite_a_controler",
+      "src": "assets/emojis/priorite_a_controler.webp"
+    },
+    {
+      "alias": "priorite_a_securiser",
+      "src": "assets/emojis/priorite_a_securiser.webp"
+    },
+    {
+      "alias": "priorite_migration_possible",
+      "src": "assets/emojis/priorite_migration_possible.webp"
+    },
+    {
+      "alias": "pto_au_moins_un_logement_sans",
+      "src": "assets/emojis/pto_au_moins_un_logement_sans.webp"
+    },
+    {
+      "alias": "pto_aucun",
+      "src": "assets/emojis/pto_aucun.webp"
+    },
+    {
+      "alias": "pto_aucun_logement_sans",
+      "src": "assets/emojis/pto_aucun_logement_sans.webp"
+    },
+    {
+      "alias": "pto_inconnu",
+      "src": "assets/emojis/pto_inconnu.webp"
+    },
+    {
+      "alias": "statut_abandonnee",
+      "src": "assets/emojis/statut_abandonnee.webp"
+    },
+    {
+      "alias": "statut_cible",
+      "src": "assets/emojis/statut_cible.webp"
+    },
+    {
+      "alias": "statut_eligible",
+      "src": "assets/emojis/statut_eligible.webp"
+    },
+    {
+      "alias": "statut_en_cours_de_deploiement",
+      "src": "assets/emojis/statut_en_cours_de_deploiement.webp"
+    },
+    {
+      "alias": "statut_raccordable_demandee",
+      "src": "assets/emojis/statut_raccordable_demandee.webp"
+    },
+    {
+      "alias": "statut_rad_en_cours_de_deploiement",
+      "src": "assets/emojis/statut_rad_en_cours_de_deploiement.webp"
+    },
+    {
+      "alias": "statut_signee",
+      "src": "assets/emojis/statut_signee.webp"
     }
   ],
   "SITE": {

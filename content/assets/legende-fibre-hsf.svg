@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="385" height="280" viewBox="0 0 385 280">
+  <defs>
+    <radialGradient id="fibre" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+      <stop offset="0%" stop-color="#eafeff"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#9b9b9b"/>
+    </marker>
+    <style>
+      .heading { font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; fill: #9b9b9b; }
+      .label { font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #17252f; }
+      .small { font-family: Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #17252f; }
+      .leader { fill: none; stroke: #9b9b9b; stroke-width: 2; stroke-linecap: round; marker-end: url(#arrow); }
+      .white-outline { stroke: #ffffff; stroke-width: 3; paint-order: stroke fill; }
+    </style>
+  </defs>
+
+  <rect width="385" height="280" fill="#ffffff"/>
+
+  <!-- Priorité de migration -->
+  <text x="0" y="20" class="heading">Migration</text>
+  <polygon points="10,30 20,40 10,50 0,40" fill="#43a047" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="24" y="47" class="label">Possible</text>
+  <polygon points="10,55 20,65 10,75 0,65" fill="#8c8c8c" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="24" y="72" class="label">Contrôler</text>
+  <polygon points="10,80 20,90 10,100 0,90" fill="#f59e0b" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="24" y="97" class="label">Accompagner</text>
+  <polygon points="10,105 20,115 10,125 0,115" fill="#d32f2f" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="24" y="122" class="label">Sécuriser</text>
+
+  <!-- Situation PTO -->
+  <text x="0" y="149" class="heading">PTO</text>
+  <circle cx="11" cy="168" r="10.2" fill="none" stroke="#ce0000" stroke-width="2" stroke-dasharray="3.5 3"/>
+  <circle cx="11" cy="168" r="6.3" fill="url(#fibre)" stroke="#087eac" stroke-width="1"/>
+  <text x="24" y="175" class="label">Aucun PTO</text>
+
+  <circle cx="11" cy="211" r="10.2" fill="none" stroke="#ff8c40" stroke-width="2"/>
+  <circle cx="11" cy="211" r="6.3" fill="url(#fibre)" stroke="#087eac" stroke-width="1"/>
+  <text x="24" y="206" class="small">≥ 1 logement</text>
+  <text x="24" y="225" class="small">sans PTO</text>
+
+  <circle cx="11" cy="260" r="6.3" fill="url(#fibre)" stroke="#087eac" stroke-width="1"/>
+  <text x="24" y="255" class="small">Aucun logement</text>
+  <text x="24" y="274" class="small">sans PTO</text>
+
+  <!-- Exemple du symbole -->
+  <text x="244" y="20" class="heading">Logements</text>
+  <circle cx="285" cy="60" r="30" fill="none" stroke="#ce0000" stroke-width="5.8" stroke-dasharray="8 6"/>
+  <circle cx="285" cy="60" r="18.4" fill="url(#fibre)" stroke="#087eac" stroke-width="2.7"/>
+  <polygon points="248,28 259,39 248,50 237,39" fill="#f59e0b" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="248" cy="81" r="8.5" fill="#5ab23f" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="317" y="51" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#263640" class="white-outline">6</text>
+
+  <path d="M114 14 C160 11, 205 14, 235 33" class="leader"/>
+  <path d="M358 27 C356 37, 349 42, 339 45" class="leader"/>
+
+  <!-- Statut de la prise -->
+  <text x="170" y="106" class="heading">Prise</text>
+  <path d="M230 98 C231 91, 234 87, 238 85" class="leader"/>
+
+  <circle cx="212" cy="129" r="8" fill="#5ab23f" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="228" y="136" class="label">Éligible</text>
+  <circle cx="212" cy="152" r="8" fill="#1e90ff" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="228" y="159" class="label">Cible</text>
+  <circle cx="212" cy="175" r="8" fill="#ffd700" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="228" y="182" class="label">Raccordable</text>
+  <circle cx="212" cy="198" r="8" fill="#ffa500" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="228" y="205" class="label">Signée</text>
+  <circle cx="212" cy="221" r="8" fill="#800080" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="228" y="228" class="label">Déploiement</text>
+  <circle cx="212" cy="244" r="8" fill="#dc143c" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="228" y="251" class="label">RAD</text>
+  <circle cx="212" cy="267" r="8" fill="#696969" stroke="#ffffff" stroke-width="1.8"/>
+  <text x="228" y="274" class="label">Abandonnée</text>
+</svg>

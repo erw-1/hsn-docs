@@ -25,7 +25,10 @@ title:"Analyse Cuivre - Fibre"
 parent:"home"
 updated:"2026-10-27"
 -->
+
 # Analyse des accès cuivre actifs et de leur situation fibre
+
+État de la documentation : 27 octobre 2026.
 
 ## 1. Objectif du projet
 
@@ -40,6 +43,24 @@ Le résultat constitue une aide à l'analyse pour HSN, HSF et les collectivités
 
 Cette analyse ne prouve ni l'existence d'un abonnement fibre actif, ni l'absence d'un abonnement fibre. Elle croise des données d'infrastructure et des adresses disposant encore d'un accès cuivre actif. Le raccordement réel d'un logement et la souscription de l'occupant restent deux notions distinctes.
 
+:::info Lecture rapide
+La couche principale associe une adresse cuivre Orange à l’adresse fibre HSF jugée la plus pertinente. Les symboles indiquent ensuite la priorité de migration, le statut fibre, la situation des PTO et le nombre de logements.
+:::
+
+### Lire rapidement la carte
+
+| Symbole | Signification |
+|---|---|
+| :point_cuivre_orange: | Adresse disposant encore d’au moins un accès cuivre actif |
+| :point_fibre_orange: | Position fibre transmise par Orange, lorsqu’elle est exploitable |
+| :point_fibre_hsf: | Adresse ou immeuble fibre HSF retenu par le rapprochement |
+| :lien_orange_categorie_1: | Déplacement entre les coordonnées cuivre et fibre Orange |
+| :lien_hsf_confiance_forte: | Lien entre l’adresse cuivre et le point HSF retenu |
+
+[TODO] Ajouter une capture de Mon Territoire Carto à une échelle locale montrant simultanément les trois points, les deux liens et les étiquettes de distance.
+
+[TODO] Ajouter une courte vidéo montrant le parcours utilisateur : ouvrir un point HSF, parcourir les trois onglets, puis comparer les coordonnées HSF et Orange.
+
 ## 2. Données utilisées
 
 | Source | Emplacement | Contenu utile | Rôle dans l'analyse |
@@ -49,6 +70,46 @@ Cette analyse ne prouve ni l'existence d'un abonnement fibre actif, ni l'absence
 | Situation des PTO HSF | Base `hsn_fibre.imb_sans_pto` | Catégorie PTO agrégée par immeuble, nombre de logements et coordonnées | Qualification de la situation des PTO |
 
 Les fichiers `out/prises.parquet` et `out/pto.parquet` sont des extractions techniques des deux sources HSF. Ils facilitent les contrôles, mais FME lit les tables HSF directement en base.
+
+<center>
+
+:::figure Sources mobilisées et résultats de l’analyse {#flux-donnees}
+
+```mermaid
+flowchart LR
+    O["Fichiers Orange"] --> C["Croisement des données"]
+    H["Prises FTTH HSF"] --> C
+    P["Situation des PTO"] --> C
+
+    C --> V["Vision enrichie par adresse"]
+
+    V --> R1["À contrôler"]
+    V --> R2["À sécuriser"]
+    V --> R3["À accompagner"]
+    V --> R4["Migration possible"]
+
+    classDef sourceOrange fill:#fff2e5,stroke:#a85a20,color:#4a2a14
+    classDef sourceHsf fill:#eaf8ff,stroke:#168bc0,color:#123849
+    classDef sourcePto fill:#f3ecff,stroke:#7950b2,color:#352049
+
+    classDef control fill:#f1f1f1,stroke:#8c8c8c,color:#333333
+    classDef secure fill:#ffe9e9,stroke:#d32f2f,color:#641e1e
+    classDef accompany fill:#fff3d6,stroke:#f59e0b,color:#684500
+    classDef possible fill:#e8f7e8,stroke:#43a047,color:#174d17
+
+    class O sourceOrange
+    class H sourceHsf
+    class P sourcePto
+
+    class R1 control
+    class R2 secure
+    class R3 accompany
+    class R4 possible
+```
+
+:::
+
+</center>
 
 ### État du jeu de travail actuel
 
@@ -66,15 +127,21 @@ Point d'attention : 14 classeurs sont présents dans `in`, mais le workspace FME
 
 ## 3. Couches produites
 
-| Couche publiée | Table PostGIS | Export de contrôle | Géométrie | Usage et rendu |
-|---|---|---|---|---|
-| Points cuivre Orange | `hsn_fibre.analyse_cuivre_pt_cuivre` | `out/pt_cuivre_orange.parquet` | Point | Position de l'accès cuivre actif, symbole cuivre brillant, une fiche d'information |
-| Optionnel - Données fibre | `hsn_fibre.analyse_cuivre_pt_fibre_orange` | `out/pt_cuivre_fibre_orange.parquet` | Point | Position fibre transmise par Orange, symbole orange brillant, une fiche d'information |
-| Analyse cuivre Orange - fibre HSF | `hsn_fibre.analyse_cuivre_pt_fibre_hsf` | `out/pt_cuivre_fibre_hsf.parquet` | Point | Couche principale enrichie, symbole bleu, indicateurs de priorité, de statut fibre, de PTO et nombre de logements |
-| Optionnel - Distance fibre Orange | `hsn_fibre.analyse_cuivre_distance_fibre_orange` | `out/distance_cuivre_fibre_orange.parquet` | Ligne | Comparaison entre le point cuivre et la position fibre Orange, ligne orange avec distance |
-| Distance cuivre Orange - fibre HSF | `hsn_fibre.analyse_cuivre_distance_fibre_hsf` | `out/distance_cuivre_fibre_hsf.parquet` | Ligne | Lien entre le point cuivre et le point HSF retenu, ligne bleu clair avec distance et niveau de confiance |
+| Visuel | Couche publiée | Table PostGIS | Export de contrôle | Géométrie | Usage et rendu |
+|---|---|---|---|---|---|
+| :point_cuivre_orange: | Points cuivre Orange | `hsn_fibre.analyse_cuivre_pt_cuivre` | `out/pt_cuivre_orange.parquet` | Point | Position de l'accès cuivre actif, symbole cuivre brillant, une fiche d'information |
+| :point_fibre_orange: | Optionnel - Données fibre | `hsn_fibre.analyse_cuivre_pt_fibre_orange` | `out/pt_cuivre_fibre_orange.parquet` | Point | Position fibre transmise par Orange, symbole orange brillant, une fiche d'information |
+| :point_fibre_hsf: | Analyse cuivre Orange - fibre HSF | `hsn_fibre.analyse_cuivre_pt_fibre_hsf` | `out/pt_cuivre_fibre_hsf.parquet` | Point | Couche principale enrichie, symbole bleu, indicateurs de priorité, de statut fibre, de PTO et nombre de logements |
+| :lien_orange_categorie_1: | Optionnel - Distance fibre Orange | `hsn_fibre.analyse_cuivre_distance_fibre_orange` | `out/distance_cuivre_fibre_orange.parquet` | Ligne | Comparaison entre le point cuivre et la position fibre Orange, ligne orange avec distance |
+| :lien_hsf_confiance_forte: | Distance cuivre Orange - fibre HSF | `hsn_fibre.analyse_cuivre_distance_fibre_hsf` | `out/distance_cuivre_fibre_hsf.parquet` | Ligne | Lien entre le point cuivre et le point HSF retenu, ligne bleu clair avec distance et niveau de confiance |
 
 Les lignes sont des objets d'analyse. Elles représentent un déplacement géographique entre deux coordonnées, pas le tracé réel d'un réseau ni un itinéraire de raccordement.
+
+:::figure Aperçu des points et des liens à l’échelle locale {#apercu-couches}
+![Exemple de points cuivre et fibre reliés par des lignes de comparaison portant leur distance.](assets/apercu-couches.png)
+:::
+
+[TODO] Remplacer cet aperçu QGIS par une capture définitive de Mon Territoire Carto lorsque la symbologie et les noms de couches seront validés en production.
 
 ## 4. Chaîne de traitement
 
@@ -88,6 +155,44 @@ Les lignes sont des objets d'analyse. Elles représentent un déplacement géogr
 ### 4.2 Hiérarchie de rapprochement avec HSF
 
 Le premier rapprochement réussi est conservé.
+
+<center>
+
+```mermaid
+flowchart TD
+    A["Adresse Orange"] --> B{"Code IMB exact ?"}
+
+    B -- Oui --> F["Confiance forte"]
+    B -- Non --> C{"Adresse Hexacle exacte ?"}
+
+    C -- Oui --> M["Confiance moyenne"]
+    C -- Non --> D{"Coordonnées fibre Orange ?"}
+
+    D -- Oui --> E{"Point HSF à moins de 150 m ?"}
+    E -- Non --> X["Adresse non rapprochée"]
+    E -- Oui --> G{"Distance de 10 m ou moins ?"}
+
+    G -- Oui --> M
+    G -- Non --> W["Confiance faible"]
+
+    D -- Non --> H{"Point HSF à moins de 150 m depuis le cuivre ?"}
+    H -- Oui --> W
+    H -- Non --> X
+
+    classDef sourceOrange fill:#fff2e5,stroke:#a85a20,color:#4a2a14
+    classDef strong fill:#e8f7e8,stroke:#43a047,color:#174d17
+    classDef medium fill:#eaf8ff,stroke:#168bc0,color:#123849
+    classDef weak fill:#fff3d6,stroke:#f59e0b,color:#684500
+    classDef unmatched fill:#f1f1f1,stroke:#8c8c8c,color:#333333
+
+    class A sourceOrange
+    class F strong
+    class M medium
+    class W weak
+    class X unmatched
+```
+
+</center>
 
 | Ordre | Méthode | Règle | Confiance HSN |
 |---:|---|---|---|
@@ -135,11 +240,11 @@ Cette valeur est informative dans la fiche de la couche HSF. Elle ne modifie pas
 
 Le champ `hsn_methode_rapprochement` décrit la méthode. Le champ `hsn_confiance_rapprochement` traduit sa robustesse pour le rendu de la ligne HSF.
 
-| Confiance | Cas concernés | Effectif actuel | Rendu de la ligne HSF |
-|---|---|---:|---|
-| `forte` | Correspondance exacte par code IMB | 31 | Ligne bleu clair continue |
-| `moyenne` | Correspondance exacte par Hexacle ou proximité depuis la fibre Orange à 10 m maximum | 31 | Ligne bleu clair en tirets |
-| `faible` | Proximité depuis la fibre Orange au-delà de 10 m ou depuis le point cuivre | 4 | Ligne bleu clair en pointillés |
+| Visuel | Confiance | Cas concernés | Effectif actuel | Rendu de la ligne HSF |
+|---|---|---|---:|---|
+| :lien_hsf_confiance_forte: | `forte` | Correspondance exacte par code IMB | 31 | Ligne bleu clair continue |
+| :lien_hsf_confiance_moyenne: | `moyenne` | Correspondance exacte par Hexacle ou proximité depuis la fibre Orange à 10 m maximum | 31 | Ligne bleu clair en tirets |
+| :lien_hsf_confiance_faible: | `faible` | Proximité depuis la fibre Orange au-delà de 10 m ou depuis le point cuivre | 4 | Ligne bleu clair en pointillés |
 
 Une confiance faible ne signifie pas que le rapprochement est faux. Elle signifie qu'il doit être vérifié plus attentivement.
 
@@ -147,10 +252,10 @@ Une confiance faible ne signifie pas que le rapprochement est faux. Elle signifi
 
 Le champ `orange_confiance_rapprochement` provient directement des fichiers Orange. Il est distinct de la confiance HSN décrite ci-dessus.
 
-| Valeur visible dans la couche de ligne Orange | Interprétation cartographique | Rendu |
-|---|---|---|
-| `Categorie 1` | Confiance Orange la plus élevée parmi les points fibre Orange représentés | Ligne orange continue |
-| `Categorie 2` | Confiance Orange plus faible | Ligne orange en tirets |
+| Visuel | Valeur visible dans la couche de ligne Orange | Interprétation cartographique | Rendu |
+|---|---|---|---|
+| :lien_orange_categorie_1: | `Categorie 1` | Confiance Orange la plus élevée parmi les points fibre Orange représentés | Ligne orange continue |
+| :lien_orange_categorie_2: | `Categorie 2` | Confiance Orange plus faible | Ligne orange en tirets |
 
 Les critères détaillés qui distinguent les catégories Orange ne sont pas recalculés par HSN et doivent être confirmés dans la documentation du fournisseur. Les catégories 3 et 4 peuvent rester présentes dans les attributs de la couche HSF, notamment lorsque la position fibre Orange n'est pas exploitable pour créer le point Orange.
 
@@ -171,15 +276,15 @@ Dans le jeu actuel, les 66 adresses rapprochées ont la valeur `Oui`.
 
 Le petit cercle placé en bas à gauche du point HSF utilise le champ `hsf_statut_fibre`, issu de l'état d'immeuble HSF.
 
-| Valeur HSF | Libellé cartographique | Couleur |
-|---|---|---|
-| `DEPLOYE` | Éligible | Vert |
-| `CIBLE` | Cible | Bleu |
-| `RACCORDABLE DEMANDE` | Raccordable demandée | Jaune |
-| `SIGNE` | Signée | Orange |
-| `EN COURS DE DEPLOIEMENT` | En cours de déploiement | Violet |
-| `RAD EN COURS DE DEPLOIEMENT` | RAD en cours de déploiement | Rouge |
-| `ABANDONNE` | Abandonnée | Gris |
+| Visuel | Valeur HSF | Libellé cartographique | Couleur |
+|---|---|---|---|
+| :statut_eligible: | `DEPLOYE` | Éligible | Vert |
+| :statut_cible: | `CIBLE` | Cible | Bleu |
+| :statut_raccordable_demandee: | `RACCORDABLE DEMANDE` | Raccordable demandée | Jaune |
+| :statut_signee: | `SIGNE` | Signée | Orange |
+| :statut_en_cours_de_deploiement: | `EN COURS DE DEPLOIEMENT` | En cours de déploiement | Violet |
+| :statut_rad_en_cours_de_deploiement: | `RAD EN COURS DE DEPLOIEMENT` | RAD en cours de déploiement | Rouge |
+| :statut_abandonnee: | `ABANDONNE` | Abandonnée | Gris |
 
 Le libellé visuel « statut de la prise » est simplifié. Techniquement, le champ décrit l'état fibre de l'immeuble ou de l'adresse HSF, pas l'état contractuel d'une prise chez un occupant.
 
@@ -187,12 +292,12 @@ Le libellé visuel « statut de la prise » est simplifié. Techniquement, le ch
 
 Le champ source `hsf_pto_categorie` est traduit dans `hsn_situation_pto`.
 
-| Catégorie HSF | Valeur HSN | Sens métier | Rendu autour du point HSF |
-|---|---|---|---|
-| `0 - IMB sans PTO` | `Aucun PTO` | Aucun PTO connu dans l'immeuble | Contour rouge discontinu |
-| `1 - IMB avec au moins 1 logement sans PTO` | `Au moins un logement sans PTO` | L'immeuble comporte au moins un logement sans PTO | Contour orange continu |
-| `2 - IMB sans logement sans PTO` | `Aucun logement sans PTO` | Aucun logement n'est identifié comme restant sans PTO | Pas de contour supplémentaire |
-| `PTO_inconnu` | `Inconnue` | Aucune situation PTO n'a pu être associée | Pas de contour spécifique et priorité à contrôler |
+| Visuel | Catégorie HSF | Valeur HSN | Sens métier | Rendu autour du point HSF |
+|---|---|---|---|---|
+| :pto_aucun: | `0 - IMB sans PTO` | `Aucun PTO` | Aucun PTO connu dans l'immeuble | Contour rouge discontinu |
+| :pto_au_moins_un_logement_sans: | `1 - IMB avec au moins 1 logement sans PTO` | `Au moins un logement sans PTO` | L'immeuble comporte au moins un logement sans PTO | Contour orange continu |
+| :pto_aucun_logement_sans: | `2 - IMB sans logement sans PTO` | `Aucun logement sans PTO` | Aucun logement n'est identifié comme restant sans PTO | Pas de contour supplémentaire |
+| :pto_inconnu: | `PTO_inconnu` | `Inconnue` | Aucune situation PTO n'a pu être associée | Pas de contour spécifique et priorité à contrôler |
 
 Cette information porte sur la présence connue d'un PTO. Elle ne prouve pas qu'un abonnement fibre est actif.
 
@@ -200,15 +305,48 @@ Répartition actuelle : 37 adresses sans PTO, 4 avec au moins un logement sans P
 
 ### 5.7 Priorité de migration
 
-Le champ `hsn_priorite_migration` applique les règles suivantes dans l'ordre. La première règle satisfaite est retenue.
+Le champ `hsn_priorite_migration` applique les règles suivantes dans l'ordre.  
 
-| Ordre | Condition | Classe | Rendu sur le point HSF | Effectif actuel |
-|---:|---|---|---|---:|
-| 1 | Aucun code IMB HSF rapproché | `À contrôler` | Losange gris en haut à gauche | 0 |
-| 2 | Statut fibre HSF différent de `DEPLOYE` | `À sécuriser` | Losange rouge en haut à gauche | 0 |
-| 3 | Catégorie PTO 0 ou 1 | `À accompagner` | Losange orange en haut à gauche | 41 |
-| 4 | Catégorie PTO 2 | `Migration possible` | Losange vert en haut à gauche | 24 |
-| 5 | Situation PTO inconnue | `À contrôler` | Losange gris en haut à gauche | 1 |
+<center>
+
+```mermaid
+flowchart TD
+    A["Adresse enrichie"] --> B{"Code IMB HSF présent ?"}
+
+    B -- Non --> C["À contrôler"]
+    B -- Oui --> D{"Fibre déployée ?"}
+
+    D -- Non --> E["À sécuriser"]
+    D -- Oui --> F{"Situation des PTO"}
+
+    F -- "Catégorie 0 ou 1" --> G["À accompagner"]
+    F -- "Catégorie 2" --> H["Migration possible"]
+    F -- "Inconnue" --> C
+
+    classDef sourceHsf fill:#eaf8ff,stroke:#168bc0,color:#123849
+    classDef control fill:#f1f1f1,stroke:#8c8c8c,color:#333333
+    classDef secure fill:#ffe9e9,stroke:#d32f2f,color:#641e1e
+    classDef accompany fill:#fff3d6,stroke:#f59e0b,color:#684500
+    classDef possible fill:#e8f7e8,stroke:#43a047,color:#174d17
+
+    class A sourceHsf
+    class C control
+    class E secure
+    class G accompany
+    class H possible
+```
+
+</center>
+
+La première règle satisfaite est retenue.
+
+| Visuel | Ordre | Condition | Classe | Rendu sur le point HSF | Effectif actuel |
+|---|---:|---|---|---|---:|
+| :priorite_a_controler: | 1 | Aucun code IMB HSF rapproché | `À contrôler` | Losange gris en haut à gauche | 0 |
+| :priorite_a_securiser: | 2 | Statut fibre HSF différent de `DEPLOYE` | `À sécuriser` | Losange rouge en haut à gauche | 0 |
+| :priorite_a_accompagner: | 3 | Catégorie PTO 0 ou 1 | `À accompagner` | Losange orange en haut à gauche | 41 |
+| :priorite_migration_possible: | 4 | Catégorie PTO 2 | `Migration possible` | Losange vert en haut à gauche | 24 |
+| :priorite_a_controler: | 5 | Situation PTO inconnue | `À contrôler` | Losange gris en haut à gauche | 1 |
 
 La classe est une aide à la priorisation. Elle ne remplace pas une vérification terrain ou une instruction opérationnelle du raccordement.
 
@@ -228,11 +366,185 @@ Les couches de lignes et leurs étiquettes sont limitées aux échelles locales,
 
 Le symbole principal rassemble quatre informations sans modifier la position du point :
 
-- point central bleu : position de l'immeuble HSF retenu ;
-- losange en haut à gauche : priorité de migration ;
-- cercle en bas à gauche : statut fibre HSF ;
-- contour autour du point : situation des PTO ;
+- :point_fibre_hsf: point central bleu : position de l'immeuble HSF retenu ;
+- :priorite_a_accompagner: losange en haut à gauche : priorité de migration ;
+- :statut_eligible: cercle en bas à gauche : statut fibre HSF ;
+- :pto_aucun: contour autour du point : situation des PTO ;
 - nombre placé à droite : nombre de logements HSF.
+
+<center>
+
+:::figure Légende complète du symbole HSF {#legende-symbole-hsf}
+![Le losange indique la priorité, le petit cercle le statut fibre, le contour la situation des PTO et le nombre à droite le nombre de logements.](assets/legende-fibre-hsf.svg) ![legende_fibre_hsf_verticale](assets/legende_fibre_hsf_verticale.png)
+:::
+
+</center>
+
+
+### 5.10 Organisation des fiches de consultation
+
+Les champs suivent le même ordre fonctionnel dans toutes les fiches : résultat métier, adresse, rapprochement, informations techniques, coordonnées, identifiants, puis traçabilité. Les champs techniques de la plateforme (`sogefi_identifiant`, `id_sogefi`, `insee`, `geom` et `geom_label`) restent masqués.
+
+Les deux couches de lignes n’ont pas de fiche de consultation. Leur distance et leur confiance sont déjà portées par la carte.
+
+:::spoiler Points cuivre Orange · onglet « Accès cuivre Orange »
+
+| Nom du champ | Libellé utilisateur |
+|---|---|
+| `hsn_priorite_migration` | Priorité de migration |
+| `hsn_fibre_eligible` | Éligibilité à la fibre |
+| `hsn_situation_pto` | Situation des PTO |
+| `orange_numero_cuivre` | Numéro de voie |
+| `orange_voie_cuivre` | Voie |
+| `orange_commune` | Commune |
+| `orange_code_insee` | Code INSEE |
+| `orange_nb_acces_cuivre` | Nombre d’accès cuivre actifs |
+| `orange_cuivre_x` | Coordonnée cuivre X |
+| `orange_cuivre_y` | Coordonnée cuivre Y |
+| `orange_cle_imb` | Code IMB Orange |
+| `hsf_cle_imb` | Code IMB HSF correspondant |
+| `orange_cle_adresse` | Clé d’adresse Orange |
+| `hsf_cle_adresse` | Clé d’adresse HSF correspondante |
+| `orange_code_rivoli` | Code RIVOLI |
+| `orange_hexacle_voie` | Code Hexacle de la voie |
+| `hsn_id_adresse` | Identifiant de l’analyse |
+
+:::
+
+:::spoiler Analyse cuivre Orange - fibre HSF · onglet « Analyse HSN »
+
+| Nom du champ | Libellé utilisateur |
+|---|---|
+| `hsn_priorite_migration` | Priorité de migration |
+| `hsn_fibre_eligible` | Éligibilité à la fibre |
+| `hsn_situation_pto` | Situation des PTO |
+| `hsn_confiance_rapprochement` | Confiance du rapprochement |
+| `hsn_methode_rapprochement` | Méthode de rapprochement |
+| `hsn_distance_rapprochement_m` | Distance du rapprochement (m) |
+| `hsn_source_reference` | Point utilisé pour le rapprochement |
+| `hsn_id_adresse` | Identifiant de l’analyse |
+
+:::
+
+:::spoiler Analyse cuivre Orange - fibre HSF · onglet « Données HSF »
+
+| Nom du champ | Libellé utilisateur |
+|---|---|
+| `hsf_statut_fibre` | Statut de la fibre |
+| `hsf_pto_categorie` | Situation détaillée des PTO |
+| `hsf_pto_statut_immeuble` | Statut de l’immeuble dans la source PTO |
+| `hsf_numero_voie_immeuble` | Numéro de voie |
+| `hsf_type_voie_immeuble` | Type de voie |
+| `hsf_nom_voie_immeuble` | Nom de la voie |
+| `hsf_batiment_immeuble` | Bâtiment ou complément |
+| `hsf_code_postal_immeuble` | Code postal |
+| `hsf_commune_immeuble` | Commune |
+| `hsf_code_insee_immeuble` | Code INSEE de l’immeuble |
+| `hsf_type_immeuble` | Type de local |
+| `hsf_nb_logements` | Nombre de logements |
+| `hsf_nb_logements_pro` | Nombre de locaux professionnels |
+| `hsf_pto_nb_logements` | Nombre de logements dans la source PTO |
+| `hsf_immeuble_neuf` | Immeuble neuf |
+| `hsf_type_zone` | Zone de déploiement fibre |
+| `hsf_date_cablage_adresse` | Date de câblage de l’adresse |
+| `hsf_date_service_immeuble` | Date de mise en service commerciale |
+| `hsf_emplacement_actif_disponible` | Emplacement actif disponible |
+| `hsf_fibre_dediee_libre` | Fibre dédiée disponible |
+| `hsf_accord_gestionnaire_requis` | Accord du gestionnaire requis |
+| `hsf_numero_voie_gestionnaire` | Numéro de voie déclaré par le gestionnaire |
+| `hsf_type_ingenierie` | Type d’ingénierie fibre |
+| `hsf_etat_pm` | État du point de mutualisation |
+| `hsf_type_emplacement_pm` | Emplacement du point de mutualisation |
+| `hsf_capacite_max_pm` | Capacité maximale du point de mutualisation |
+| `hsf_nb_logements_pm` | Nombre de logements rattachés au point de mutualisation |
+| `hsf_brassage_pm_oi` | Brassage entre le PM et l’opérateur d’immeuble |
+| `hsf_type_voie_pm` | Type de voie du point de mutualisation |
+| `hsf_nom_voie_pm` | Voie du point de mutualisation |
+| `hsf_code_postal_pm` | Code postal du point de mutualisation |
+| `hsf_commune_pm` | Commune du point de mutualisation |
+| `hsf_qualite_adresse_pm` | Qualité de l’adresse du point de mutualisation |
+| `hsf_projection` | Système de coordonnées HSF |
+| `hsf_immeuble_x` | Coordonnée immeuble X |
+| `hsf_immeuble_y` | Coordonnée immeuble Y |
+| `hsf_pm_x` | Coordonnée du point de mutualisation X |
+| `hsf_pm_y` | Coordonnée du point de mutualisation Y |
+| `hsf_cle_imb` | Code IMB HSF |
+| `hsf_cle_adresse` | Clé d’adresse HSF |
+| `hsf_code_insee` | Code INSEE HSF |
+| `hsf_code_rivoli_immeuble` | Code RIVOLI de l’immeuble |
+| `hsf_code_hexacle_voie` | Code Hexacle de la voie |
+| `hsf_reference_pm` | Référence du point de mutualisation |
+| `hsf_code_adresse_pm` | Code adresse du point de mutualisation |
+| `hsf_code_insee_pm` | Code INSEE du point de mutualisation |
+| `hsf_code_rivoli_pm` | Code RIVOLI du point de mutualisation |
+| `hsf_reference_consultation_native` | Référence native de consultation |
+| `hsf_reference_consultation` | Référence de consultation |
+| `hsf_date_installation_pm` | Date d’installation du point de mutualisation |
+| `hsf_date_service_pm` | Date de mise en service du point de mutualisation |
+| `hsf_date_premiere_mad_pm` | Première mise à disposition du point de mutualisation |
+| `hsf_pto_date_maj` | Mise à jour des données PTO |
+| `hsf_date_maj` | Mise à jour des données HSF |
+| `hsf_date_derniere_modification` | Dernière modification de l’enregistrement HSF |
+
+:::
+
+:::spoiler Analyse cuivre Orange - fibre HSF · onglet « Données Orange »
+
+| Nom du champ | Libellé utilisateur |
+|---|---|
+| `orange_numero_fibre` | Numéro de l’adresse fibre |
+| `orange_voie_fibre` | Voie de l’adresse fibre |
+| `orange_commune` | Commune |
+| `orange_code_insee` | Code INSEE |
+| `orange_numero_cuivre` | Numéro de l’adresse cuivre |
+| `orange_voie_cuivre` | Voie de l’adresse cuivre |
+| `orange_confiance_rapprochement` | Confiance du rapprochement Orange |
+| `orange_distance_cuivre_fibre_m` | Distance cuivre vers fibre Orange (m) |
+| `orange_operateur_fibre` | Opérateur d’infrastructure fibre |
+| `orange_nb_acces_cuivre` | Nombre d’accès cuivre actifs |
+| `orange_fibre_x` | Coordonnée fibre Orange X |
+| `orange_fibre_y` | Coordonnée fibre Orange Y |
+| `orange_cuivre_x` | Coordonnée cuivre X |
+| `orange_cuivre_y` | Coordonnée cuivre Y |
+| `orange_cle_imb` | Code IMB Orange |
+| `orange_cle_adresse` | Clé d’adresse Orange |
+| `orange_code_rivoli` | Code RIVOLI |
+| `orange_hexacle_voie` | Code Hexacle de la voie |
+
+:::
+
+:::spoiler Données fibre Orange · onglet unique
+
+| Nom du champ | Libellé utilisateur |
+|---|---|
+| `hsn_priorite_migration` | Priorité de migration |
+| `hsn_fibre_eligible` | Éligibilité à la fibre |
+| `hsn_situation_pto` | Situation des PTO |
+| `orange_numero_fibre` | Numéro de l’adresse fibre |
+| `orange_voie_fibre` | Voie de l’adresse fibre |
+| `orange_commune` | Commune |
+| `orange_code_insee` | Code INSEE |
+| `orange_numero_cuivre` | Numéro de l’adresse cuivre |
+| `orange_voie_cuivre` | Voie de l’adresse cuivre |
+| `orange_confiance_rapprochement` | Confiance du rapprochement Orange |
+| `orange_distance_cuivre_fibre_m` | Distance cuivre vers fibre Orange (m) |
+| `orange_operateur_fibre` | Opérateur d’infrastructure fibre |
+| `orange_nb_acces_cuivre` | Nombre d’accès cuivre actifs |
+| `orange_fibre_x` | Coordonnée fibre Orange X |
+| `orange_fibre_y` | Coordonnée fibre Orange Y |
+| `orange_cuivre_x` | Coordonnée cuivre X |
+| `orange_cuivre_y` | Coordonnée cuivre Y |
+| `orange_cle_imb` | Code IMB Orange |
+| `hsf_cle_imb` | Code IMB HSF correspondant |
+| `orange_cle_adresse` | Clé d’adresse Orange |
+| `hsf_cle_adresse` | Clé d’adresse HSF correspondante |
+| `orange_code_rivoli` | Code RIVOLI |
+| `orange_hexacle_voie` | Code Hexacle de la voie |
+| `hsn_id_adresse` | Identifiant de l’analyse |
+
+:::
+
+[TODO] Ajouter une capture de la fiche de consultation HSF dans Mon Territoire Carto avec les trois onglets visibles et un exemple d’adresse renseignée.
 
 ## 6. Convention de nommage des champs
 
@@ -510,3 +822,9 @@ Start writing here.
 [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
 Identifiant : france.bringard@hautesaonenumerique.fr  
 Mot de passe : ||7F1!rN3s8v||
+
+
+
+
+
+

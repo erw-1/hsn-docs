@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "238ee137973fefb9be1b6c12e66fc91dccaf32b3bd594b135da075e3367c06f0",
-      "git": "5a5a3a34cce0113c702a4bda3170f51f58adaca2"
+      "hash": "665249c3c61e2d9d538d0fe09f8a2620afac0af085e6d0500556a163ebaa1ad0",
+      "git": "dd64bf92d8238d70a127806f8a04d33780998ee5"
     },
     {
       "path": ".nojekyll",
@@ -23,23 +23,13 @@
     },
     {
       "path": "content/pmd.json",
-      "hash": "8f4b5bc5cbc186efda8f263bddd9dacdbf730d511ebc8d4e51ca6eda221e11c0",
-      "git": "2acef928f4877665d9749c43c43626013fb5faa9"
+      "hash": "e8b8e8ade29f068c73984f9d3a7cab30fac3727f5a3301ece70eedf4943b7a59",
+      "git": "82b44915d672d440b4dba1791cd035e5fda62198"
     },
     {
       "path": "content/portable.md",
-      "hash": "2d82ee1cab91f4beb9177d86291c0386f98da1cf80c58c078b7b39b4f26840c7",
-      "git": "98a5cf43a1c611a6243700979d85153e076c09aa"
-    },
-    {
-      "path": "content/assets/17929327282233067414916467932809.jpg",
-      "hash": "87345bd50c47add410bb7b4813fd0a58b90b90cca7d5dd9853c38b9cc201fc3b",
-      "git": "02660ff4219ce666bba7344604bf7c641dd896de"
-    },
-    {
-      "path": "content/assets/emojis/product_8752093b-removebg-preview.webp",
-      "hash": "4d0b2fcb540f8439a3ce0cdd15ccc40b3634d1d8f30b449804b451e833e62446",
-      "git": "bd9ff5d75d6566945932940de76c6b6d93e1cc6a"
+      "hash": "1e20f92605d900156d17e7196dc7066811c799afe4df95d0dcedae23f7d3642d",
+      "git": "cdc8d5ffb9336a1c31214b7513f9430f0e7c9fb4"
     },
     {
       "path": "content/assets/image.png",
@@ -55,6 +45,141 @@
       "path": "content/assets/fibre_icon-2.png",
       "hash": "a5c02c141799d933e373a3ea6fb8a74c8e721be2e85a558616f84f6dd0c2a741",
       "git": "872bf456387553f375231df593ebe387f98e231b"
+    },
+    {
+      "path": "content/assets/emojis/lien_hsf_confiance_faible.webp",
+      "hash": "04c2354ffc3b40a30ec0652a4e5d895d4ad63a61c69175ed910d6eb186fe31b1",
+      "git": "c1f26c5e125bebef49dbb52144cf6872b9814bfa"
+    },
+    {
+      "path": "content/assets/emojis/lien_hsf_confiance_forte.webp",
+      "hash": "67765f24ea8c1a187a38429aed1c7d35acc7b8fb11ff0eb6ffe0bfdeb09f11a0",
+      "git": "ea23d86a1d83949721a86d7e2de198b2636b136c"
+    },
+    {
+      "path": "content/assets/emojis/lien_hsf_confiance_moyenne.webp",
+      "hash": "ce4caa718bfc5013c5e6c884de342d65c4d9f6aaf6e9b4c33addcce30a932835",
+      "git": "77ad0e59c2fb06b14edf777240a29e43cdb64d40"
+    },
+    {
+      "path": "content/assets/emojis/lien_orange_categorie_1.webp",
+      "hash": "799db765626af3c98833f350fe3969a150b1cdd31eef3bd455f0832af5c518f9",
+      "git": "6e7d4827a8aed690ffb26448fb4b559cc712d257"
+    },
+    {
+      "path": "content/assets/emojis/lien_orange_categorie_2.webp",
+      "hash": "41971e5f827ca9f4fc1697aca48e18789890d5bca5ff6a1005d0adf735349d95",
+      "git": "f395525723ed567eaea2b70db9e9e8d193d28ca2"
+    },
+    {
+      "path": "content/assets/emojis/point_cuivre_orange.webp",
+      "hash": "ea8c62bce16c7a6be786ca032bb6952a2cec7d20bba734d922a4759295567144",
+      "git": "ecfa7494fb493ac5f47113ad3b43873e5d9d25fc"
+    },
+    {
+      "path": "content/assets/emojis/point_fibre_hsf.webp",
+      "hash": "7ef5be7edb0963ee9740de771cda6470701443ca5e32a0307a43da1a8cdec2ff",
+      "git": "70a64318f8b879075387336562d1b56099276213"
+    },
+    {
+      "path": "content/assets/emojis/point_fibre_orange.webp",
+      "hash": "77bce94d939588da64036ce8152b54832a2b03b2ed493de02163c9676d96408d",
+      "git": "614eabb6a66db880c516401b2a4e05ee526fe651"
+    },
+    {
+      "path": "content/assets/emojis/priorite_a_accompagner.webp",
+      "hash": "64c3e7ba67d3600222263272db711c2da77f6d8c2616e7242e4fb99ec5628c6e",
+      "git": "d2b1a41d954ce6caff5f84b505287ec0186baacb"
+    },
+    {
+      "path": "content/assets/emojis/priorite_a_controler.webp",
+      "hash": "79d777714d20824d40acf48e82f44329a800a451781d79c7e3f51333bd5e974d",
+      "git": "4e3a8ebf2ded9f3acca4bad70fce9f57e4cf069b"
+    },
+    {
+      "path": "content/assets/emojis/priorite_a_securiser.webp",
+      "hash": "038b67cc26b726cc993d180ada91f82f28c5e1370227d90848f6a53c4c21b5ee",
+      "git": "6a5625b15ac23323e732bd52d875c3f6ab90dcda"
+    },
+    {
+      "path": "content/assets/emojis/priorite_migration_possible.webp",
+      "hash": "2abfb60ada0181773a21e4dd3dc99910ea2accfa0ae01ac99f8ff74b372f9ca9",
+      "git": "aa699b36dcd83581c17865d78a016910f5b2cf58"
+    },
+    {
+      "path": "content/assets/emojis/pto_au_moins_un_logement_sans.webp",
+      "hash": "630c218f1480980c7707553a4d7d052336dd33f0006eb70b17a03c37f8c76060",
+      "git": "a6abc2af92f3ac9222ae80dc04cb14f445c28d97"
+    },
+    {
+      "path": "content/assets/emojis/pto_aucun.webp",
+      "hash": "f23fa9a0b194555958473fe56703296baba2374e01e846d7d89d32a6cd3c20c3",
+      "git": "00ee1a54beb1ef9d3dcdf6cea146897e7bd957ef"
+    },
+    {
+      "path": "content/assets/emojis/pto_aucun_logement_sans.webp",
+      "hash": "7ef5be7edb0963ee9740de771cda6470701443ca5e32a0307a43da1a8cdec2ff",
+      "git": "70a64318f8b879075387336562d1b56099276213"
+    },
+    {
+      "path": "content/assets/emojis/pto_inconnu.webp",
+      "hash": "7ef5be7edb0963ee9740de771cda6470701443ca5e32a0307a43da1a8cdec2ff",
+      "git": "70a64318f8b879075387336562d1b56099276213"
+    },
+    {
+      "path": "content/assets/emojis/statut_abandonnee.webp",
+      "hash": "882a36bcb9357d6d2440fb03b61ea66443d22b7fa00637ffd60817b5c4e628cd",
+      "git": "193f9aacb974ba2a33974131eb035f4b22e99b08"
+    },
+    {
+      "path": "content/assets/emojis/statut_cible.webp",
+      "hash": "517d7ef611eeaa410580e14718faf2d72d9671f23cdf21024768658f75ab5beb",
+      "git": "783c33db44b0f812e500c2e2b22da4f550bdbec0"
+    },
+    {
+      "path": "content/assets/emojis/statut_eligible.webp",
+      "hash": "106536c55d9fd6568bc112336d749ebe6882321281598050cc3af62bd659dbed",
+      "git": "aeb8776d7d9eefcce20a00eb42a38e74bba3dd99"
+    },
+    {
+      "path": "content/assets/emojis/statut_en_cours_de_deploiement.webp",
+      "hash": "5a173733d34c7cbaf126798327de3a9abdf7b4237d967c1bad5f57dfbfc09005",
+      "git": "16f2071e6eeb5658009678948c0a87367a9bccc3"
+    },
+    {
+      "path": "content/assets/emojis/statut_raccordable_demandee.webp",
+      "hash": "ee10bc73719f37418789da43498bb496bd6a061a7b97c94701763b74938016dc",
+      "git": "0562555a2daa57af09b6ef6dc99fd9b64258b766"
+    },
+    {
+      "path": "content/assets/emojis/statut_rad_en_cours_de_deploiement.webp",
+      "hash": "dab7baea220b4933abe11f2d20f8680b54b872b23a7b110e87a31aae41617179",
+      "git": "616734b34e42f8c11198552baf152aeb80ec3618"
+    },
+    {
+      "path": "content/assets/emojis/statut_signee.webp",
+      "hash": "564fdb40112d04255b7a5f74df363558ac97828b369ccd65f78cae448dd11fd1",
+      "git": "2a5a267f72736c27d30df014211660cca4c49f9b"
+    },
+    {
+      "path": "content/assets/apercu-couches.png",
+      "hash": "c634217f2cfd9def0fe74921a14f3c91e5c4c80d5d1d8f4b31d96c7d8a9ddb64",
+      "git": "81dbe7d5fd4773f70885578390997e94af0c8ff4"
+    },
+    {
+      "path": "content/assets/legende-fibre-hsf.svg",
+      "hash": "795e88edfe879ca85229e815307973d1eaccdd7af5fd72479b10a80f93b68537",
+      "git": "1dec5090b075e2ebe42a8b4df29fa4bc600fb00b"
+    },
+    {
+      "path": "content/assets/sources-et-traitement.svg",
+      "hash": "e82901f961c47cc2511523cc1f66514330c1b631bd99c6ef70c3e76bd3934f9b",
+      "git": "7016ec60403de79cebe7191da3dfcbb940d492df"
+    },
+    {
+      "path": "content/assets/legende_fibre_hsf_verticale.png",
+      "hash": "cbc1d25d3eb1e96e2ce00e12f68e83b502dc3f11fa521fb3c135ddfa0778625a",
+      "git": "57f120e074675313dfebea07e462346d86af91b4"
     }
   ]
 }
