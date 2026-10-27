@@ -68,7 +68,18 @@ Identifiant : france.bringard@hautesaonenumerique.fr
 ![image](assets/image.png)
 
 ##### Formation des collectivités
+*
 
+
+
+
+
+
+
+
+
+
+*
 >
 <!--pmd
 id:"new_page"
