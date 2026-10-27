@@ -23,12 +23,10 @@ lol
 id:"analyse_cuivre_fibre"
 title:"Analyse Cuivre - Fibre"
 parent:"home"
-updated:"2026-10-27"
+updated:"2026-10-27" "Erwan"
 -->
 
 # Analyse des accès cuivre actifs et de leur situation fibre
-
-État de la documentation : 27 octobre 2026.
 
 ## 1. Objectif du projet
 
@@ -138,7 +136,7 @@ Point d'attention : 14 classeurs sont présents dans `in`, mais le workspace FME
 Les lignes sont des objets d'analyse. Elles représentent un déplacement géographique entre deux coordonnées, pas le tracé réel d'un réseau ni un itinéraire de raccordement.
 
 :::figure Aperçu des points et des liens à l’échelle locale {#apercu-couches}
-![Exemple de points cuivre et fibre reliés par des lignes de comparaison portant leur distance.](assets/apercu-couches.png)
+<center><img src="assets/image-2.png" alt="Exemple de points cuivre et fibre reliés par des lignes de comparaison portant leur distance." width="694"></center>
 :::
 
 [TODO] Remplacer cet aperçu QGIS par une capture définitive de Mon Territoire Carto lorsque la symbologie et les noms de couches seront validés en production.

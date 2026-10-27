@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "665249c3c61e2d9d538d0fe09f8a2620afac0af085e6d0500556a163ebaa1ad0",
-      "git": "dd64bf92d8238d70a127806f8a04d33780998ee5"
+      "hash": "343c7a604edc14af0ad5c6d839047e381f8f3ce637fa0506e2c826b53e09d7f3",
+      "git": "0de48d8ea932c208038473863c16d9b2ced47117"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "1e20f92605d900156d17e7196dc7066811c799afe4df95d0dcedae23f7d3642d",
-      "git": "cdc8d5ffb9336a1c31214b7513f9430f0e7c9fb4"
+      "hash": "e0bd7e573cc5bd51de080718f878510cf4c940743e459c5b2de442edc524c347",
+      "git": "9a3228621ddc3b40efd8dd3c7a64b8b12b52e0e9"
     },
     {
       "path": "content/assets/image.png",
@@ -180,6 +180,11 @@
       "path": "content/assets/legende_fibre_hsf_verticale.png",
       "hash": "cbc1d25d3eb1e96e2ce00e12f68e83b502dc3f11fa521fb3c135ddfa0778625a",
       "git": "57f120e074675313dfebea07e462346d86af91b4"
+    },
+    {
+      "path": "content/assets/image-2.png",
+      "hash": "9ce18efa89deee0dad33d4ba332898facec4694bdca78abdb02f7462fce14329",
+      "git": "2716cc47ce2c55f3e317360730574aa3642f5851"
     }
   ]
 }
