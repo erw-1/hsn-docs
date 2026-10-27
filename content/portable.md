@@ -16,7 +16,7 @@ updated:"2026-10-26"
 id:"suivi_mt_voirie"
 title:"Suivi MT Voirie"
 parent:"home"
-updated:"2026-10-26" "France et Erwan"
+updated:"2026-10-27" "France et Erwan"
 -->
 # Suivi MT Voirie
 
@@ -46,7 +46,7 @@ updated:"2026-10-26" "France et Erwan"
 
 ###### Présentation de l'outil aux collectivités
 
-| Collectivité | Agent mobilisé | Date convenue | Réferent | Présentation validée? |
+| Collectivité | Agent mobilisé | Date convenue | Réfèrent | Présentation validée? |
 | :---: | :---: | :---: | :---: | :---: |
 | Saint-Sauveur | France | Value | Value | [?] Oui |
 | Montot| France | Value | Value | [?] Oui |
