@@ -10,7 +10,6 @@ journey:"Getting started"
 updated:"2026-10-27"
 -->
 # test home
-# Home
 
 yoooo
 
