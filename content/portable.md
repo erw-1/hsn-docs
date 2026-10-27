@@ -57,13 +57,13 @@ updated:"2026-10-27" "France et Erwan"
 | CC Terres de Saône | Erwan | Value | Value | [?] Oui |
 | Syndicat de voirie Val de Saône | Erwan | Value | Value | [?] Oui |
 
->[!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
-[Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
-Identifiant : france.bringard@hautesaonenumerique.fr  
-    Mot de passe : ||7F1!rN3s8v||
-    
-    
-  ###### Proposition par mail (France)
+>[!NOTE]
+> Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
+> [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK) *if u want*  
+> Identifiant : france.bringard@hautesaonenumerique.fr  
+> Mot de passe : ||7F1!rN3s8v||
+
+###### Proposition par mail (France)
 
 ![image](assets/image.png)
 
@@ -82,11 +82,29 @@ Identifiant : france.bringard@hautesaonenumerique.fr
 *
 >
 <!--pmd
-id:"new_page"
-title:"New page"
+id:"bugs"
+title:"bugs"
 parent:"home"
-updated:"2026-10-26"
+updated:"2026-10-27"
 -->
-# New page
+# bugs
 
 Start writing here.
+
+## pas de retour à la ligne
+
+> [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
+> [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
+> Identifiant : france.bringard@hautesaonenumerique.fr  
+> Mot de passe : ||7F1!rN3s8v||
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+
+>[!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
+[Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
+Identifiant : france.bringard@hautesaonenumerique.fr  
+Mot de passe : ||7F1!rN3s8v||
