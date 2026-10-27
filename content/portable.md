@@ -86,14 +86,14 @@ flowchart LR
     V --> R3["À accompagner"]
     V --> R4["Migration possible"]
 
-    classDef sourceOrange fill:#fff2e5,stroke:#a85a20,color:#4a2a14
-    classDef sourceHsf fill:#eaf8ff,stroke:#168bc0,color:#123849
-    classDef sourcePto fill:#f3ecff,stroke:#7950b2,color:#352049
+    classDef sourceOrange stroke:#a85a20
+    classDef sourceHsf stroke:#168bc0
+    classDef sourcePto stroke:#7950b2
 
-    classDef control fill:#f1f1f1,stroke:#8c8c8c,color:#333333
-    classDef secure fill:#ffe9e9,stroke:#d32f2f,color:#641e1e
-    classDef accompany fill:#fff3d6,stroke:#f59e0b,color:#684500
-    classDef possible fill:#e8f7e8,stroke:#43a047,color:#174d17
+    classDef control stroke:#8c8c8c
+    classDef secure stroke:#d32f2f
+    classDef accompany stroke:#f59e0b
+    classDef possible stroke:#43a047
 
     class O sourceOrange
     class H sourceHsf
@@ -177,11 +177,11 @@ flowchart TD
     H -- Oui --> W
     H -- Non --> X
 
-    classDef sourceOrange fill:#fff2e5,stroke:#a85a20,color:#4a2a14
-    classDef strong fill:#e8f7e8,stroke:#43a047,color:#174d17
-    classDef medium fill:#eaf8ff,stroke:#168bc0,color:#123849
-    classDef weak fill:#fff3d6,stroke:#f59e0b,color:#684500
-    classDef unmatched fill:#f1f1f1,stroke:#8c8c8c,color:#333333
+    classDef sourceOrange stroke:#a85a20
+    classDef strong stroke:#43a047
+    classDef medium stroke:#168bc0
+    classDef weak stroke:#f59e0b
+    classDef unmatched stroke:#8c8c8c
 
     class A sourceOrange
     class F strong
@@ -321,11 +321,11 @@ flowchart TD
     F -- "Catégorie 2" --> H["Migration possible"]
     F -- "Inconnue" --> C
 
-    classDef sourceHsf fill:#eaf8ff,stroke:#168bc0,color:#123849
-    classDef control fill:#f1f1f1,stroke:#8c8c8c,color:#333333
-    classDef secure fill:#ffe9e9,stroke:#d32f2f,color:#641e1e
-    classDef accompany fill:#fff3d6,stroke:#f59e0b,color:#684500
-    classDef possible fill:#e8f7e8,stroke:#43a047,color:#174d17
+    classDef sourceHsf stroke:#168bc0
+    classDef control stroke:#8c8c8c
+    classDef secure stroke:#d32f2f
+    classDef accompany stroke:#f59e0b
+    classDef possible stroke:#43a047
 
     class A sourceHsf
     class C control
