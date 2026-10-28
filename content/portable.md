@@ -15,12 +15,104 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
-> [Analyse Cuivre - Fibre](#/analyse_cuivre_fibre)  
-> [Suivi MT Voirie](#/suivi_mt_voirie)
+> [Analyse Cuivre - Fibre](#/technique/analyse_cuivre_fibre)  
+> [Suivi MT Voirie](#/communication/suivi_mt_voirie)
+<!--pmd
+id:"technique"
+title:"Technique"
+kind:"simple"
+parent:"home"
+updated:"2026-10-28"
+-->
+
+<!--pmd
+id:"communication"
+title:"Communication"
+parent:"home"
+updated:"2026-10-28"
+-->
+# Communication
+
+Start writing here.
+<!--pmd
+id:"suivi_mt_voirie"
+title:"Suivi MT Voirie"
+parent:"communication"
+updated:"2026-10-28" "France et Erwan"
+-->
+# Suivi MT Voirie
+
+> [!NOTE]  
+   Besoin d'accompagner les collectivités ayant souscrits à l'outil [Mon Territoire Voirie](https://monterritoire-voirie.geo70.fr/territory.php)
+
+#### ++Liste des collectivités++ 
+- Communes :
+    - Fresse (Code INSEE : 70256) 
+    - Montot (Code INSEE : 70368)
+    - Saint-Sauveur (Code INSEE : 70473)
+    - Ternuay-Melay-et-Saint-Hilaire (Code INSEE : 70498)
+    - Saint-Rémy-en-Comté (Code INSEE : 70472)
+ - EPCI :
+    - CC Pays de Villersexel (Code SIREN : 247000714)
+    - CC Terres de Saône (Code SIREN : 200041879)
+ - Syndicats :
+     - Syndicat de voirie du Val de Saône (Code SIREN : 257001537)
+
+---
+
+## Premières étapes de l'accompagnement
+1) Présentation de l'outil aux collectivités
+2) Formation des collectivités
+3) Distribution de documentation numérique
+
+
+##### Présentation de l'outil aux collectivités
+
+| Collectivité | Agent mobilisé | Date convenue | Réfèrent | Présentation validée? |
+| :---: | :---: | :---: | :---: | :---: |
+| Saint-Sauveur | France | Value | Value | [?] Oui |
+| Montot| France | Value | Value | [?] Oui |
+| Ternuay-Melay-et-Saint-Hilaire | France | Value | Value | [?] Oui |
+| Fresse | France | Value | Value | [?] Oui |
+| Saint-Rémy-en-Comté | France | Value | Value | [?] Oui |
+| CC Pays de Villersexel | France | Value | Value | [?] Oui |
+| CC Terres de Saône | Erwan | Value | Value | [?] Oui |
+| Syndicat de voirie Val de Saône | Erwan | Value | Value | [?] Oui |
+
+>[!NOTE]
+> Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
+> [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK) *if u want*  
+> Identifiant : france.bringard@hautesaonenumerique.fr  
+> Mot de passe : ||REDACTED||
+
+###### Proposition par mail (France)
+
+:::spoiler Click to reveal
+![image](assets/image.png)
+:::
+ 
+###### Proposition par mail (Erwan)  
+:::spoiler Click to reveal  
+![image-3](assets/image-3.png)
+:::  
+##### Formation des collectivités
+*
+
+
+
+
+
+
+
+
+
+
+*
+>
 <!--pmd
 id:"analyse_cuivre_fibre"
 title:"Analyse Cuivre - Fibre"
-parent:"home"
+parent:"technique"
 updated:"2026-10-27" "Erwan"
 -->
 
@@ -722,90 +814,6 @@ La couche n'a pas vocation à présenter une fiche détaillée. Elle explique vi
 - La situation PTO est agrégée à l'échelle de l'immeuble. Elle ne décrit pas individuellement chaque logement.
 - Les catégories de confiance Orange sont reprises telles quelles. Leur définition détaillée dépend de la documentation Orange.
 - Les classes de priorité sont des indicateurs d'aide à la décision et doivent rester vérifiables dans les trois groupes d'attributs HSN, HSF et Orange.
-<!--pmd
-id:"suivi_mt_voirie"
-title:"Suivi MT Voirie"
-parent:"home"
-updated:"2026-10-28" "France et Erwan"
--->
-# Suivi MT Voirie
-
-> [!NOTE]  
-   Besoin d'accompagner les collectivités ayant souscrits à l'outil [Mon Territoire Voirie](https://monterritoire-voirie.geo70.fr/territory.php)
-
-#### ++Liste des collectivités++ 
-- Communes :
-    - Fresse (Code INSEE : 70256) 
-    - Montot (Code INSEE : 70368)
-    - Saint-Sauveur (Code INSEE : 70473)
-    - Ternuay-Melay-et-Saint-Hilaire (Code INSEE : 70498)
-    - Saint-Rémy-en-Comté (Code INSEE : 70472)
- - EPCI :
-    - CC Pays de Villersexel (Code SIREN : 247000714)
-    - CC Terres de Saône (Code SIREN : 200041879)
- - Syndicats :
-     - Syndicat de voirie du Val de Saône (Code SIREN : 257001537)
-
----
-
-## Premières étapes de l'accompagnement
-1) Présentation de l'outil aux collectivités
-2) Formation des collectivités
-3) Distribution de documentation numérique
-
-
-##### Présentation de l'outil aux collectivités
-
-| Collectivité | Agent mobilisé | Date convenue | Réfèrent | Présentation validée? |
-| :---: | :---: | :---: | :---: | :---: |
-| Saint-Sauveur | France | Value | Value | [?] Oui |
-| Montot| France | Value | Value | [?] Oui |
-| Ternuay-Melay-et-Saint-Hilaire | France | Value | Value | [?] Oui |
-| Fresse | France | Value | Value | [?] Oui |
-| Saint-Rémy-en-Comté | France | Value | Value | [?] Oui |
-| CC Pays de Villersexel | France | Value | Value | [?] Oui |
-| CC Terres de Saône | Erwan | Value | Value | [?] Oui |
-| Syndicat de voirie Val de Saône | Erwan | Value | Value | [?] Oui |
-
->[!NOTE]
-> Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
-> [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK) *if u want*  
-> Identifiant : france.bringard@hautesaonenumerique.fr  
-> Mot de passe : ||REDACTED||
-
-###### Proposition par mail (France)
-
-:::spoiler Click to reveal
-![image](assets/image.png)
-:::
- 
-###### Proposition par mail (Erwan)  
-:::spoiler Click to reveal  
-![image-3](assets/image-3.png)
-:::  
-##### Formation des collectivités
-*
-
-
-
-
-
-
-
-
-
-
-*
->
-<!--pmd
-id:"new_page"
-title:"New page"
-parent:"suivi_mt_voirie"
-updated:"2026-10-28"
--->
-# New page
-
-Start writing here.
 <!--pmd
 id:"bugs"
 title:"bugs"
