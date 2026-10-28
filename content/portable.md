@@ -829,7 +829,7 @@ id:"bugs"
 title:"bugs"
 parent:"feedback_appli"
 updated:"2026-10-28"
-headingNumbers:"1.1.1."
+headingNumbers:"1.1.1.1.1.1.1."
 -->
 # bugs
 
@@ -851,11 +851,6 @@ Fixed :green_heart:
     > Identifiant : france.bringard@hautesaonenumerique.fr  
     > Mot de passe : ||REDACTED|| 
 :::
-
-  
-
-  
-
 
 
 
