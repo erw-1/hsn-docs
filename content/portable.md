@@ -1225,7 +1225,7 @@ Flight performed outside direct visual line of sight.
 
 ## aéronef
 
-todo
+Appareil capable de s'élever et de circuler dans l'atmosphère terrestre.
 <!--pmd
 id:"drone_intro"
 title:"Intro drones"
