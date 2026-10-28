@@ -11,7 +11,7 @@ updated:"2026-10-28"
 -->
 # home
 
- Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil.  
+Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil.  
 <!--pmd
 id:"analyse_cuivre_fibre"
 title:"Analyse Cuivre - Fibre"
