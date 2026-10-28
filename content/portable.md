@@ -845,7 +845,7 @@ Fixed :green_heart:
     > Identifiant : france.bringard@hautesaonenumerique.fr  
     > Mot de passe : ||REDACTED||  
   
- 2. Avant (pour le même code que fixed): 
+ 2. Avant (pour le même code que la version fixed): 
      > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau. [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
     > Identifiant : france.bringard@hautesaonenumerique.fr  
     > Mot de passe : ||REDACTED|| 
