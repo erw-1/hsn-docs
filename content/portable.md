@@ -812,29 +812,25 @@ updated:"2026-10-28" "France et Erwan"
 
 ##### Présentation de l'outil aux collectivités
 
-| Collectivité | Agent mobilisé | Date convenue | Réfèrent | Présentation validée? |
-| :---: | :---: | :---: | :---: | :---: |
-| Saint-Sauveur | France | Value | Value | [?] Oui |
-| Montot| France | Value | Value | [?] Oui |
-| Ternuay-Melay-et-Saint-Hilaire | France | Value | Value | [?] Oui |
-| Fresse | France | Value | Value | [?] Oui |
-| Saint-Rémy-en-Comté | France | Value | Value | [?] Oui |
-| CC Pays de Villersexel | France | Value | Value | [?] Oui |
-| CC Terres de Saône | Erwan | Value | Value | [?] Oui |
-| Syndicat de voirie Val de Saône | Erwan | Value | Value | [?] Oui |
+:::table Statut du déploiement
+| Collectivité | Agent mobilisé | Date convenue | Mail envoyé  | Réfèrent | Présentation validée? |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Saint-Sauveur | France | Value |Oui| Value | [?] Oui |
+| Montot | France | Value | Oui | Value | [?] Oui |
+| Ternuay-Melay-et-Saint-Hilaire | France | Value | Oui | Value | [?] Oui |
+| Fresse | France | Value | Oui | Value | [?] Oui |
+| Saint-Rémy-en-Comté | France | Value | Oui | Value | [?] Oui |
+| CC Pays de Villersexel | France | Value | Oui | Value | [?] Oui |
+| CC Terres de Saône | Erwan | Value | | Value | [?] Oui |
+| Syndicat de voirie Val de Saône | Erwan | Value | | Value | [?] Oui |
+:::
 
 >[!NOTE]
 > Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
 > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK) *if u want*  
 > Identifiant : france.bringard@hautesaonenumerique.fr  
-> Mot de passe : ||REDACTED||
+> Mot de passe : 
 
-###### Proposition par mail (France)
-
-:::spoiler Click to reveal
-![image](assets/image.png)
-:::
- 
 ###### Proposition par mail (Erwan)  
 :::spoiler Click to reveal  
 ![image-3](assets/image-3.png)
