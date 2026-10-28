@@ -833,17 +833,18 @@ updated:"2026-10-28"
 # bugs
 
 #### pas de retour à la ligne possible sur la première ligne d'une alerte GFM
-
+:::success
+Fixed :green_heart:
+:::  
+ 
 > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
 > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
 > Identifiant : france.bringard@hautesaonenumerique.fr  
 > Mot de passe : ||REDACTED||
+
   
-<br>
-<br>
-<br>
-<br>
-<br>
+
+  
 
 
 
