@@ -837,10 +837,19 @@ updated:"2026-10-28"
 Fixed :green_heart:
 :::  
  
+:::spoiler Bug :  
+fixed :  
 > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
 > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
 > Identifiant : france.bringard@hautesaonenumerique.fr  
-> Mot de passe : ||REDACTED||
+> Mot de passe : ||REDACTED||  
+  
+ Avant (pour le même code que fixed): 
+ > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.
+> [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
+> Identifiant : france.bringard@hautesaonenumerique.fr  
+> Mot de passe : ||REDACTED|| 
+:::
 
   
 
