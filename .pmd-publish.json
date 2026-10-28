@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "206000671240a82b58974669a2a122f7bed998deb93a90d379f5c3ec57069a99",
-      "git": "db0b34900d7756ad42af63913ba5e8197efee2b1"
+      "hash": "cbcfe5842cdc59e10f13017c8ff45191b4a08f3aeccb8839535a0fb03b92a514",
+      "git": "474abd02361ebec2c96453d8988874a082fe5f54"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "ebd733ec8c5d58fe6413af7c7f0e8ff039cac6d47a93561a784ccd1d1443f7a0",
-      "git": "565cb0ee9e19f29641422bc58afca9fcd003cc4d"
+      "hash": "777e274f67538f14a951d136fc7d9f6d5d851a6c7d89e8695d65fdaf8ddfa0c9",
+      "git": "f5303ba031e3b653ad85939b34b4149ed1ef4e68"
     },
     {
       "path": "content/assets/emojis/lien_hsf_confiance_faible.webp",
@@ -180,6 +180,11 @@
       "path": "content/assets/image-4.png",
       "hash": "c392deffd2577428ea7bd2075d68fd2d4f2bb851fd8a177ba94d58ccb52fb2ff",
       "git": "6475ac5b77c8af139d4bbf626b82c09a20527b5f"
+    },
+    {
+      "path": "content/assets/msedge_hliytfzfg8.mp4",
+      "hash": "64a1a224aa990b86aa09a07d9ac963e622b12ca68128cf158e0dd028ec149bcc",
+      "git": "43773d571b17f3f6aaabbb8db3ed1e625e1b6668"
     }
   ]
 }

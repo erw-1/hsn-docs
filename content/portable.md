@@ -145,7 +145,9 @@ La couche principale associe une adresse cuivre Orange à l’adresse fibre HSF 
 
 ![image-4](assets/image-4.png)
 
-[TODO] Ajouter une courte vidéo montrant le parcours utilisateur : ouvrir un point HSF, parcourir les trois onglets, puis comparer les coordonnées HSF et Orange.
+:::figure Parcours utilisateur de l'analyse 
+![msedge_hliytfzfg8](assets/msedge_hliytfzfg8.mp4)
+:::
 
 ## 2. Données utilisées
 
