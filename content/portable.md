@@ -814,18 +814,20 @@ La couche n'a pas vocation à présenter une fiche détaillée. Elle explique vi
 - Les catégories de confiance Orange sont reprises telles quelles. Leur définition détaillée dépend de la documentation Orange.
 - Les classes de priorité sont des indicateurs d'aide à la décision et doivent rester vérifiables dans les trois groupes d'attributs HSN, HSF et Orange.
 <!--pmd
-id:"new_page"
-title:"New page"
+id:"feedback_appli"
+title:"Feedback appli"
 parent:"home"
 updated:"2026-10-28"
 -->
 # Feedback appli
 
-Une page "parente" peut avoir du contenu.
+Une page "parente" peut avoir du contenu. Les dossiers comme [Technique](#/technique) jouent le même rôle qu'un parent mais n'ont pas de contenu.
+ 
+[bugs](#/feedback_appli/bugs)
 <!--pmd
 id:"bugs"
 title:"bugs"
-parent:"new_page"
+parent:"feedback_appli"
 updated:"2026-10-27"
 -->
 # bugs
