@@ -814,9 +814,18 @@ La couche n'a pas vocation à présenter une fiche détaillée. Elle explique vi
 - Les catégories de confiance Orange sont reprises telles quelles. Leur définition détaillée dépend de la documentation Orange.
 - Les classes de priorité sont des indicateurs d'aide à la décision et doivent rester vérifiables dans les trois groupes d'attributs HSN, HSF et Orange.
 <!--pmd
+id:"new_page"
+title:"New page"
+parent:"home"
+updated:"2026-10-28"
+-->
+# Feedback appli
+
+Une page "parente" peut avoir du contenu.
+<!--pmd
 id:"bugs"
 title:"bugs"
-parent:"home"
+parent:"new_page"
 updated:"2026-10-27"
 -->
 # bugs
