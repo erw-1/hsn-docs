@@ -9,7 +9,7 @@ tags:"start"
 journey:"Getting started"
 updated:"2026-10-28"
 -->
-# home
+# Accueil
 
 Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil.  
 
