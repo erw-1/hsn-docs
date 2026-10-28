@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "10ab743471e262e489fea150a4df6e6ec7f32edd9c30e6da9261b487715593f1",
-      "git": "90de93698eac91c0af509769f52f2c8112d47691"
+      "hash": "30f0d0dd39ef986f6cb5f4104a1d936faec65742f5b4a4afa615c6a9d36ed986",
+      "git": "9fe0f3a3e8ce0c35095a6a17ce6ecb65e665bf36"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "7354c81e060b82197550d6d77e6de9ea8c0d08739824353325d265baffeec29b",
-      "git": "f910849aabcd71baf8c86c8e92487f4f462d998d"
+      "hash": "e3e6de4db5eafff45278699dff6bf794cb02493a42ff135fa723b449dbc70af1",
+      "git": "c5844f8558015a213c4f0318abd4362f239fafd9"
     },
     {
       "path": "content/assets/emojis/lien_hsf_confiance_faible.webp",
@@ -185,6 +185,11 @@
       "path": "content/assets/msedge_hliytfzfg8.mp4",
       "hash": "64a1a224aa990b86aa09a07d9ac963e622b12ca68128cf158e0dd028ec149bcc",
       "git": "43773d571b17f3f6aaabbb8db3ed1e625e1b6668"
+    },
+    {
+      "path": "content/assets/msedge_yxhxua0cmq-ezgif.com-video-cutter.mp4",
+      "hash": "55a558e2cca19c88871fd4e92fa443cbd37a106169c4cc22549f02a9362f450f",
+      "git": "50824fcbe7fdf673e0c6cb66e871990fbda1ef6a"
     }
   ]
 }

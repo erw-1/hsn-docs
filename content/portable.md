@@ -632,7 +632,9 @@ Les deux couches de lignes n’ont pas de fiche de consultation. Leur distance e
 
 :::
 
-
+:::figure Nommage des champs de l'analyse cuivre sur Aramis
+![msedge_yxhxua0cmq-ezgif.com-video-cutter](assets/msedge_yxhxua0cmq-ezgif.com-video-cutter.mp4)
+:::
 
 ## 6. Convention de nommage des champs
 
