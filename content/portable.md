@@ -816,14 +816,14 @@ La couche n'a pas vocation à présenter une fiche détaillée. Elle explique vi
 <!--pmd
 id:"feedback_appli"
 title:"Feedback appli"
-parent:"home"
+parent:"technique"
 updated:"2026-10-28"
 -->
 # Feedback appli
 
 Une page "parente" peut avoir du contenu. Les dossiers comme "`Technique`" jouent le même rôle qu'un parent mais n'ont pas de contenu.
  
-[bugs](#/feedback_appli/bugs)
+Page enfant de cette page parente : [bugs](#/technique/feedback_appli/bugs)
 <!--pmd
 id:"bugs"
 title:"bugs"
