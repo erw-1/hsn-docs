@@ -821,7 +821,7 @@ updated:"2026-10-28"
 -->
 # Feedback appli
 
-Une page "parente" peut avoir du contenu. Les dossiers comme [Technique](#/technique) jouent le même rôle qu'un parent mais n'ont pas de contenu.
+Une page "parente" peut avoir du contenu. Les dossiers comme "`Technique`" jouent le même rôle qu'un parent mais n'ont pas de contenu.
  
 [bugs](#/feedback_appli/bugs)
 <!--pmd
