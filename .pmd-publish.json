@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "593568fd37ab5369fbe00661883d9e02fab9b0a877779746bf8220f87ac508a7",
-      "git": "46dac0eea5e41c03eb17574ec693d4b45c5b5d0a"
+      "hash": "9af087d86e0e2aa7c901b106e464e1b770b5a3629063cdb06cc4ac210e9a84bc",
+      "git": "8dea7b36e3c8fb9ec05fad2c247c9ac59b52e384"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "5e02fc22360dd18e941eb57cca8780b20b82fbf0008fe94cdb8e296ecf5f0819",
-      "git": "96d7029be7ce8a8cbd6739e652fe1db27925a02e"
+      "hash": "fe886b828acd7ffd49393fa9c6816fc89f1a1583e08ca6b0f63ae75c8cc26e8e",
+      "git": "a8c9e85f5dbde20c6fe6b41b1498432a759e0877"
     },
     {
       "path": "content/assets/emojis/lien_hsf_confiance_faible.webp",
