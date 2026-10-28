@@ -828,13 +828,11 @@ Page enfant de cette page parente : [bugs](#/technique/feedback_appli/bugs)
 id:"bugs"
 title:"bugs"
 parent:"feedback_appli"
-updated:"2026-10-27"
+updated:"2026-10-28"
 -->
 # bugs
 
-Start writing here.
-
-## pas de retour à la ligne
+## pas de retour à la ligne possible sur la première ligne d'une alerte 
 
 > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
 > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
@@ -847,10 +845,7 @@ Start writing here.
 <br>
 <br>
 
->[!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
-[Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
-Identifiant : france.bringard@hautesaonenumerique.fr  
-Mot de passe : ||REDACTED||
+
 
 
 
