@@ -229,7 +229,6 @@ Les lignes sont des objets d'analyse. Elles représentent un déplacement géogr
 <center><img src="assets/image-2.png" alt="Exemple de points cuivre et fibre reliés par des lignes de comparaison portant leur distance." width="694"></center>
 :::
 
-[TODO] Remplacer cet aperçu QGIS par une capture définitive de Mon Territoire Carto lorsque la symbologie et les noms de couches seront validés en production.
 
 ## 4. Chaîne de traitement
 
