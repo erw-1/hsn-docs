@@ -6,7 +6,6 @@ id:"home"
 title:"Home"
 kind:"home"
 tags:"start"
-journey:"Getting started"
 updated:"2026-10-28"
 -->
 # Accueil
