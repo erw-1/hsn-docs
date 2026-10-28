@@ -28,12 +28,11 @@ updated:"2026-10-28"
 <!--pmd
 id:"communication"
 title:"Communication"
+kind:"simple"
 parent:"home"
 updated:"2026-10-28"
 -->
-# Communication
 
-Start writing here.
 <!--pmd
 id:"suivi_mt_voirie"
 title:"Suivi MT Voirie"
