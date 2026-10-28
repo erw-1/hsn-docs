@@ -726,7 +726,7 @@ La couche n'a pas vocation à présenter une fiche détaillée. Elle explique vi
 id:"suivi_mt_voirie"
 title:"Suivi MT Voirie"
 parent:"home"
-updated:"2026-10-27" "France et Erwan"
+updated:"2026-10-28" "France et Erwan"
 -->
 # Suivi MT Voirie
 
@@ -775,8 +775,14 @@ updated:"2026-10-27" "France et Erwan"
 
 ###### Proposition par mail (France)
 
+:::spoiler Click to reveal
 ![image](assets/image.png)
-
+:::
+ 
+###### Proposition par mail (Erwan)  
+:::spoiler Click to reveal  
+![image-3](assets/image-3.png)
+:::  
 ##### Formation des collectivités
 *
 
