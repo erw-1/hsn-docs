@@ -798,6 +798,15 @@ updated:"2026-10-28" "France et Erwan"
 *
 >
 <!--pmd
+id:"new_page"
+title:"New page"
+parent:"suivi_mt_voirie"
+updated:"2026-10-28"
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id:"bugs"
 title:"bugs"
 parent:"home"
