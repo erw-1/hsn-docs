@@ -829,6 +829,7 @@ id:"bugs"
 title:"bugs"
 parent:"feedback_appli"
 updated:"2026-10-28"
+headingNumbers:"1.1.1."
 -->
 # bugs
 
@@ -837,18 +838,18 @@ updated:"2026-10-28"
 Fixed :green_heart:
 :::  
  
-:::spoiler Bug :  
-fixed :  
-> [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
-> [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
-> Identifiant : france.bringard@hautesaonenumerique.fr  
-> Mot de passe : ||REDACTED||  
+:::spoiler Détails  
+1. fixed :  
+    > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.  
+    > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
+    > Identifiant : france.bringard@hautesaonenumerique.fr  
+    > Mot de passe : ||REDACTED||  
   
- Avant (pour le même code que fixed): 
- > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.
-> [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
-> Identifiant : france.bringard@hautesaonenumerique.fr  
-> Mot de passe : ||REDACTED|| 
+ 2. Avant (pour le même code que fixed): 
+     > [!NOTE] Mise en place d'un sondage pour que les participants puissent choisir leur créneau.
+    > [Lien du sondage (France)](https://rallly.co/invite/us9IMeMAQ7mK)  *if u want*  
+    > Identifiant : france.bringard@hautesaonenumerique.fr  
+    > Mot de passe : ||REDACTED|| 
 :::
 
   
