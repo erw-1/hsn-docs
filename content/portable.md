@@ -7,12 +7,11 @@ title:"Home"
 kind:"home"
 tags:"start"
 journey:"Getting started"
-updated:"2026-10-27"
+updated:"2026-10-28"
 -->
 # home
 
-
-test
+ Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil.
 <!--pmd
 id:"analyse_cuivre_fibre"
 title:"Analyse Cuivre - Fibre"
