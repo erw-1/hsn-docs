@@ -632,7 +632,7 @@ Les deux couches de lignes n’ont pas de fiche de consultation. Leur distance e
 
 :::
 
-[TODO] Ajouter une capture de la fiche de consultation HSF dans Mon Territoire Carto avec les trois onglets visibles et un exemple d’adresse renseignée.
+
 
 ## 6. Convention de nommage des champs
 
