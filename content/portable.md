@@ -111,7 +111,7 @@ updated:"2026-10-28" "France et Erwan"
 id:"analyse_cuivre_fibre"
 title:"Analyse Cuivre - Fibre"
 parent:"technique"
-updated:"2026-10-27" "Erwan"
+updated:"2026-10-28" "Erwan"
 -->
 
 # Analyse des accès cuivre actifs et de leur situation fibre
@@ -143,7 +143,7 @@ La couche principale associe une adresse cuivre Orange à l’adresse fibre HSF 
 | :lien_orange_categorie_1: | Déplacement entre les coordonnées cuivre et fibre Orange |
 | :lien_hsf_confiance_forte: | Lien entre l’adresse cuivre et le point HSF retenu |
 
-[TODO] Ajouter une capture de Mon Territoire Carto à une échelle locale montrant simultanément les trois points, les deux liens et les étiquettes de distance.
+![image-4](assets/image-4.png)
 
 [TODO] Ajouter une courte vidéo montrant le parcours utilisateur : ouvrir un point HSF, parcourir les trois onglets, puis comparer les coordonnées HSF et Orange.
 
