@@ -42,14 +42,16 @@ updated:"2026-10-28" "Erwan"
 
 # Analyse des accès cuivre actifs et de leur situation fibre
 
-==Localisation du projet:==
+==Localisation du projet==
 ```txt
 \\cg70.intra\hsn\technique HSN\500_SIG\030_FME\015_analyse_cuivre_fibre_orange_hsf
 ```
 
 ## 1. Objectif du projet
 
-Le projet vise à localiser les adresses disposant encore d'au moins un accès cuivre actif, à les rapprocher des données fibre disponibles, puis à qualifier leur niveau de préparation à la migration vers la fibre.
+Ce projet vise à localiser les adresses disposant encore d'au moins un accès cuivre actif, à les rapprocher des données fibre disponibles, puis à qualifier leur niveau de préparation à la migration vers la fibre.
+
+Test
 
 Le résultat constitue une aide à l'analyse pour HSN, HSF et les collectivités. Il doit permettre de distinguer rapidement :
 
