@@ -13,10 +13,10 @@ updated:"2026-10-28"
 
 Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil.  
 
-> [!NOTE]
+> [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
-> - [Analyse Cuivre - Fibre](#/analyse_cuivre_fibre)  
-> - [Suivi MT Voirie](#/suivi_mt_voirie)
+> [Analyse Cuivre - Fibre](#/analyse_cuivre_fibre)  
+> [Suivi MT Voirie](#/suivi_mt_voirie)
 <!--pmd
 id:"analyse_cuivre_fibre"
 title:"Analyse Cuivre - Fibre"
