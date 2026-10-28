@@ -1213,7 +1213,7 @@ Précision demandée pour le livrable = ==~ 3x GSD==
 id:"km_glossary"
 title:"Glossaire"
 kind:"glossary"
-updated:"2026-08-13"
+updated:"2026-10-28"
 -->
 
 # Glossaire
@@ -1225,8 +1225,7 @@ Flight performed outside direct visual line of sight.
 
 ## aéronef
 
-truc qui fly
-
+todo
 <!--pmd
 id:"drone_intro"
 title:"Intro drones"
