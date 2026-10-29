@@ -891,6 +891,10 @@ updated:"2026-10-29"
 # Feedback appli
 
 Une page "parente" peut avoir du contenu. Les dossiers comme "`Technique`" jouent le même rôle qu'un parent mais n'ont pas de contenu.
+
+hello from github (test autopull)  
+Coucou depuis l'outil (test autosave)
+
  
 Page enfant de cette page parente : [bugs](#/feedback_appli/bugs)
 <!--pmd
