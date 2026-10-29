@@ -10,17 +10,13 @@ updated:"2026-10-29"
 -->
 # Accueil
 
-Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil [Feedback ici](#/feedback_appli).
-
+Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil[Feedback ici](#/feedback_appli).
 
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
 > [Analyse Cuivre - Fibre](#/technique/sig/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/communication/suivi_mt_voirie)
-
-hello from github (test autopull)
-
 
 
 <!--pmd
