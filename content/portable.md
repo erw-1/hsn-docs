@@ -17,102 +17,6 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > [Analyse Cuivre - Fibre](#/technique/sig/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/communication/suivi_mt_voirie)
 <!--pmd
-id:"todolist"
-title:"Todolist (à mettre à jour)"
-parent:"home"
-updated:"2026-10-29"
--->
-
-# Todolist (à mettre à jour)
-
-
-
-- ==**1. Mise en service de l’appli SPANC avec intégration de collectivités en autonomie**==
-
-    - Erwan : Flux API, doc SPANC et synchronisation journalière fiabilisés  
-    - Audit ergonomie carto : prise en compte ==partielle== des retours 
-        - ![image](https://hackmd.io/_uploads/r1LpAhcPMx.png)
-        - ![image](https://hackmd.io/_uploads/SJ-CA3cwGe.png)
-    - Encore des bugs, pas d'historisation des ANC, pas de moyen de supprimer des contrôles, vocabulaire : "Liste des ANC par contrôle" = liste des contrôles.
-    - ![image](https://hackmd.io/_uploads/SkC616cDfx.png) ![image](https://hackmd.io/_uploads/SJrlgTcPGe.png) Pas d'ANC alors que j'ai tous les scopes.
-    - France : mise en commun des notes de la CCRC avec Pauline, tests multiples sur les beugs (impossible à refaire), RDV avec CCMC / CCMG début septembre 
-
-- ==2. Mise en service de l’appli Réseaux humides avec intégration de collectivités en autonomie==
-        - Point avec Erwan pour ajouter les données de la CAV (en amont du rdv du 3 septembre) prévu le 26/08 à 15h
-
-- ==3. Mise en service de l’appli SIPR avec intégration de collectivités en autonomie==
-    - France : en attente du retour de Nicolas (SOGEFI) suite à son retour de congés pour prévoir les temps de formation
-
-- ==4. Finalisation de l’intrication de l’appli « réseaux humides » dans l’environnement ERIDANIS==
-    - France : chantier à voir en plusieurs temps, déjà stabiliser la diffusion du module seul (SOGEFI), ensuite mise en place de liens, puis voir l'applicatif comme un ensemble (modifications chez SOGEFI <> ERIDANIS)
-    - Erwan : proposition de faire un lien Géoter "alternatif" si l'utilisateur a souscrit aux réseaux humides "Géoter + module réseau humides"
-    - Mise en place des liens à étudier en fonction de la réalité logicielle une fois que le module sogefi est maîtrisé.
-
-- ==5. Finalisation de l’intrication de l’appli « SIPR » dans l’environnement ERIDANIS==
-    - Erwan : idem que pour les réseaux humides.
-
-- ==6. Mise en place des API quotidiennes pour les cas d’usages IOT + réseaux humides + SIPR entre ERIDANIS et SOGEFI==
-    - En attente des accès API (cf. dernier point Eridanis)
-    - Le modèle de documentation validé (spanc) ne se retrouve pas dans les autres documentations.
-
-- ==7. Mise en service de l’appli « ADS » avec intégration de collectivités en autonomie==
-        - France/Erwan : visio prévu avec les deux agents ADS de la CAV le 25/08 à 14h
-
-- ==8. Elargissement de couches de données sur GEOTER (ARS,…)==
-    - France : publication prévue très prochainement, voire pour ajouter les emplacements des captages en +
-    - Erwan : chantiers pour étude et intégration de 5+ jeux de données de la DSSP + des instances publiques pour les usagers
-
-- ==9. Accompagnement aux rapprochements des SIG entre HSN et SIED + HSN et SDIS==
-    - France/Erwan/Cyril : rdv avec le SIED prévu début septembre, quid pour le SDIS? 
-
-- ==10. Accompagnement du Dépt 70 sur GEOTER==
-    - Accompagnements en cours (DSSP), 4 chantiers initiés
-        - 1) Mise en place d'une carte interactive contenants multiples données de la DSSP transmises par AS ZBINDEN intégrées par Erwan
-        - 2) France : Démonstration prévue le 7 septembre à 11h auprès des responsables d'équipes et chefs de service, but : prouver l'intêret de GEOTER sur les données récemment intégrées // diffusion des 35 comptes à la suite de ce rdv
-        - 3) RDV le 1^er^ septembre avec Mesdames COME et BELIN (service autonomie DSSP) pour la mise en place d'un annuaire sur geoter 
-        - 4) Mises à jour des cartes statiques des emplacements des CMS + N° de téléphone
-
-- ==11. Mise en service de METASHAPE + nouvelles captations de données + travail sur intégration des jumeaux numériques au sein de la plateforme==
-    - Erwan/France : fiabilisation de la méthode pour automatisation en cours, ateliers hebdomadaires d'au moins un après-midi
-    - Problème : un traitement complet prend presque une journée, chaque étape prend au moins une heure et ralentit fortement le PC
-        - Récupérer notre machine de calcul au SSIR et transférer une licence metashape serait opportun : sa puissance accrue accélèrerait le processus et libérerait nos pc portables
-    - R&D sur le passage du modèle 3D à un jumeau numérique accessible en ligne : un service prometteur https://nira.app/
-
-- ==Participation à la stratégie « DATA » de HSN dans le cadre du rapatriement de ses données (schéma directeur + mise en œuvre)==
-    - Erwan : prêt à participer à la stratégie et à arbitrer la construction du datalake dès que je connaitrai les directives et les objectifs
-
-- ==Participation à la stratégie « IA » de HSN (schéma directeur + mise en œuvre)==
-    - Erwan : Prêt à la participation à la stratégie IA.
-    - J'aimerais reprendre le travail de Xavier pour voir si on peut bâtir dessus. Et si on peut l'intégrer en local en récupérant notre machine IA aujourd'hui au SSIR.
-
-- ==autres points==
-    - Partagés :
-        - Sorties drones à organiser
-        - Veille sur les sujets Data/IA pour bien suivre nos futurs alternants
-        - Préparation Concours ingénieur / dossier / commission d'équivalence
-        - Veille réglementaire drone pour que le manex reste à jour
-    - Erwan :
-        - idée catalogue de service : ajouter une ligne pour la création d'instance Géoter (lien unique avec une vue configurable, cf carte CN embarquée sur le site) avec prix dépendant de la taille du public concerné.
-        - Reprise NearAI post congés / maladie
-        - Reprise Panoramax
-        - Raster
-        - "Gopro++"
-        - Veille et R&D jumeaux numériques (splats etc)
-        - Mise à jour Lizmap : le SSIR a passé les VM sur la nouvelle infra sans nous le dire (d'après Joffrey)
-        - Demandes de developpement multiples sur la bourse forestière pour la DDACT
-        - Nouveau cadastre : mise à jour de la bourse forestière à faire
-        - Applicatif RODP à faire quand lizmap sera à jour
-        - Application de documentation
-        - Carte + dataviz sur l'avancement panoramax sur site web hsn
-        - Carte sur la fibre sur le site web hsn
-        - R&D sur FME FLOW (remplacement GTF) point avec Loïc
-        - Carte(s) pour Joffrey : Réseau de collecte + NRO + Antennes Lora
-    - France :
-        - voir pour reprise de l'astreinte en septembre, intégration de Julie (majorité des applicatifs sont IoT)? 
-        -
-
-
-<!--pmd
 id:"technique"
 title:"Technique"
 kind:"simple"
@@ -880,6 +784,102 @@ kind:"simple"
 parent:"home"
 updated:"2026-10-28"
 -->
+
+<!--pmd
+id:"todolist"
+title:"Todolist (à mettre à jour)"
+parent:"home"
+updated:"2026-10-29"
+-->
+
+# Todolist (à mettre à jour)
+
+
+
+- ==**1. Mise en service de l’appli SPANC avec intégration de collectivités en autonomie**==
+
+    - Erwan : Flux API, doc SPANC et synchronisation journalière fiabilisés  
+    - Audit ergonomie carto : prise en compte ==partielle== des retours 
+        - ![image](https://hackmd.io/_uploads/r1LpAhcPMx.png)
+        - ![image](https://hackmd.io/_uploads/SJ-CA3cwGe.png)
+    - Encore des bugs, pas d'historisation des ANC, pas de moyen de supprimer des contrôles, vocabulaire : "Liste des ANC par contrôle" = liste des contrôles.
+    - ![image](https://hackmd.io/_uploads/SkC616cDfx.png) ![image](https://hackmd.io/_uploads/SJrlgTcPGe.png) Pas d'ANC alors que j'ai tous les scopes.
+    - France : mise en commun des notes de la CCRC avec Pauline, tests multiples sur les beugs (impossible à refaire), RDV avec CCMC / CCMG début septembre 
+
+- ==2. Mise en service de l’appli Réseaux humides avec intégration de collectivités en autonomie==
+        - Point avec Erwan pour ajouter les données de la CAV (en amont du rdv du 3 septembre) prévu le 26/08 à 15h
+
+- ==3. Mise en service de l’appli SIPR avec intégration de collectivités en autonomie==
+    - France : en attente du retour de Nicolas (SOGEFI) suite à son retour de congés pour prévoir les temps de formation
+
+- ==4. Finalisation de l’intrication de l’appli « réseaux humides » dans l’environnement ERIDANIS==
+    - France : chantier à voir en plusieurs temps, déjà stabiliser la diffusion du module seul (SOGEFI), ensuite mise en place de liens, puis voir l'applicatif comme un ensemble (modifications chez SOGEFI <> ERIDANIS)
+    - Erwan : proposition de faire un lien Géoter "alternatif" si l'utilisateur a souscrit aux réseaux humides "Géoter + module réseau humides"
+    - Mise en place des liens à étudier en fonction de la réalité logicielle une fois que le module sogefi est maîtrisé.
+
+- ==5. Finalisation de l’intrication de l’appli « SIPR » dans l’environnement ERIDANIS==
+    - Erwan : idem que pour les réseaux humides.
+
+- ==6. Mise en place des API quotidiennes pour les cas d’usages IOT + réseaux humides + SIPR entre ERIDANIS et SOGEFI==
+    - En attente des accès API (cf. dernier point Eridanis)
+    - Le modèle de documentation validé (spanc) ne se retrouve pas dans les autres documentations.
+
+- ==7. Mise en service de l’appli « ADS » avec intégration de collectivités en autonomie==
+        - France/Erwan : visio prévu avec les deux agents ADS de la CAV le 25/08 à 14h
+
+- ==8. Elargissement de couches de données sur GEOTER (ARS,…)==
+    - France : publication prévue très prochainement, voire pour ajouter les emplacements des captages en +
+    - Erwan : chantiers pour étude et intégration de 5+ jeux de données de la DSSP + des instances publiques pour les usagers
+
+- ==9. Accompagnement aux rapprochements des SIG entre HSN et SIED + HSN et SDIS==
+    - France/Erwan/Cyril : rdv avec le SIED prévu début septembre, quid pour le SDIS? 
+
+- ==10. Accompagnement du Dépt 70 sur GEOTER==
+    - Accompagnements en cours (DSSP), 4 chantiers initiés
+        - 1) Mise en place d'une carte interactive contenants multiples données de la DSSP transmises par AS ZBINDEN intégrées par Erwan
+        - 2) France : Démonstration prévue le 7 septembre à 11h auprès des responsables d'équipes et chefs de service, but : prouver l'intêret de GEOTER sur les données récemment intégrées // diffusion des 35 comptes à la suite de ce rdv
+        - 3) RDV le 1^er^ septembre avec Mesdames COME et BELIN (service autonomie DSSP) pour la mise en place d'un annuaire sur geoter 
+        - 4) Mises à jour des cartes statiques des emplacements des CMS + N° de téléphone
+
+- ==11. Mise en service de METASHAPE + nouvelles captations de données + travail sur intégration des jumeaux numériques au sein de la plateforme==
+    - Erwan/France : fiabilisation de la méthode pour automatisation en cours, ateliers hebdomadaires d'au moins un après-midi
+    - Problème : un traitement complet prend presque une journée, chaque étape prend au moins une heure et ralentit fortement le PC
+        - Récupérer notre machine de calcul au SSIR et transférer une licence metashape serait opportun : sa puissance accrue accélèrerait le processus et libérerait nos pc portables
+    - R&D sur le passage du modèle 3D à un jumeau numérique accessible en ligne : un service prometteur https://nira.app/
+
+- ==Participation à la stratégie « DATA » de HSN dans le cadre du rapatriement de ses données (schéma directeur + mise en œuvre)==
+    - Erwan : prêt à participer à la stratégie et à arbitrer la construction du datalake dès que je connaitrai les directives et les objectifs
+
+- ==Participation à la stratégie « IA » de HSN (schéma directeur + mise en œuvre)==
+    - Erwan : Prêt à la participation à la stratégie IA.
+    - J'aimerais reprendre le travail de Xavier pour voir si on peut bâtir dessus. Et si on peut l'intégrer en local en récupérant notre machine IA aujourd'hui au SSIR.
+
+- ==autres points==
+    - Partagés :
+        - Sorties drones à organiser
+        - Veille sur les sujets Data/IA pour bien suivre nos futurs alternants
+        - Préparation Concours ingénieur / dossier / commission d'équivalence
+        - Veille réglementaire drone pour que le manex reste à jour
+    - Erwan :
+        - idée catalogue de service : ajouter une ligne pour la création d'instance Géoter (lien unique avec une vue configurable, cf carte CN embarquée sur le site) avec prix dépendant de la taille du public concerné.
+        - Reprise NearAI post congés / maladie
+        - Reprise Panoramax
+        - Raster
+        - "Gopro++"
+        - Veille et R&D jumeaux numériques (splats etc)
+        - Mise à jour Lizmap : le SSIR a passé les VM sur la nouvelle infra sans nous le dire (d'après Joffrey)
+        - Demandes de developpement multiples sur la bourse forestière pour la DDACT
+        - Nouveau cadastre : mise à jour de la bourse forestière à faire
+        - Applicatif RODP à faire quand lizmap sera à jour
+        - Application de documentation
+        - Carte + dataviz sur l'avancement panoramax sur site web hsn
+        - Carte sur la fibre sur le site web hsn
+        - R&D sur FME FLOW (remplacement GTF) point avec Loïc
+        - Carte(s) pour Joffrey : Réseau de collecte + NRO + Antennes Lora
+    - France :
+        - voir pour reprise de l'astreinte en septembre, intégration de Julie (majorité des applicatifs sont IoT)? 
+        -
+
 
 <!--pmd
 id:"feedback_appli"
