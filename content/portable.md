@@ -6,16 +6,19 @@ id:"home"
 title:"Home"
 kind:"home"
 tags:"start"
-updated:"2026-10-28"
+updated:"2026-10-29"
 -->
 # Accueil
 
-Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil.  
+Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil. 
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
 > [Analyse Cuivre - Fibre](#/technique/sig/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/communication/suivi_mt_voirie)
+
+
+
 <!--pmd
 id:"technique"
 title:"Technique"
