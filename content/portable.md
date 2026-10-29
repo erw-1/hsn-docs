@@ -753,7 +753,7 @@ La couche n'a pas vocation à présenter une fiche détaillée. Elle explique vi
 id:"drone"
 title:"Drones (à remettre au propre)"
 parent:"technique"
-updated:"2026-10-28" "Update 43 (PvP rework)"
+updated:"2026-10-28"
 -->
 
 # Drones (à remettre au propre)
