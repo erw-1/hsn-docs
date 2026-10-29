@@ -10,7 +10,9 @@ updated:"2026-10-29"
 -->
 # Accueil
 
-Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil [Link text](#/)
+Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil [Feedback ici](#/feedback_appli).
+
+
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
@@ -18,6 +20,8 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > [Suivi MT Voirie](#/communication/suivi_mt_voirie)
 
 hello from github (test autopull)
+
+
 
 <!--pmd
 id:"technique"
