@@ -794,8 +794,6 @@ updated:"2026-10-29"
 
 # Todolist (à mettre à jour)
 
-
-
 - ==**1. Mise en service de l’appli SPANC avec intégration de collectivités en autonomie**==
 
     - Erwan : Flux API, doc SPANC et synchronisation journalière fiabilisés  
