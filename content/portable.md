@@ -10,7 +10,7 @@ updated:"2026-10-29"
 -->
 # Accueil
 
-Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil. 
+Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil [Link text](#/)
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
