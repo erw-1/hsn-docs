@@ -17,6 +17,102 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > [Analyse Cuivre - Fibre](#/technique/sig/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/communication/suivi_mt_voirie)
 <!--pmd
+id:"todolist"
+title:"Todolist (à mettre à jour)"
+parent:"home"
+updated:"2026-10-29"
+-->
+
+# Todolist (à mettre à jour)
+
+
+
+- ==**1. Mise en service de l’appli SPANC avec intégration de collectivités en autonomie**==
+
+    - Erwan : Flux API, doc SPANC et synchronisation journalière fiabilisés  
+    - Audit ergonomie carto : prise en compte ==partielle== des retours 
+        - ![image](https://hackmd.io/_uploads/r1LpAhcPMx.png)
+        - ![image](https://hackmd.io/_uploads/SJ-CA3cwGe.png)
+    - Encore des bugs, pas d'historisation des ANC, pas de moyen de supprimer des contrôles, vocabulaire : "Liste des ANC par contrôle" = liste des contrôles.
+    - ![image](https://hackmd.io/_uploads/SkC616cDfx.png) ![image](https://hackmd.io/_uploads/SJrlgTcPGe.png) Pas d'ANC alors que j'ai tous les scopes.
+    - France : mise en commun des notes de la CCRC avec Pauline, tests multiples sur les beugs (impossible à refaire), RDV avec CCMC / CCMG début septembre 
+
+- ==2. Mise en service de l’appli Réseaux humides avec intégration de collectivités en autonomie==
+        - Point avec Erwan pour ajouter les données de la CAV (en amont du rdv du 3 septembre) prévu le 26/08 à 15h
+
+- ==3. Mise en service de l’appli SIPR avec intégration de collectivités en autonomie==
+    - France : en attente du retour de Nicolas (SOGEFI) suite à son retour de congés pour prévoir les temps de formation
+
+- ==4. Finalisation de l’intrication de l’appli « réseaux humides » dans l’environnement ERIDANIS==
+    - France : chantier à voir en plusieurs temps, déjà stabiliser la diffusion du module seul (SOGEFI), ensuite mise en place de liens, puis voir l'applicatif comme un ensemble (modifications chez SOGEFI <> ERIDANIS)
+    - Erwan : proposition de faire un lien Géoter "alternatif" si l'utilisateur a souscrit aux réseaux humides "Géoter + module réseau humides"
+    - Mise en place des liens à étudier en fonction de la réalité logicielle une fois que le module sogefi est maîtrisé.
+
+- ==5. Finalisation de l’intrication de l’appli « SIPR » dans l’environnement ERIDANIS==
+    - Erwan : idem que pour les réseaux humides.
+
+- ==6. Mise en place des API quotidiennes pour les cas d’usages IOT + réseaux humides + SIPR entre ERIDANIS et SOGEFI==
+    - En attente des accès API (cf. dernier point Eridanis)
+    - Le modèle de documentation validé (spanc) ne se retrouve pas dans les autres documentations.
+
+- ==7. Mise en service de l’appli « ADS » avec intégration de collectivités en autonomie==
+        - France/Erwan : visio prévu avec les deux agents ADS de la CAV le 25/08 à 14h
+
+- ==8. Elargissement de couches de données sur GEOTER (ARS,…)==
+    - France : publication prévue très prochainement, voire pour ajouter les emplacements des captages en +
+    - Erwan : chantiers pour étude et intégration de 5+ jeux de données de la DSSP + des instances publiques pour les usagers
+
+- ==9. Accompagnement aux rapprochements des SIG entre HSN et SIED + HSN et SDIS==
+    - France/Erwan/Cyril : rdv avec le SIED prévu début septembre, quid pour le SDIS? 
+
+- ==10. Accompagnement du Dépt 70 sur GEOTER==
+    - Accompagnements en cours (DSSP), 4 chantiers initiés
+        - 1) Mise en place d'une carte interactive contenants multiples données de la DSSP transmises par AS ZBINDEN intégrées par Erwan
+        - 2) France : Démonstration prévue le 7 septembre à 11h auprès des responsables d'équipes et chefs de service, but : prouver l'intêret de GEOTER sur les données récemment intégrées // diffusion des 35 comptes à la suite de ce rdv
+        - 3) RDV le 1^er^ septembre avec Mesdames COME et BELIN (service autonomie DSSP) pour la mise en place d'un annuaire sur geoter 
+        - 4) Mises à jour des cartes statiques des emplacements des CMS + N° de téléphone
+
+- ==11. Mise en service de METASHAPE + nouvelles captations de données + travail sur intégration des jumeaux numériques au sein de la plateforme==
+    - Erwan/France : fiabilisation de la méthode pour automatisation en cours, ateliers hebdomadaires d'au moins un après-midi
+    - Problème : un traitement complet prend presque une journée, chaque étape prend au moins une heure et ralentit fortement le PC
+        - Récupérer notre machine de calcul au SSIR et transférer une licence metashape serait opportun : sa puissance accrue accélèrerait le processus et libérerait nos pc portables
+    - R&D sur le passage du modèle 3D à un jumeau numérique accessible en ligne : un service prometteur https://nira.app/
+
+- ==Participation à la stratégie « DATA » de HSN dans le cadre du rapatriement de ses données (schéma directeur + mise en œuvre)==
+    - Erwan : prêt à participer à la stratégie et à arbitrer la construction du datalake dès que je connaitrai les directives et les objectifs
+
+- ==Participation à la stratégie « IA » de HSN (schéma directeur + mise en œuvre)==
+    - Erwan : Prêt à la participation à la stratégie IA.
+    - J'aimerais reprendre le travail de Xavier pour voir si on peut bâtir dessus. Et si on peut l'intégrer en local en récupérant notre machine IA aujourd'hui au SSIR.
+
+- ==autres points==
+    - Partagés :
+        - Sorties drones à organiser
+        - Veille sur les sujets Data/IA pour bien suivre nos futurs alternants
+        - Préparation Concours ingénieur / dossier / commission d'équivalence
+        - Veille réglementaire drone pour que le manex reste à jour
+    - Erwan :
+        - idée catalogue de service : ajouter une ligne pour la création d'instance Géoter (lien unique avec une vue configurable, cf carte CN embarquée sur le site) avec prix dépendant de la taille du public concerné.
+        - Reprise NearAI post congés / maladie
+        - Reprise Panoramax
+        - Raster
+        - "Gopro++"
+        - Veille et R&D jumeaux numériques (splats etc)
+        - Mise à jour Lizmap : le SSIR a passé les VM sur la nouvelle infra sans nous le dire (d'après Joffrey)
+        - Demandes de developpement multiples sur la bourse forestière pour la DDACT
+        - Nouveau cadastre : mise à jour de la bourse forestière à faire
+        - Applicatif RODP à faire quand lizmap sera à jour
+        - Application de documentation
+        - Carte + dataviz sur l'avancement panoramax sur site web hsn
+        - Carte sur la fibre sur le site web hsn
+        - R&D sur FME FLOW (remplacement GTF) point avec Loïc
+        - Carte(s) pour Joffrey : Réseau de collecte + NRO + Antennes Lora
+    - France :
+        - voir pour reprise de l'astreinte en septembre, intégration de Julie (majorité des applicatifs sont IoT)? 
+        -
+
+
+<!--pmd
 id:"technique"
 title:"Technique"
 kind:"simple"
@@ -903,315 +999,6 @@ headingNumbers:"1.1.1.1.1.1.1."
 -->
 # retours
 
-
-<!--pmd
-id:"notes_a_integrer"
-title:"Notes à intégrer"
-parent:"drone"
-updated:"2026-10-28"
--->
-
-# notes à intégrer 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- ==**1. Mise en service de l’appli SPANC avec intégration de collectivités en autonomie**==
-
-    - Erwan : Flux API, doc SPANC et synchronisation journalière fiabilisés  
-    - Audit ergonomie carto : prise en compte ==partielle== des retours 
-        - ![image](https://hackmd.io/_uploads/r1LpAhcPMx.png)
-        - ![image](https://hackmd.io/_uploads/SJ-CA3cwGe.png)
-    - Encore des bugs, pas d'historisation des ANC, pas de moyen de supprimer des contrôles, vocabulaire : "Liste des ANC par contrôle" = liste des contrôles.
-    - ![image](https://hackmd.io/_uploads/SkC616cDfx.png) ![image](https://hackmd.io/_uploads/SJrlgTcPGe.png) Pas d'ANC alors que j'ai tous les scopes.
-    - France : mise en commun des notes de la CCRC avec Pauline, tests multiples sur les beugs (impossible à refaire), RDV avec CCMC / CCMG début septembre 
-
-- ==2. Mise en service de l’appli Réseaux humides avec intégration de collectivités en autonomie==
-        - Point avec Erwan pour ajouter les données de la CAV (en amont du rdv du 3 septembre) prévu le 26/08 à 15h
-
-- ==3. Mise en service de l’appli SIPR avec intégration de collectivités en autonomie==
-    - France : en attente du retour de Nicolas (SOGEFI) suite à son retour de congés pour prévoir les temps de formation
-
-- ==4. Finalisation de l’intrication de l’appli « réseaux humides » dans l’environnement ERIDANIS==
-    - France : chantier à voir en plusieurs temps, déjà stabiliser la diffusion du module seul (SOGEFI), ensuite mise en place de liens, puis voir l'applicatif comme un ensemble (modifications chez SOGEFI <> ERIDANIS)
-    - Erwan : proposition de faire un lien Géoter "alternatif" si l'utilisateur a souscrit aux réseaux humides "Géoter + module réseau humides"
-    - Mise en place des liens à étudier en fonction de la réalité logicielle une fois que le module sogefi est maîtrisé.
-
-- ==5. Finalisation de l’intrication de l’appli « SIPR » dans l’environnement ERIDANIS==
-    - Erwan : idem que pour les réseaux humides.
-
-- ==6. Mise en place des API quotidiennes pour les cas d’usages IOT + réseaux humides + SIPR entre ERIDANIS et SOGEFI==
-    - En attente des accès API (cf. dernier point Eridanis)
-    - Le modèle de documentation validé (spanc) ne se retrouve pas dans les autres documentations.
-
-- ==7. Mise en service de l’appli « ADS » avec intégration de collectivités en autonomie==
-        - France/Erwan : visio prévu avec les deux agents ADS de la CAV le 25/08 à 14h
-
-- ==8. Elargissement de couches de données sur GEOTER (ARS,…)==
-    - France : publication prévue très prochainement, voire pour ajouter les emplacements des captages en +
-    - Erwan : chantiers pour étude et intégration de 5+ jeux de données de la DSSP + des instances publiques pour les usagers
-
-- ==9. Accompagnement aux rapprochements des SIG entre HSN et SIED + HSN et SDIS==
-    - France/Erwan/Cyril : rdv avec le SIED prévu début septembre, quid pour le SDIS? 
-
-- ==10. Accompagnement du Dépt 70 sur GEOTER==
-    - Accompagnements en cours (DSSP), 4 chantiers initiés
-        - 1) Mise en place d'une carte interactive contenants multiples données de la DSSP transmises par AS ZBINDEN intégrées par Erwan
-        - 2) France : Démonstration prévue le 7 septembre à 11h auprès des responsables d'équipes et chefs de service, but : prouver l'intêret de GEOTER sur les données récemment intégrées // diffusion des 35 comptes à la suite de ce rdv
-        - 3) RDV le 1^er^ septembre avec Mesdames COME et BELIN (service autonomie DSSP) pour la mise en place d'un annuaire sur geoter 
-        - 4) Mises à jour des cartes statiques des emplacements des CMS + N° de téléphone
-
-- ==11. Mise en service de METASHAPE + nouvelles captations de données + travail sur intégration des jumeaux numériques au sein de la plateforme==
-    - Erwan/France : fiabilisation de la méthode pour automatisation en cours, ateliers hebdomadaires d'au moins un après-midi
-    - Problème : un traitement complet prend presque une journée, chaque étape prend au moins une heure et ralentit fortement le PC
-        - Récupérer notre machine de calcul au SSIR et transférer une licence metashape serait opportun : sa puissance accrue accélèrerait le processus et libérerait nos pc portables
-    - R&D sur le passage du modèle 3D à un jumeau numérique accessible en ligne : un service prometteur https://nira.app/
-
-- ==Participation à la stratégie « DATA » de HSN dans le cadre du rapatriement de ses données (schéma directeur + mise en œuvre)==
-    - Erwan : prêt à participer à la stratégie et à arbitrer la construction du datalake dès que je connaitrai les directives et les objectifs
-
-- ==Participation à la stratégie « IA » de HSN (schéma directeur + mise en œuvre)==
-    - Erwan : Prêt à la participation à la stratégie IA.
-    - J'aimerais reprendre le travail de Xavier pour voir si on peut bâtir dessus. Et si on peut l'intégrer en local en récupérant notre machine IA aujourd'hui au SSIR.
-
-- ==autres points==
-    - Partagés :
-        - Sorties drones à organiser
-        - Veille sur les sujets Data/IA pour bien suivre nos futurs alternants
-        - Préparation Concours ingénieur / dossier / commission d'équivalence
-        - Veille réglementaire drone pour que le manex reste à jour
-    - Erwan :
-        - idée catalogue de service : ajouter une ligne pour la création d'instance Géoter (lien unique avec une vue configurable, cf carte CN embarquée sur le site) avec prix dépendant de la taille du public concerné.
-        - Reprise NearAI post congés / maladie
-        - Reprise Panoramax
-        - Raster
-        - "Gopro++"
-        - Veille et R&D jumeaux numériques (splats etc)
-        - Mise à jour Lizmap : le SSIR a passé les VM sur la nouvelle infra sans nous le dire (d'après Joffrey)
-        - Demandes de developpement multiples sur la bourse forestière pour la DDACT
-        - Nouveau cadastre : mise à jour de la bourse forestière à faire
-        - Applicatif RODP à faire quand lizmap sera à jour
-        - Application de documentation
-        - Carte + dataviz sur l'avancement panoramax sur site web hsn
-        - Carte sur la fibre sur le site web hsn
-        - R&D sur FME FLOW (remplacement GTF) point avec Loïc
-        - Carte(s) pour Joffrey : Réseau de collecte + NRO + Antennes Lora
-    - France :
-        - voir pour reprise de l'astreinte en septembre, intégration de Julie (majorité des applicatifs sont IoT)? 
-        -
-
-## 3D scan protocole
-
-faire l'emprise de la zone à 3D scanner avec 4 cibles
-
-rtk on
-
-avec la canne, se placer au centre de chaque cible et faire "+" et attendre 20 secondes avec la bulle au milieu, prendre 3 points sur la première cible et un point pour les autres, float (couper le signal en baissant la canne vers le sol)
-
-pas paniquer si c'est un peu différent entre deux mesures sur la même cible (<1cm ok)
-
-
-si un des trois bien est trop loin, il faut le refaire jusqu'à ce qu'il y ait trois points 
-
-photo
-
-caler tête contre la canne, jambes legerement écartées
-
-
-ensuite on fait une nouvelle tache
-penser à mettre une batterie neuve, dessiner la (voir orthophoto)
-
-collection oblique
-
-utiliser cartographies locales
-
-lever à la hauteur du vol et se mettre en mode caméra S et faire les réglages 
-
-réglages, scroll pour passer
-
-se mettre en mode de vol N
-
-faire l'orthophoto, attendre que la cartographie locale se mette à jour (en haut a gauche 
-
-si ça prend pas assez de détail sur le nuage de points, il faut recomencer avec plus de marge autour du sujet et/ou augmenter le niveau de détail
-
-trajectoire> 3D capture > en utilisant des modèles locaux
-
--
--
--
--
--
--
--
--
-
-<!--pmd
-id:"photogrammetrie"
-title:"Photogrammetrie"
-parent:"drone"
-updated:"2026-10-28" "POC France Erwan"
--->
-
-# Photogrammetrie POC (focus pylône)
-## Etape 1. Préparation des images/Pré-traitements  
-
-#### Organisation des photos
-
-Un dossier par acquisition 
-![image](https://hackmd.io/_uploads/ByDQ7pKwze.png)
-
-Si l'acquisition est faite en plusieurs étapes, placer les sous-dossiers dans le dossier principal:
-![{CD4D0D86-B674-44DB-BD50-C78B18E7E53E}](https://hackmd.io/_uploads/SJ937aFwGx.png)
-
-
-
-
-
-#### Vérifications des photos 
-* photo en double, sans le sujet, autres erreurs
-* ![image](https://hackmd.io/_uploads/S12SEpYDGe.png)
-* Supprimer les dossiers contenant la/les cartographie(s) locale(s) (inutile pour le traitement)
-
-#### Ouvrir Metashape
-#### Importer les sous dossiers triés dans un même ==chunk==
-![image](https://hackmd.io/_uploads/HJf28pYwzx.png)
-![image](https://hackmd.io/_uploads/B1LAUpKvzg.png)
-
-Enregistrer le projet
-
-* On regarde les photos (points bleus) qui se retrouvent hors périmètre, si elles comportent un intrêt on les garde sinon on supprime leur localisation (clic droit ==Supprimer==)
-
-![image](https://hackmd.io/_uploads/rkssD6KPMg.png)
-![image](https://hackmd.io/_uploads/r1PSFpFvMg.png)
-
-Panneau reference > clic droit sur les photos selectionnées et "clear" 
-
-
-* Elles sont pertinentes, alors on va supprimer les coordonnées : 
-    * On les sélectionne avec le rectangle
-    * On ouvre le panneau ==Référence== 
-    * on fait un clic droit et on nettoie les coordonnées cf capture  
-* on recentre le modèle via le bouton ![image](https://hackmd.io/_uploads/H1p009gAWl.png)   
-* on se place en 3D de sorte à voir le volume du pylône et ainsi chek les points
-    * on regarde si les points font de beaux cercles etc, et si il y a des erreurs apparentes alors on les sélectionne
-    * on supprime alors les coordonnées des photos sélectionnées avec la méthode du dessus
-        * les données restantes, qui possèdent encore les coordonnées deviennent notre "source de vérité absolue"
-        
-## Etape 2. Estimation de la qualité des données
-* On sélectionne toutes les photos sur le panneau à droite (ctrl+A), et on clic droit sur ==Estimer la qualité==
-  ![image](https://hackmd.io/_uploads/rkA5c6Kvze.png)
-  
-
-
-## Etape 3 : Nettoyage des coordonnées des photos corrompues
-
-* À vue d'œil, on repère les images qui sont correctement référencées. On sélectionne celles qui ne le sont pas et on supprime leurs coordonnées (voir la méthode ci-dessus).
-
-![image](https://hackmd.io/_uploads/ByTDxCtwMe.png)
-
-
-align
-* On sélectionne toutes les photos (Ctrl + A) puis clic droit, puis ==Align by reference==
-
-![image](https://hackmd.io/_uploads/SyQp-AYvGe.png)
-
-* Dans le menu en haut, on va dans le panneau "Tools" et on sélectionne le traitement ==Tie point== 
-* 
-tie points
-
-point cloud
-
-
-
-
-
-![image](https://hackmd.io/_uploads/ByTa69xAZl.png)  
-![image](https://hackmd.io/_uploads/By9SAqe0Wx.png)  
-![metashape_3yjSO6HpTU](https://hackmd.io/_uploads/B1JTC9eA-e.png)  
-![image](https://hackmd.io/_uploads/S11n09x0-g.png)  
-![image](https://hackmd.io/_uploads/B1fEyslR-l.png)  
-![ezgif.com-optimize](https://hackmd.io/_uploads/r1geejl0Wl.gif)  
-![image](https://hackmd.io/_uploads/Hy24gjgCbx.png)
-![image](https://hackmd.io/_uploads/SyM7A9gRZx.png)  
-![image](https://hackmd.io/_uploads/BJ6vlixAZx.png)
-
-
-
-
-
-
-# Photogrammétrie (focus orthophoto formation)
-
-Pré-requis : avoir réaliser une sortie drone avec comme objectif la création d'une orthophotographie
-> cimetière de MELECEY - sortie du 19 mai 2025
-
-Pour plus de rapidité d'execution des tâches de Metashape, prioriser l'emplacement des images depuis le disque local ou SSD
-
-### 1^ère^ étape : Préparer son environnement sur Métashape
-* Ajouter les photos dans son espace de travail ==(chunk)==
-* Vérifiez que les photos possèdent des coordonnées GPS
-    * Dans le panneau ==Reference== le petit symbole :white_check_mark: doit apparaître à côté du nom des photos.
-
-![image](https://hackmd.io/_uploads/Hkhg3Zjyze.png)
-### 2^ème^ étape : Estimer la qualité des images
-* Sélectionner toutes les photos (Ctrl + A) dans le panneau ==Photos==
-* Clic droit sur ==Estimer la qualité d'image== et bien appliquer à ==Toutes les images==
- ![image](https://hackmd.io/_uploads/BJtTn-jyfl.png)
-    * Pour vérifier le score de qualité des images, il faut cliquer sur ==Détails== dans le menu photo
- ![image](https://hackmd.io/_uploads/HJEWCWoJze.png)
-     *   Les scores de qualité du jeu de données se situent entre 0.84 et 0.95, ce qui garantit une exploitation optimale. En deçà d'un seuil de 0,70, il est recommandé de désactiver les clichés concernés afin de ne pas dégrader la précision de l'orthophoto.
-
-### 3^ème^ étape : Aligner les photos
- Cette étape permet de rerouver la position exacte du drone pour chaque image.
-
-* Dans le menu ==Traitements==, cliquer sur ==Aligner les photos==
-    * Paramètres conseillés : (cf capture)
-        ![image](https://hackmd.io/_uploads/rkIKJzskGg.png)
-### 4^éme^ étape : Construction du nuage de points denses
-* Dans le menu ==Traitements==, cliquer sur ==Construire le nuage de points==
-    * Paramètres conseillés : (cf capture)
-![image](https://hackmd.io/_uploads/SkvEgfiJMl.png)
-
-### 5^ème^ étape : Construction du modèle numérique d'élevation
-C'est l'étape cruciale. Pour créer une orthophoto (qui est une image redressée sans perspective), Metashape a impérativement besoin d'altimétrie sous forme de MNE.
-
-*  Dans le menu ==Traitements==, cliquer sur ==Créer le MNE==
-
-
-
-# Intro photogrammétrie
-
-## Notions
-Doivent rester fixes :
-- Distance par rapport aux faces de l'objet 
-- L'inclinaison de l'objectif (privilegier 90° par rapport à chaque face)
-- Le niveau de zoom de l'objectif
-
-Le plus important est la qualité de la captation et la préparation  
-Minimum de recouvrement 70% entre deux photos  
-Privilegier 90° par rapport à chaque face de l'objet
-
-## Orthophoto
-Choix de l'angle du vol de l'ortho :
-- Perpendiculaire au vent pour économiser la batterie
-- Pour faciliter le vol à vue (sécurité)
-
-Bien définir le besoin et baser notre plan de vol dessus pour y répondre*
-
-Précision demandée pour le livrable = ==~ 3x GSD==
 
 <!--pmd
 id:"km_glossary"
@@ -2422,6 +2209,211 @@ https://clearance.aero/les-documents-obligatoires-pour-un-exploitant-ses-telepil
 
 * **Règlement d’exécution (UE) 2019/947** (version consolidée au **1ᵉʳ mai 2025**)
 * Notamment **articles 4, 5, 11, 12, 14** et **annexe** (points **UAS.OPEN.050/060**, **UAS.SPEC.050/060**, **UAS.STS-01.030/040**, **UAS.STS-02.030/040**).
+
+<!--pmd
+id:"photogrammetrie"
+title:"Photogrammetrie"
+parent:"drone"
+updated:"2026-10-29" "POC France Erwan"
+-->
+
+# Photogrammetrie POC (focus pylône)
+## Etape 1. Préparation des images/Pré-traitements  
+
+#### Organisation des photos
+
+Un dossier par acquisition 
+![image](https://hackmd.io/_uploads/ByDQ7pKwze.png)
+
+Si l'acquisition est faite en plusieurs étapes, placer les sous-dossiers dans le dossier principal:
+![{CD4D0D86-B674-44DB-BD50-C78B18E7E53E}](https://hackmd.io/_uploads/SJ937aFwGx.png)
+
+
+
+
+
+#### Vérifications des photos 
+* photo en double, sans le sujet, autres erreurs
+* ![image](https://hackmd.io/_uploads/S12SEpYDGe.png)
+* Supprimer les dossiers contenant la/les cartographie(s) locale(s) (inutile pour le traitement)
+
+#### Ouvrir Metashape
+#### Importer les sous dossiers triés dans un même ==chunk==
+![image](https://hackmd.io/_uploads/HJf28pYwzx.png)
+![image](https://hackmd.io/_uploads/B1LAUpKvzg.png)
+
+Enregistrer le projet
+
+* On regarde les photos (points bleus) qui se retrouvent hors périmètre, si elles comportent un intrêt on les garde sinon on supprime leur localisation (clic droit ==Supprimer==)
+
+![image](https://hackmd.io/_uploads/rkssD6KPMg.png)
+![image](https://hackmd.io/_uploads/r1PSFpFvMg.png)
+
+Panneau reference > clic droit sur les photos selectionnées et "clear" 
+
+
+* Elles sont pertinentes, alors on va supprimer les coordonnées : 
+    * On les sélectionne avec le rectangle
+    * On ouvre le panneau ==Référence== 
+    * on fait un clic droit et on nettoie les coordonnées cf capture  
+* on recentre le modèle via le bouton ![image](https://hackmd.io/_uploads/H1p009gAWl.png)   
+* on se place en 3D de sorte à voir le volume du pylône et ainsi chek les points
+    * on regarde si les points font de beaux cercles etc, et si il y a des erreurs apparentes alors on les sélectionne
+    * on supprime alors les coordonnées des photos sélectionnées avec la méthode du dessus
+        * les données restantes, qui possèdent encore les coordonnées deviennent notre "source de vérité absolue"
+        
+## Etape 2. Estimation de la qualité des données
+* On sélectionne toutes les photos sur le panneau à droite (ctrl+A), et on clic droit sur ==Estimer la qualité==
+  ![image](https://hackmd.io/_uploads/rkA5c6Kvze.png)
+  
+
+
+## Etape 3 : Nettoyage des coordonnées des photos corrompues
+
+* À vue d'œil, on repère les images qui sont correctement référencées. On sélectionne celles qui ne le sont pas et on supprime leurs coordonnées (voir la méthode ci-dessus).
+
+![image](https://hackmd.io/_uploads/ByTDxCtwMe.png)
+
+
+align
+* On sélectionne toutes les photos (Ctrl + A) puis clic droit, puis ==Align by reference==
+
+![image](https://hackmd.io/_uploads/SyQp-AYvGe.png)
+
+* Dans le menu en haut, on va dans le panneau "Tools" et on sélectionne le traitement ==Tie point== 
+* 
+tie points
+
+point cloud
+
+
+
+
+
+![image](https://hackmd.io/_uploads/ByTa69xAZl.png)  
+![image](https://hackmd.io/_uploads/By9SAqe0Wx.png)  
+![metashape_3yjSO6HpTU](https://hackmd.io/_uploads/B1JTC9eA-e.png)  
+![image](https://hackmd.io/_uploads/S11n09x0-g.png)  
+![image](https://hackmd.io/_uploads/B1fEyslR-l.png)  
+![ezgif.com-optimize](https://hackmd.io/_uploads/r1geejl0Wl.gif)  
+![image](https://hackmd.io/_uploads/Hy24gjgCbx.png)
+![image](https://hackmd.io/_uploads/SyM7A9gRZx.png)  
+![image](https://hackmd.io/_uploads/BJ6vlixAZx.png)
+
+
+
+
+
+
+# Photogrammétrie (focus orthophoto formation)
+
+Pré-requis : avoir réaliser une sortie drone avec comme objectif la création d'une orthophotographie
+> cimetière de MELECEY - sortie du 19 mai 2025
+
+Pour plus de rapidité d'execution des tâches de Metashape, prioriser l'emplacement des images depuis le disque local ou SSD
+
+### 1^ère^ étape : Préparer son environnement sur Métashape
+* Ajouter les photos dans son espace de travail ==(chunk)==
+* Vérifiez que les photos possèdent des coordonnées GPS
+    * Dans le panneau ==Reference== le petit symbole :white_check_mark: doit apparaître à côté du nom des photos.
+
+![image](https://hackmd.io/_uploads/Hkhg3Zjyze.png)
+### 2^ème^ étape : Estimer la qualité des images
+* Sélectionner toutes les photos (Ctrl + A) dans le panneau ==Photos==
+* Clic droit sur ==Estimer la qualité d'image== et bien appliquer à ==Toutes les images==
+ ![image](https://hackmd.io/_uploads/BJtTn-jyfl.png)
+    * Pour vérifier le score de qualité des images, il faut cliquer sur ==Détails== dans le menu photo
+ ![image](https://hackmd.io/_uploads/HJEWCWoJze.png)
+     *   Les scores de qualité du jeu de données se situent entre 0.84 et 0.95, ce qui garantit une exploitation optimale. En deçà d'un seuil de 0,70, il est recommandé de désactiver les clichés concernés afin de ne pas dégrader la précision de l'orthophoto.
+
+### 3^ème^ étape : Aligner les photos
+ Cette étape permet de rerouver la position exacte du drone pour chaque image.
+
+* Dans le menu ==Traitements==, cliquer sur ==Aligner les photos==
+    * Paramètres conseillés : (cf capture)
+        ![image](https://hackmd.io/_uploads/rkIKJzskGg.png)
+### 4^éme^ étape : Construction du nuage de points denses
+* Dans le menu ==Traitements==, cliquer sur ==Construire le nuage de points==
+    * Paramètres conseillés : (cf capture)
+![image](https://hackmd.io/_uploads/SkvEgfiJMl.png)
+
+### 5^ème^ étape : Construction du modèle numérique d'élevation
+C'est l'étape cruciale. Pour créer une orthophoto (qui est une image redressée sans perspective), Metashape a impérativement besoin d'altimétrie sous forme de MNE.
+
+*  Dans le menu ==Traitements==, cliquer sur ==Créer le MNE==
+
+
+
+# Intro photogrammétrie
+
+## Notions
+Doivent rester fixes :
+- Distance par rapport aux faces de l'objet 
+- L'inclinaison de l'objectif (privilegier 90° par rapport à chaque face)
+- Le niveau de zoom de l'objectif
+
+Le plus important est la qualité de la captation et la préparation  
+Minimum de recouvrement 70% entre deux photos  
+Privilegier 90° par rapport à chaque face de l'objet
+
+## Orthophoto
+Choix de l'angle du vol de l'ortho :
+- Perpendiculaire au vent pour économiser la batterie
+- Pour faciliter le vol à vue (sécurité)
+
+Bien définir le besoin et baser notre plan de vol dessus pour y répondre*
+
+Précision demandée pour le livrable = ==~ 3x GSD==
+
+
+
+
+
+## 3D scan protocole
+
+faire l'emprise de la zone à 3D scanner avec 4 cibles
+
+rtk on
+
+avec la canne, se placer au centre de chaque cible et faire "+" et attendre 20 secondes avec la bulle au milieu, prendre 3 points sur la première cible et un point pour les autres, float (couper le signal en baissant la canne vers le sol)
+
+pas paniquer si c'est un peu différent entre deux mesures sur la même cible (<1cm ok)
+
+
+si un des trois bien est trop loin, il faut le refaire jusqu'à ce qu'il y ait trois points 
+
+photo
+
+caler tête contre la canne, jambes legerement écartées
+
+
+ensuite on fait une nouvelle tache
+penser à mettre une batterie neuve, dessiner la (voir orthophoto)
+
+collection oblique
+
+utiliser cartographies locales
+
+lever à la hauteur du vol et se mettre en mode caméra S et faire les réglages 
+
+réglages, scroll pour passer
+
+se mettre en mode de vol N
+
+faire l'orthophoto, attendre que la cartographie locale se mette à jour (en haut a gauche 
+
+si ça prend pas assez de détail sur le nuage de points, il faut recomencer avec plus de marge autour du sujet et/ou augmenter le niveau de détail
+
+trajectoire> 3D capture > en utilisant des modèles locaux
+
+-
+-
+-
+-
+-
+-
+-
+-
 
 <!--pmd
 id:"drone_manex"
