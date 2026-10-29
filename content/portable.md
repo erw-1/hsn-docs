@@ -786,6 +786,17 @@ updated:"2026-10-28"
 -->
 
 <!--pmd
+id:"feedback_appli"
+title:"Feedback appli"
+parent:"home"
+updated:"2026-10-29"
+-->
+# Feedback appli
+
+Une page "parente" peut avoir du contenu. Les dossiers comme "`Technique`" jouent le même rôle qu'un parent mais n'ont pas de contenu.
+ 
+Page enfant de cette page parente : [bugs](#/feedback_appli/bugs)
+<!--pmd
 id:"suivi_mt_voirie"
 title:"Suivi MT Voirie"
 parent:"communication"
@@ -856,17 +867,6 @@ updated:"2026-10-28" "France et Erwan"
 
 *
 >
-<!--pmd
-id:"feedback_appli"
-title:"Feedback appli"
-parent:"technique"
-updated:"2026-10-28"
--->
-# Feedback appli
-
-Une page "parente" peut avoir du contenu. Les dossiers comme "`Technique`" jouent le même rôle qu'un parent mais n'ont pas de contenu.
- 
-Page enfant de cette page parente : [bugs](#/technique/feedback_appli/bugs)
 <!--pmd
 id:"bugs"
 title:"bugs"
@@ -2976,4 +2976,13 @@ Carte des zones géovigilance
 
 
 
+
+<!--pmd
+id:"figures"
+title:"Figures, tables and equations"
+kind:"figures"
+parent:"home"
+updated:"2026-10-29"
+-->
+# Figures, tables and equations
 
