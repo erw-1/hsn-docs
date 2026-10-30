@@ -886,7 +886,7 @@ updated:"2026-10-29"
 id:"feedback_appli"
 title:"Feedback appli"
 parent:"home"
-updated:"2026-10-29"
+updated:"2026-10-30"
 -->
 # Feedback appli
 
@@ -897,6 +897,18 @@ Coucou depuis l'outil (test autosave)
 
  
 Page enfant de cette page parente : [bugs](#/feedback_appli/bugs)
+
+  
+```txt
+SAGA License 1.0 - Source Available, Gratis with Attribution
+Copyright © 2026 Erwan Vinot
+
+You may use, copy, modify, and redistribute this software, including modified versions, provided that it remains free of charge to users.
+You must keep its complete source code available to users under this license.
+You must credit the original creator(s) and preserve all copyright notices and this license in every copy.
+
+Provided “as is”, without warranty. To the extent permitted by law, the authors accept no liability.
+```
 <!--pmd
 id:"suivi_mt_voirie"
 title:"Suivi MT Voirie"
