@@ -6,11 +6,11 @@ id:"home"
 title:"Home"
 kind:"home"
 tags:"start"
-updated:"2026-10-29"
+updated:"2026-11-01"
 -->
 # Accueil
 
-Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil[Feedback ici](#/feedback_appli).
+Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil[Feedback ici](#/feedback_appli)
 
 
 > [!TIP]
