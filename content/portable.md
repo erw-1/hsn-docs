@@ -28,6 +28,15 @@ updated:"2026-10-28"
 -->
 
 <!--pmd
+id:"new_page"
+title:"New page"
+parent:"technique"
+updated:"2026-11-02"
+-->
+# IA
+
+Start writing here.
+<!--pmd
 id:"sig"
 title:"SIG"
 parent:"technique"
