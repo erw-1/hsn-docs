@@ -28,8 +28,8 @@ updated:"2026-10-28"
 -->
 
 <!--pmd
-id:"new_page"
-title:"New page"
+id:"ia"
+title:"IA"
 parent:"technique"
 updated:"2026-11-02"
 -->
