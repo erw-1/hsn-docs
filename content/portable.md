@@ -999,6 +999,16 @@ updated:"2026-10-28" "France et Erwan"
 *
 >
 <!--pmd
+id:"retours"
+title:"retours"
+parent:"feedback_appli"
+updated:"2026-10-28"
+headingNumbers:"1.1.1.1.1.1.1."
+-->
+# retours
+
+
+<!--pmd
 id:"bugs"
 title:"bugs"
 parent:"feedback_appli"
@@ -1024,16 +1034,6 @@ Fixed :green_heart:
     > Identifiant : france.bringard@hautesaonenumerique.fr  
     > Mot de passe : ||REDACTED|| 
 :::
-
-<!--pmd
-id:"retours"
-title:"retours"
-parent:"feedback_appli"
-updated:"2026-10-28"
-headingNumbers:"1.1.1.1.1.1.1."
--->
-# retours
-
 
 <!--pmd
 id:"km_glossary"
