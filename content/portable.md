@@ -798,6 +798,15 @@ updated:"2026-10-28"
 -->
 
 <!--pmd
+id:"new_page"
+title:"New page"
+parent:"communication"
+updated:"2026-11-03"
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id:"todolist"
 title:"Todolist (à mettre à jour)"
 parent:"home"
