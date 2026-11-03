@@ -803,9 +803,9 @@ title:"New page"
 parent:"communication"
 updated:"2026-11-03"
 -->
-# New page
+# Backup teams
 
-Start writing here.
+Voir google docs envoyé par mail =="Backup Teams France Erwan"==
 <!--pmd
 id:"todolist"
 title:"Todolist (à mettre à jour)"
