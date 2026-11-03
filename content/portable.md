@@ -1037,24 +1037,27 @@ updated:"2026-11-03"
 
 
 - Champs référentiels personnalisés :
-
 ![image-8](assets/image-8.png)
 
 Ici pour supprimer le champ personnalisé, il faut restaurer le nom "Statut 1" qui est hard-codé pour ne pas d'afficher. Il suffirait d'ajouter un petit bouton "poubelle" comme en haut.
 
 
-- typo
+- typo  
 ![image-9](assets/image-9.png)
 
-- PB label
+- PB label  
 ![image-11](assets/image-11.png)
 
 
 4. Mapillary : besoin de changer le service de vues immersive par défaut pour tous les utilisateurs  
 ![image-12](assets/image-12.png)
 
-5. bouton ? Pas de permissions liée dans Aramis
+5. bouton ? Pas de permissions liée dans Aramis  
 ![image-13](assets/image-13.png)
+
+6. label rémanent et vidage de cache non effectif  
+![image-16](assets/image-16.png)
+
 <!--pmd
 id:"retours"
 title:"retours"
