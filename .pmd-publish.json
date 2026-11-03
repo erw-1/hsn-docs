@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "97eaf1a2e633172046d76c66613f12a9e13debfd4bc393323546689c64d9aa2f",
-      "git": "fa8247d84b8519b95981c6f4f20549440f119236"
+      "hash": "b2a44c973c168bf951ae31863898d41c6451c605d647dacdb85ffff301f4982a",
+      "git": "e6334b4d33972d30fa36933fb1a00b65e4bebfb0"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "content/portable.md",
-      "hash": "b801b531a7c77054cc704c5ce2de723fe8248a7f8037b91c6967468b6dd97e94",
-      "git": "5398bc65dbe64c0a34c288459dffe0e3739054e8"
+      "hash": "fb144d5ef11c1aea6313f38f4d7c7df23e4907e041b3e7b9970ba6ef861f0bb7",
+      "git": "d6d8a055ac2c5b52a8ee831abb9251023a145676"
     },
     {
       "path": "content/assets/emojis/lien_hsf_confiance_faible.webp",
@@ -190,6 +190,26 @@
       "path": "content/assets/msedge_yxhxua0cmq-ezgif.com-video-cutter.mp4",
       "hash": "55a558e2cca19c88871fd4e92fa443cbd37a106169c4cc22549f02a9362f450f",
       "git": "50824fcbe7fdf673e0c6cb66e871990fbda1ef6a"
+    },
+    {
+      "path": "content/assets/image-6.png",
+      "hash": "2594cf70ae8a926237da15f96929869d2d3c0ce246848fe8bc7770d8dc0b7b1d",
+      "git": "97409a33f5ab9e4b9eec88c4e4fb90a3923ea023"
+    },
+    {
+      "path": "content/assets/image-7.png",
+      "hash": "4a61c97b52a322d1b4e8dbbb5e7327172ffb6afffcac9c497309dfb259c2f30f",
+      "git": "d18d3b95ec09bd266b1c63b44826b9a2f9177ea0"
+    },
+    {
+      "path": "content/assets/image-8.png",
+      "hash": "18b394883b92818e3d8e7bdbe89bf8e15e67c5866081648ae6144f3249de6cb6",
+      "git": "3dcf4858d15464be10e372244d4ed4f103cd2438"
+    },
+    {
+      "path": "content/assets/image-9.png",
+      "hash": "0ac335ddf9d7299505c6564c8b5f249f1fcd58467aee5d9a1d8c0b2df262fae0",
+      "git": "609ba5492c5eca0adc78d38b976cb05c9fc574d0"
     }
   ]
 }

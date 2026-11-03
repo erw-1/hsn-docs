@@ -1007,6 +1007,36 @@ updated:"2026-11-03"
 -->
 # Presentation Voirie
 
+1. Connexion à la plateforme
+
+![image-6](assets/image-6.png)
+
+2. Accès à Mon Territoire Voirie
+![image-7](assets/image-7.png)
+
+
+
+
+
+<!--pmd
+id:"retours_mt_voire"
+title:"Retours MT Voire"
+parent:"suivi_mt_voirie"
+updated:"2026-11-03"
+-->
+# Retours MT Voire
+
+
+
+- Champs référentiels personnalisés :
+
+![image-8](assets/image-8.png)
+
+Ici pour supprimer le champ personnalisé, il faut restaurer le nom "Statut 1" qui est hard-codé pour ne pas d'afficher. Il suffirait d'ajouter un petit bouton "poubelle" comme en haut.
+
+
+- typo
+![image-9](assets/image-9.png)
 
 <!--pmd
 id:"retours"
