@@ -1000,23 +1000,31 @@ updated:"2026-10-28" "France et Erwan"
 *
 >
 <!--pmd
-id:"new_page"
+id:"presentation_voirie"
 title:"Presentation Voirie"
 parent:"suivi_mt_voirie"
 updated:"2026-11-03"
 -->
-# Presentation Voirie
+# Présentation Voirie
 
 1. Connexion à la plateforme
-
 ![image-6](assets/image-6.png)
 
 2. Accès à Mon Territoire Voirie
 ![image-7](assets/image-7.png)
 
+3. Arrivée sur MTV : carte à gauche et formulaire de recherche à droite (pas intuitif) Les boutons en forme d'onglets ajoutent des champs supplémentaires spécifiques à leur thème aux 6 champs de base. L'onglet "Travaux" change un peu plus le formulaire.
+![image-10](assets/image-10.png)
+
+
+Présentation des outils à gauche dans la carte, avec l'arbre des couches en dernier.
+
+4. Arbre des couches - carte et recherche
+![image-14](assets/image-14.png)
 
 
 
+4.Explication à quoi
 
 <!--pmd
 id:"retours_mt_voire"
@@ -1038,6 +1046,15 @@ Ici pour supprimer le champ personnalisé, il faut restaurer le nom "Statut 1" q
 - typo
 ![image-9](assets/image-9.png)
 
+- PB label
+![image-11](assets/image-11.png)
+
+
+4. Mapillary : besoin de changer le service de vues immersive par défaut pour tous les utilisateurs  
+![image-12](assets/image-12.png)
+
+5. bouton ? Pas de permissions liée dans Aramis
+![image-13](assets/image-13.png)
 <!--pmd
 id:"retours"
 title:"retours"
