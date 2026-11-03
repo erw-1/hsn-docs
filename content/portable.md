@@ -798,8 +798,8 @@ updated:"2026-10-28"
 -->
 
 <!--pmd
-id:"new_page"
-title:"New page"
+id:"backup_teams"
+title:"Backup teams"
 parent:"communication"
 updated:"2026-11-03"
 -->
