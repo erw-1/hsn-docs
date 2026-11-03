@@ -6,7 +6,7 @@ id:"home"
 title:"Home"
 kind:"home"
 tags:"start"
-updated:"2026-11-01"
+updated:"2026-11-03"
 -->
 # Accueil
 
@@ -17,6 +17,7 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > Ce document comporte plusieurs pages, exemples :  
 > [Analyse Cuivre - Fibre](#/technique/sig/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/communication/suivi_mt_voirie)
+
 
 
 <!--pmd
@@ -998,6 +999,15 @@ updated:"2026-10-28" "France et Erwan"
 
 *
 >
+<!--pmd
+id:"new_page"
+title:"Presentation Voirie"
+parent:"suivi_mt_voirie"
+updated:"2026-11-03"
+-->
+# Presentation Voirie
+
+
 <!--pmd
 id:"retours"
 title:"retours"
