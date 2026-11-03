@@ -1012,7 +1012,7 @@ headingNumbers:"1.1.1.1.1.1.1."
 id:"bugs"
 title:"bugs"
 parent:"feedback_appli"
-updated:"2026-10-28"
+updated:"2026-11-03"
 headingNumbers:"1.1.1.1.1.1.1."
 -->
 # bugs
