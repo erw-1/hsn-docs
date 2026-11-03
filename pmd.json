@@ -1,13 +1,9 @@
 {
-  "LANG": "fr",
-  "TITLE": "doc HSN beta",
-  "DEFAULT_THEME": "dark",
-  "ACCENT": "#3fabd1",
-  "CUSTOM_CSS": "",
-  "CACHE_MD": 0,
-  "ALLOW_JS_FROM_MD": false,
-  "SHOW_EDITOR_LINK": false,
-  "CUSTOM_EMOJI": [
+  "pmd": 1,
+  "title": "doc HSN beta",
+  "lang": "fr",
+  "editorLink": false,
+  "emoji": [
     {
       "alias": "lien_hsf_confiance_faible",
       "src": "assets/emojis/lien_hsf_confiance_faible.webp"
@@ -101,14 +97,13 @@
       "src": "assets/emojis/statut_signee.webp"
     }
   ],
-  "SITE": {
-    "ICON": "content/assets/fibre_icon-2.png",
-    "ICON_TYPE": "image/png",
-    "SHOW_LOGO": true,
-    "SHOW_FAVICON": true
+  "reader": {
+    "print": true,
+    "readingWidth": "full"
   },
-  "READER": {
-    "PRINT": true,
-    "READING_WIDTH": "full"
+  "site": {
+    "icon": "assets/fibre_icon-2.png",
+    "showLogo": true,
+    "showFavicon": true
   }
 }

@@ -1,12 +1,9 @@
-# portable.md Editor draft
-
-Text above the first portable.md header is preserved but not rendered by portable.md.
 <!--pmd
-id:"home"
-title:"Home"
-kind:"home"
-tags:"start"
-updated:"2026-11-03"
+id: "home"
+title: "Home"
+kind: "home"
+tags: ["start"]
+updated: {"date":"2026-11-03"}
 -->
 # Accueil
 
@@ -15,42 +12,42 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
-> [Analyse Cuivre - Fibre](#/technique/sig/analyse_cuivre_fibre)  
-> [Suivi MT Voirie](#/communication/suivi_mt_voirie)
+> [Analyse Cuivre - Fibre](#/analyse_cuivre_fibre)  
+> [Suivi MT Voirie](#/suivi_mt_voirie)
 
 
 
 <!--pmd
-id:"technique"
-title:"Technique"
-kind:"simple"
-parent:"home"
-updated:"2026-10-28"
+id: "technique"
+title: "Technique"
+parent: "home"
+kind: "folder"
+updated: {"date":"2026-10-28"}
 -->
 
 <!--pmd
-id:"ia"
-title:"IA"
-parent:"technique"
-updated:"2026-11-02"
+id: "ia"
+title: "IA"
+parent: "technique"
+updated: {"date":"2026-11-02"}
 -->
 # IA
 
 https://github.com/Zagitta/gpu-unlock
 <!--pmd
-id:"sig"
-title:"SIG"
-parent:"technique"
-updated:"2026-10-28"
+id: "sig"
+title: "SIG"
+parent: "technique"
+updated: {"date":"2026-10-28"}
 -->
 # SIG
 
 Start writing here.
 <!--pmd
-id:"analyse_cuivre_fibre"
-title:"Analyse Cuivre - Fibre"
-parent:"sig"
-updated:"2026-10-28" "Erwan"
+id: "analyse_cuivre_fibre"
+title: "Analyse Cuivre - Fibre"
+parent: "sig"
+updated: {"date":"2026-10-28","note":"Erwan"}
 -->
 
 # Analyse des accès cuivre actifs et de leur situation fibre
@@ -763,10 +760,10 @@ La couche n'a pas vocation à présenter une fiche détaillée. Elle explique vi
 - Les catégories de confiance Orange sont reprises telles quelles. Leur définition détaillée dépend de la documentation Orange.
 - Les classes de priorité sont des indicateurs d'aide à la décision et doivent rester vérifiables dans les trois groupes d'attributs HSN, HSF et Orange.
 <!--pmd
-id:"drone"
-title:"Drones (à remettre au propre)"
-parent:"technique"
-updated:"2026-10-28"
+id: "drone"
+title: "Drones (à remettre au propre)"
+parent: "technique"
+updated: {"date":"2026-10-28"}
 -->
 
 # Drones (à remettre au propre)
@@ -776,11 +773,11 @@ Formation Télépilote de drone Spécifique : [Lien Padlet](https://padlet.com/D
 Glossaire
 ## Chapitres
 
-1. [Intro](#/technique/drone/drone_intro)
-2. [Préparation de mission](#/technique/drone/drone_prepa_mission)
-    - [Exemple de préparation](#/technique/drone/drone_prepa_mission/drone_prepa_mission_ex)
-3. [Pilotage](#/technique/drone/drone_pilotage)
-4. [Annexes](#/technique/drone/drone_annexes)
+1. [Intro](#/drone_intro)
+2. [Préparation de mission](#/drone_prepa_mission)
+    - [Exemple de préparation](#/drone_prepa_mission_ex)
+3. [Pilotage](#/drone_pilotage)
+4. [Annexes](#/drone_annexes)
 
 ## TODO list
 
@@ -791,27 +788,27 @@ Glossaire
     Même sans assurance, il est toujours possible de les renvoyer et Dji peut les réparer pour une somme modique
 
 <!--pmd
-id:"communication"
-title:"Communication"
-kind:"simple"
-parent:"home"
-updated:"2026-10-28"
+id: "communication"
+title: "Communication"
+parent: "home"
+kind: "folder"
+updated: {"date":"2026-10-28"}
 -->
 
 <!--pmd
-id:"backup_teams"
-title:"Backup teams"
-parent:"communication"
-updated:"2026-11-03"
+id: "backup_teams"
+title: "Backup teams"
+parent: "communication"
+updated: {"date":"2026-11-03"}
 -->
 # Backup teams
 
 Voir google docs envoyé par mail `obj:`=="Backup Teams France Erwan"==
 <!--pmd
-id:"todolist"
-title:"Todolist (à mettre à jour)"
-parent:"home"
-updated:"2026-10-29"
+id: "todolist"
+title: "Todolist (à mettre à jour)"
+parent: "home"
+updated: {"date":"2026-10-29"}
 -->
 
 # Todolist (à mettre à jour)
@@ -902,10 +899,10 @@ updated:"2026-10-29"
 
 
 <!--pmd
-id:"feedback_appli"
-title:"Feedback appli"
-parent:"home"
-updated:"2026-10-30"
+id: "feedback_appli"
+title: "Feedback appli"
+parent: "home"
+updated: {"date":"2026-10-30"}
 -->
 # Feedback appli
 
@@ -915,7 +912,7 @@ hello from github (test autopull)
 Coucou depuis l'outil (test autosave)
 
  
-Page enfant de cette page parente : [bugs](#/feedback_appli/bugs)
+Page enfant de cette page parente : [bugs](#/bugs)
 
   
 ```txt
@@ -929,10 +926,10 @@ You must credit the original creator(s) and preserve all copyright notices and t
 Provided “as is”, without warranty. To the extent permitted by law, the authors accept no liability.
 ```
 <!--pmd
-id:"suivi_mt_voirie"
-title:"Suivi MT Voirie"
-parent:"communication"
-updated:"2026-10-28" "France et Erwan"
+id: "suivi_mt_voirie"
+title: "Suivi MT Voirie"
+parent: "communication"
+updated: {"date":"2026-10-28","note":"France et Erwan"}
 -->
 # Suivi MT Voirie
 
@@ -1000,10 +997,10 @@ updated:"2026-10-28" "France et Erwan"
 *
 >
 <!--pmd
-id:"presentation_voirie"
-title:"Presentation Voirie"
-parent:"suivi_mt_voirie"
-updated:"2026-11-03"
+id: "presentation_voirie"
+title: "Presentation Voirie"
+parent: "suivi_mt_voirie"
+updated: {"date":"2026-11-03"}
 -->
 # Présentation Voirie
 
@@ -1027,10 +1024,10 @@ Présentation des outils à gauche dans la carte, avec l'arbre des couches en de
 4.Explication à quoi
 
 <!--pmd
-id:"retours_mt_voire"
-title:"Retours MT Voire"
-parent:"suivi_mt_voirie"
-updated:"2026-11-03"
+id: "retours_mt_voire"
+title: "Retours MT Voire"
+parent: "suivi_mt_voirie"
+updated: {"date":"2026-11-03"}
 -->
 # Retours MT Voire
 
@@ -1059,21 +1056,21 @@ Ici pour supprimer le champ personnalisé, il faut restaurer le nom "Statut 1" q
 ![image-16](assets/image-16.png)
 
 <!--pmd
-id:"retours"
-title:"retours"
-parent:"feedback_appli"
-updated:"2026-10-28"
-headingNumbers:"1.1.1.1.1.1.1."
+id: "retours"
+title: "retours"
+parent: "feedback_appli"
+updated: {"date":"2026-10-28"}
+headingNumbers: "1.1.1.1.1.1.1."
 -->
 # retours
 
 
 <!--pmd
-id:"bugs"
-title:"bugs"
-parent:"feedback_appli"
-updated:"2026-11-03"
-headingNumbers:"1.1.1.1.1.1.1."
+id: "bugs"
+title: "bugs"
+parent: "feedback_appli"
+updated: {"date":"2026-11-03"}
+headingNumbers: "1.1.1.1.1.1.1."
 -->
 # bugs
 
@@ -1097,10 +1094,10 @@ Fixed :green_heart:
 
 
 <!--pmd
-id:"km_glossary"
-title:"Glossaire"
-kind:"glossary"
-updated:"2026-10-28"
+id: "km_glossary"
+title: "Glossaire"
+kind: "glossary"
+updated: {"date":"2026-10-28"}
 -->
 
 # Glossaire
@@ -1114,10 +1111,10 @@ Flight performed outside direct visual line of sight.
 
 Appareil capable de s'élever et de circuler dans l'atmosphère terrestre.
 <!--pmd
-id:"drone_intro"
-title:"Intro drones"
-parent:"drone"
-updated:"2026-10-28"
+id: "drone_intro"
+title: "Intro drones"
+parent: "drone"
+updated: {"date":"2026-10-28"}
 -->
 
 # Notes drones
@@ -1235,7 +1232,7 @@ Requiert : ==(A1 - A3)==
 ### Sous-catégorie A2
 Requiert : ==(A1 - A3 + A2)==
 #### Drone de classe C2
-- Inclut contraintes [classe C1](#/technique/drone/drone_intro#1_3_1_2)
+- Inclut contraintes [classe C1](#/drone_intro#drone-de-classe-c1)
 - Moins de 4 kg
 - Système de géovigilance NFZ
 - 30 m max, si 3 m/s : 5 m
@@ -1245,13 +1242,13 @@ Requiert : ==(A1 - A3 + A2)==
 ### Sous-catégorie A3
 Requiert : ==(A1-A3 + A2)==
 #### Drone de classe C3
-- Inclut contraintes [classe C2](#/technique/drone/drone_intro#1_3_2_1)
+- Inclut contraintes [classe C2](#/drone_intro#drone-de-classe-c2)
 - Moins de 25 kg **et** moins de 3m d'envergure / hauteur
 - Système FailSafe
 - 150m des gens minimum
 
 #### Drone de classe C4
-- Inclut contraintes [classe C3](#/technique/drone/drone_intro#1_3_3_1)
+- Inclut contraintes [classe C3](#/drone_intro#drone-de-classe-c3)
 - Moins de 25 kg 
 
 #### Drone de classe C5
@@ -1380,10 +1377,10 @@ Il faut être précis dans les directions (avant = vraiment centré au mm)
 on perds un hp (hectopascal) tous les 10 m
 
 <!--pmd
-id:"drone_prepa_mission"
-title:"Préparation de mission drone"
-parent:"drone"
-updated:"2026-08-13"
+id: "drone_prepa_mission"
+title: "Préparation de mission drone"
+parent: "drone"
+updated: {"date":"2026-08-13"}
 -->
 
 # Préparation de mission drone
@@ -1442,11 +1439,11 @@ mindmap
 ```
 
 <!--pmd
-id:"drone_prepa_mission_ex"
-title:"Exemple de préparation"
-parent:"drone_prepa_mission"
-tags:"ex"
-updated:"2026-10-28"
+id: "drone_prepa_mission_ex"
+title: "Exemple de préparation"
+parent: "drone_prepa_mission"
+tags: ["ex"]
+updated: {"date":"2026-10-28"}
 -->
 
 # Exemple de préparation de mission drone
@@ -1502,7 +1499,7 @@ Donner des bonnes explications
 
     [Lien de la carte au lieu de la mission](https://www.cartoradio.fr/#/cartographie/all/lonlat/2.729558/47.639161)
     
-    Page des fréquences à éviter : [lien](#/technique/drone/drone_annexes#1_1)
+    Page des fréquences à éviter : [lien](#/drone_annexes#fréquences-à-éviter-pour-les-drones-dji)
 
     Aucune des bandes listées sur le site n’entre dans les plages à éviter pour DJI ou GNSS.  
     Contournement recommandé : garder de la marge physique par rapport aux antennes et éviter leur axe direct.
@@ -1573,13 +1570,13 @@ Donner des bonnes explications
 ---
 
 <!--pmd
-id:"drone_prepa_mission_ex_2"
-title:"Exemple 2 de préparation"
-parent:"drone_prepa_mission"
-tags:"ex"
-updated:"2026-10-28"
+id: "drone_prepa_mission_ex_2"
+title: "Exemple 2 de préparation"
+parent: "drone_prepa_mission"
+tags: ["ex"]
+updated: {"date":"2026-10-28"}
 -->
-[cartoradio](#/technique/drone/drone_annexes#1_1)
+[cartoradio](#/drone_annexes#fréquences-à-éviter-pour-les-drones-dji)
 # Exemple 2 de préparation de mission drone
 
 ## Mission
@@ -1642,11 +1639,11 @@ Deux zones de vol identifiées, à repérer sur [DroneKeeper](https://app.dronek
     - Carto radio OK (voir analyse cartoradio)
 
 <!--pmd
-id:"drone_prepa_mission_ex_3"
-title:"Exemple 3 de préparation"
-parent:"drone_prepa_mission"
-tags:"ex"
-updated:"2026-08-13"
+id: "drone_prepa_mission_ex_3"
+title: "Exemple 3 de préparation"
+parent: "drone_prepa_mission"
+tags: ["ex"]
+updated: {"date":"2026-08-13"}
 -->
 
 # Exemple 3 de préparation de mission drone
@@ -1722,11 +1719,11 @@ Date prévue : 15/10/25
 https://www.cartoradio.fr/#/cartographie/all/lonlat/1.245531/45.844177
 
 <!--pmd
-id:"drone_prepa_mission_ex_4"
-title:"Exemple 4 de préparation"
-parent:"drone_prepa_mission"
-tags:"ex"
-updated:"2026-08-13"
+id: "drone_prepa_mission_ex_4"
+title: "Exemple 4 de préparation"
+parent: "drone_prepa_mission"
+tags: ["ex"]
+updated: {"date":"2026-08-13"}
 -->
 
 # Exemple 3 de préparation de mission drone
@@ -1820,10 +1817,10 @@ Date prévue : 15/10/25
 > https://www.cartoradio.fr/#/cartographie/lonlat/3.509987/47.460112
 
 <!--pmd
-id:"drone_prepa_mission_orthophoto"
-title:"Préparation orthophoto"
-parent:"drone_prepa_mission"
-updated:"2026-08-13"
+id: "drone_prepa_mission_orthophoto"
+title: "Préparation orthophoto"
+parent: "drone_prepa_mission"
+updated: {"date":"2026-08-13"}
 -->
 
 # Préparation orthophoto
@@ -1867,10 +1864,10 @@ revenir sur la carte, et lancer la tache, scroll down et passer les étapes de,A
 bibliothèque, copier la tache, 90
 
 <!--pmd
-id:"drone_pilotage"
-title:"Pilotage des drones"
-parent:"drone"
-updated:"2026-08-13"
+id: "drone_pilotage"
+title: "Pilotage des drones"
+parent: "drone"
+updated: {"date":"2026-08-13"}
 -->
 
 # Pilotage des drones
@@ -2016,10 +2013,10 @@ Deux rôles :
 | descente en cours            | "Descente"   |
 
 <!--pmd
-id:"drone_notions"
-title:"Notions drone"
-parent:"drone"
-updated:"2026-08-13"
+id: "drone_notions"
+title: "Notions drone"
+parent: "drone"
+updated: {"date":"2026-08-13"}
 -->
 
 3D scan : activer rtk activer la detection 
@@ -2028,10 +2025,10 @@ apprendre les conditions de visivilite VMC
 zone d'intervention = minimum +10
 
 <!--pmd
-id:"drone_risques"
-title:"Risques"
-parent:"drone_notions"
-updated:"2026-08-13"
+id: "drone_risques"
+title: "Risques"
+parent: "drone_notions"
+updated: {"date":"2026-08-13"}
 -->
 
 # Risques en vol
@@ -2065,10 +2062,10 @@ updated:"2026-08-13"
 - Faune volante
 
 <!--pmd
-id:"drone_meteo"
-title:"Météorologie"
-parent:"drone_notions"
-updated:"2026-08-13"
+id: "drone_meteo"
+title: "Météorologie"
+parent: "drone_notions"
+updated: {"date":"2026-08-13"}
 -->
 
 # Météorologie
@@ -2130,10 +2127,10 @@ updated:"2026-08-13"
     https://wiki.ivao.fr/books/la-meteorologie/page/decoder-un-metar
 
 <!--pmd
-id:"drone_reglo_UE"
-title:"Réglementation UE"
-parent:"drone_notions"
-updated:"2026-08-13"
+id: "drone-reglo-ue"
+title: "Réglementation UE"
+parent: "drone_notions"
+updated: {"date":"2026-08-13"}
 -->
 
 # Obligations UAS
@@ -2307,10 +2304,10 @@ https://clearance.aero/les-documents-obligatoires-pour-un-exploitant-ses-telepil
 * Notamment **articles 4, 5, 11, 12, 14** et **annexe** (points **UAS.OPEN.050/060**, **UAS.SPEC.050/060**, **UAS.STS-01.030/040**, **UAS.STS-02.030/040**).
 
 <!--pmd
-id:"photogrammetrie"
-title:"Photogrammetrie"
-parent:"drone"
-updated:"2026-10-29" "POC France Erwan"
+id: "photogrammetrie"
+title: "Photogrammetrie"
+parent: "drone"
+updated: {"date":"2026-10-29","note":"POC France Erwan"}
 -->
 
 # Photogrammetrie POC (focus pylône)
@@ -2512,10 +2509,10 @@ trajectoire> 3D capture > en utilisant des modèles locaux
 -
 
 <!--pmd
-id:"drone_manex"
-title:"Manuel d'exploitation (MANEX)"
-parent:"drone"
-updated:"2026-10-28"
+id: "drone_manex"
+title: "Manuel d'exploitation (MANEX)"
+parent: "drone"
+updated: {"date":"2026-10-28"}
 -->
 
 # Manex
@@ -2530,7 +2527,7 @@ updated:"2026-10-28"
 - Il faut pouvoir prouver que l'on a fait nos trois vols d'entrainement par an
 - En annexe : 
     - Tous les diplômes pratiques et théoriques de tout le monde 
-- Moyen d'enregistrer les heures de vol : [cette doc](#/technique/drone/drone_journal) ? 
+- Moyen d'enregistrer les heures de vol : [cette doc](#/drone_journal) ? 
 - Performances opérationnelles des drones : <kbd>CTRL + C</kbd><kbd>CTRL + V</kbd> des specs du site DJI
 
 
@@ -2617,10 +2614,10 @@ Laurent Bailli → (Erwan – Système/Sécurité) & (France – Exploitation/Fo
 ---
 
 <!--pmd
-id:"drone_journal"
-title:"Journal de vol"
-parent:"drone"
-updated:"2026-08-13"
+id: "drone_journal"
+title: "Journal de vol"
+parent: "drone"
+updated: {"date":"2026-08-13"}
 -->
 
 # Journal de vol
@@ -3010,11 +3007,11 @@ Sur alpha tango, préciser le **scénario** (STS-01, STS-02), le **domaine d'act
 ---
 
 <!--pmd
-id:"drone_annexes"
-title:"Annexes drones"
-parent:"drone"
-tags:"annexe_drone"
-updated:"2026-08-13"
+id: "drone_annexes"
+title: "Annexes drones"
+parent: "drone"
+tags: ["annexe_drone"]
+updated: {"date":"2026-08-13"}
 -->
 
 # Annexes drones
@@ -3066,11 +3063,10 @@ Carte des zones géovigilance
 
 
 <!--pmd
-id:"figures"
-title:"Figures, tables and equations"
-kind:"figures"
-parent:"home"
-updated:"2026-10-29"
+id: "figures"
+title: "Figures, tables and equations"
+parent: "home"
+kind: "figures"
+updated: {"date":"2026-10-29"}
 -->
 # Figures, tables and equations
-
