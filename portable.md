@@ -18,6 +18,15 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 
 
 <!--pmd
+id: "new-page"
+title: "New page"
+parent: "home"
+updated: {"date":"2026-11-04"}
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id: "technique"
 title: "Technique"
 parent: "home"
