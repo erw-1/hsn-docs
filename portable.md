@@ -1085,6 +1085,7 @@ headingNumbers: "1.1.1.1.1.1.1."
 
 ### swipe gauche depuis la preview sur mobile : pas de retour au raw md
 
+![screenshot_20261104_113633_samsung_browser](assets/screenshot_20261104_113633_samsung_browser.jpg)
 
 
 #### pas de retour à la ligne possible sur la première ligne d'une alerte GFM
