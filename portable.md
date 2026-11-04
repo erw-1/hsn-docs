@@ -1000,9 +1000,16 @@ updated: {"date":"2026-10-28","note":"France et Erwan"}
 id: "presentation_voirie"
 title: "Presentation Voirie"
 parent: "suivi_mt_voirie"
-updated: {"date":"2026-11-03"}
+updated: {"date":"2026-11-04"}
 -->
 # Présentation Voirie
+
+## grandes parties
+- presentation
+- construction du référentiel 
+- notation de l'état des routes 
+
+
 
 1. Connexion à la plateforme
 ![image-6](assets/image-6.png)
