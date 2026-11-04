@@ -18,14 +18,21 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 
 
 <!--pmd
-id: "new-page"
-title: "New page"
+id: "couche-de-suivi-services"
+title: "Couche de suivi services"
 parent: "home"
+aliases: ["new-page"]
 updated: {"date":"2026-11-04"}
 -->
-# New page
+# Couche de suivi services
 
-Start writing here.
+1. Rework la couche pour qu'elle soit facilement éditable dans sa structure (ajout de nouveaux champs quand un nouveau service apparaît) et dans son contenu (couche éditable depuis Geoter et normée - bool/service).  
+<br>
+
+2. Décliner cette couche dans chaque emprise de scope (com/cc/syndic).  
+<br>
+
+3. Présenter les dépendances entre les différentes emprises (ex : commune de Port qui est dans l'aire d'action du Sied 70 ; Vesoul est dans la CAV).
 <!--pmd
 id: "technique"
 title: "Technique"
