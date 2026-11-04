@@ -1007,7 +1007,9 @@ updated: {"date":"2026-11-04"}
 ## grandes parties
 - presentation
 - construction du référentiel 
-- notation de l'état des routes 
+- notation de l'état des routes
+- aide à la décision
+- gestion des travaux 
 
 
 
@@ -1076,10 +1078,14 @@ headingNumbers: "1.1.1.1.1.1.1."
 id: "bugs"
 title: "bugs"
 parent: "feedback_appli"
-updated: {"date":"2026-11-03"}
+updated: {"date":"2026-11-04"}
 headingNumbers: "1.1.1.1.1.1.1."
 -->
 # bugs
+
+### swipe gauche depuis la preview sur mobile : pas de retour au raw md
+
+
 
 #### pas de retour à la ligne possible sur la première ligne d'une alerte GFM
 :::success
