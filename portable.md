@@ -18,6 +18,16 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 
 
 <!--pmd
+id: "notes-conflans"
+title: "Notes Conflans"
+parent: "home"
+aliases: ["new-page-2"]
+updated: {"date":"2026-11-05"}
+-->
+# Notes Conflans pt2
+
+
+<!--pmd
 id: "couche-de-suivi-services"
 title: "Couche de suivi services"
 parent: "home"
