@@ -24,7 +24,32 @@ parent: "home"
 aliases: ["new-page-2"]
 updated: {"date":"2026-11-05"}
 -->
-# Notes Conflans pt2
+# Conflans sur Lanterne - Présentation Géoter + Sous-brique réseaux humides
+
+:::info
+**Participants**  
+Julie  
+France  
+Erwan
+:::
+
+- Public intéressé par la technique
+- Schéma directeur assainissement
+- Dimension SIG déjà connue
+- Deux secrétaires
+- Cadastre utilisé via des outils pas à jour (cartes.gouv + baltic)
+- frileux monétairement
+- besoin d'intégrer des points avec des liens (type liens CCTV)
+<br>
+<br>
+- Besoin d'anticiper les fuites d'eau
+- Compteurs connectés
+- Simplification de la facturation eau 
+<br>
+<br>
+
+++Intéressement++
+- Projet cimetière 
 
 **présenté :**
 - Geoter
