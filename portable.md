@@ -33,6 +33,14 @@ France
 Erwan
 :::
 
+**présenté :**
+- Geoter
+- sous brique voirie
+- sous brique réseaux humides
+- Supervision IOT
+<br>
+<br>
+
 - Public intéressé par la technique
 - Schéma directeur assainissement
 - Dimension SIG déjà connue
@@ -42,6 +50,7 @@ Erwan
 - besoin d'intégrer des points avec des liens (type liens CCTV)
 <br>
 <br>
+
 - Besoin d'anticiper les fuites d'eau
 - Compteurs connectés
 - Simplification de la facturation eau 
@@ -51,12 +60,7 @@ Erwan
 ++Intéressement++
 - Projet cimetière 
 
-**présenté :**
-- Geoter
-- sous brique voirie
-- sous brique réseaux humides
-- Supervision IOT
-- 
+
 <!--pmd
 id: "couche-de-suivi-services"
 title: "Couche de suivi services"
