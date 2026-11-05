@@ -30,7 +30,8 @@ updated: {"date":"2026-11-05"}
 - Geoter
 - sous brique voirie
 - sous brique réseaux humides
-- Supervision 
+- Supervision IOT
+- 
 <!--pmd
 id: "couche-de-suivi-services"
 title: "Couche de suivi services"
