@@ -876,7 +876,11 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
  
  :question: Quand Teams change réellement de "tenant" ? 
  
-==Communication==
+==Communication (Drone)==  
+
+- [?] Enregistrer les photos prises avec le drone lors du séminaire à Ray-Sur-Saône (4/11)
+- [?] Enregistrer les photos prises avec le drone (Voiture+ Go pro) > échéance 1er décembre
+    - [?] Et aussi modéliser la voiture/faire une présentation brève des étapes/proposer un ren
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
