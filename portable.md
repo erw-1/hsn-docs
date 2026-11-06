@@ -845,10 +845,12 @@ parent: "points-hebdo"
 aliases: ["new-page-4","ph-20261106"]
 updated: {"date":"2026-11-06"}
 -->
-# PH 2026.11.06
+# Point Hebdo 2026.11.06
 
+## Erwan
 
-à demander à ERIDANIS : position du compteur + conso veille + rendement + ref + lien applicatif 
+- à demander à ERIDANIS : position du compteur + conso veille + rendement + ref + lien applicatif 
+- 
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
