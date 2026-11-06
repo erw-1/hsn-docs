@@ -1038,6 +1038,14 @@ You must credit the original creator(s) and preserve all copyright notices and t
 Provided “as is”, without warranty. To the extent permitted by law, the authors accept no liability.
 ```
 <!--pmd
+id: "new-page-6"
+title: "New page"
+updated: {"date":"2026-11-06"}
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id: "suivi_mt_voirie"
 title: "Suivi MT Voirie"
 parent: "communication"
