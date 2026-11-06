@@ -849,8 +849,13 @@ updated: {"date":"2026-11-06"}
 
 ## Erwan
 
-- ==API== à demander à ERIDANIS : position du compteur + conso veille + rendement + ref + lien applicatif 
+- ==API== à demander à ERIDANIS un flux API : position du compteur + conso veille + rendement + ref + lien applicatif pour visibilité sur Géoter
+    - Demander à ERIDANIS les éventuels formules des calculs qui se feraient côté client  
+<br>
+<br>
 - ==GEOTER== Ajouter les couches de MT voirie sur Géoter
+    - Demander à SOGEFI les accès aux BDD
+    - Se creuser la tête sur la notion de scope géographique 
 - ==VOIRIE== Finir autoformation MT voirie, faire un premier jet de vidéo lundi en TT
 - ==GTF== ==FME== ==VH== Fiabiliser la VH pour lundi 5h du mat
 - 
