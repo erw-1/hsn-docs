@@ -909,9 +909,44 @@ Erwan
 
 
 <!--pmd
+id: "feedback_appli"
+title: "Feedback appli"
+updated: {"date":"2026-10-30"}
+-->
+# Feedback appli
+
+Une page "parente" peut avoir du contenu. Les dossiers comme "`Technique`" jouent le même rôle qu'un parent mais n'ont pas de contenu.
+
+hello from github (test autopull)  
+Coucou depuis l'outil (test autosave)
+
+ 
+Page enfant de cette page parente : [bugs](#/bugs)
+
+  
+```txt
+SAGA License 1.0 - Source Available, Gratis with Attribution
+Copyright © 2026 Erwan Vinot
+
+You may use, copy, modify, and redistribute this software, including modified versions, provided that it remains free of charge to users.
+You must keep its complete source code available to users under this license.
+You must credit the original creator(s) and preserve all copyright notices and this license in every copy.
+
+Provided “as is”, without warranty. To the extent permitted by law, the authors accept no liability.
+```
+<!--pmd
+id: "tri"
+title: "Tri"
+aliases: ["new-page-6"]
+updated: {"date":"2026-11-06"}
+-->
+# Tri
+
+Il faut replacer les pages de ce groupe sous [Home](#/) après les avoir finalisées.
+<!--pmd
 id: "backup_teams"
 title: "Backup teams"
-parent: "communication"
+parent: "tri"
 updated: {"date":"2026-11-03"}
 -->
 # Backup teams
@@ -920,7 +955,7 @@ Voir google docs envoyé par mail `obj:`=="Backup Teams France Erwan"==
 <!--pmd
 id: "todolist"
 title: "Todolist (à mettre à jour)"
-parent: "home"
+parent: "tri"
 updated: {"date":"2026-10-29"}
 -->
 
@@ -1011,41 +1046,6 @@ updated: {"date":"2026-10-29"}
         -
 
 
-<!--pmd
-id: "feedback_appli"
-title: "Feedback appli"
-updated: {"date":"2026-10-30"}
--->
-# Feedback appli
-
-Une page "parente" peut avoir du contenu. Les dossiers comme "`Technique`" jouent le même rôle qu'un parent mais n'ont pas de contenu.
-
-hello from github (test autopull)  
-Coucou depuis l'outil (test autosave)
-
- 
-Page enfant de cette page parente : [bugs](#/bugs)
-
-  
-```txt
-SAGA License 1.0 - Source Available, Gratis with Attribution
-Copyright © 2026 Erwan Vinot
-
-You may use, copy, modify, and redistribute this software, including modified versions, provided that it remains free of charge to users.
-You must keep its complete source code available to users under this license.
-You must credit the original creator(s) and preserve all copyright notices and this license in every copy.
-
-Provided “as is”, without warranty. To the extent permitted by law, the authors accept no liability.
-```
-<!--pmd
-id: "tri"
-title: "Tri"
-aliases: ["new-page-6"]
-updated: {"date":"2026-11-06"}
--->
-# Tri
-
-Il faut replacer les pages de ce groupe sous [Home](#/) après les avoir finalisé.
 <!--pmd
 id: "suivi_mt_voirie"
 title: "Suivi MT Voirie"
