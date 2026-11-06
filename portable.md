@@ -908,7 +908,8 @@ Divers
 :::warning
 Actions GEOTER
 * [?] Mise en place d'une redondance sur les données liées à la voirie (Ponctuels et routes pour le moment, voir plus tard pour la otation des données
-* [?] 
+* [?] IDM pour les compteurs d'eau disponibles sur GEOTER (comme l'ex. sur l'éclairage public
+    * e 
 :::
 
 
