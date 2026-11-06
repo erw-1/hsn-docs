@@ -874,7 +874,9 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - [?] Croiser avec lui pour plutôt proposer la démo de l'agent conversationnel auprès de ING70 directement sur place
 - [?] Accentuer les supports sur GEOTER/ VOIRIE/ RESEAUX HUMIDES
  
-:question: Quand Teams change réellement
+ :question: Quand Teams change réellement de "tenant" ? 
+ 
+==Communication==
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
