@@ -866,11 +866,14 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - ==3D== - Faire le rendu de la voiture HSN sur Metashape pour Smart Cities Tour
 
 ### France
-
 (en cours jpp) 
 
 ==1er décembre ASCT==
-    [?] Inscrire 
+
+- [?] Inscrire Olivier de SOGEFI pour les ASCT
+- [?] Croiser avec lui pour plutôt proposer la démo de l'agent conversationnel auprès de ING70 directement sur place
+- [?] 
+   
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
