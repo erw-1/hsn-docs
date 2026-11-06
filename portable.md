@@ -868,7 +868,46 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 ### France
 
 
+Réunions et démonstrations
 
+Olivier / Sogefi — préparer le point du 1er décembre.
+Que faut-il envoyer en amont ?
+Souhaite-t-on une démonstration et l’ouverture de l’outil conversationnel PLU (réseaux humides, cartographie, voirie) ?
+Inscrire la démonstration de l’agent conversationnel au support de Haute-Saône Numérique.
+
+
+Sogefi — vérifier s’il existe une formation ou un webinaire sur la V3.
+Organiser une réunion avec ING70 et Oxalis pour traiter les points 1, 2 et 3, puis prévoir un rendez-vous SSIR / Sogefi.
+Confirmer lorsque CartADS sera opérationnel.
+Reproposer des formations GEOTER à la DSSP.
+
+Questions à clarifier
+
+Teams : y a-t-il eu des changements ?
+Demander à Guillaume des précisions sur la domanialité des données.
+Clarifier les thématiques de HSN.
+Vérifier la légende des collections et le thème à utiliser pour sauvegarder les couches.
+
+Données et outils
+
+Enregistrer quelque part les photos des 4 et 5 novembre.
+Penser à prendre une capture d’écran.
+Mettre en place une redondance des données ROUTES.
+Ouvrir les données cuivre à Yassin et Laurent Blein.
+Mettre en place les PV.
+Compteurs d’eau dans GEOTER — s’inspirer de l’exemple de l’éclairage :
+Position et référence du compteur.
+Consommation de la veille.
+Lien vers l’outil métier.
+Pour les compteurs de tête et de secteur : ajouter le rendement de la veille.
+
+
+
+Actions à effectuer
+
+Rappeler le SDIS.
+Appeler une ou deux collectivités.
+Voir Julie au sujet du SPANC.
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
