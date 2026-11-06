@@ -1038,13 +1038,14 @@ You must credit the original creator(s) and preserve all copyright notices and t
 Provided “as is”, without warranty. To the extent permitted by law, the authors accept no liability.
 ```
 <!--pmd
-id: "new-page-6"
-title: "New page"
+id: "tri"
+title: "Tri"
+aliases: ["new-page-6"]
 updated: {"date":"2026-11-06"}
 -->
-# New page
+# Tri
 
-Start writing here.
+Il faut replacer les pages de ce groupe sous [Home](#/) après les avoir finalisé.
 <!--pmd
 id: "suivi_mt_voirie"
 title: "Suivi MT Voirie"
