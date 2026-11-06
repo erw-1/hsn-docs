@@ -866,9 +866,6 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - ==3D== - Faire le rendu de la voiture HSN sur Metashape pour Smart Cities Tour
 
 ### France
-
-
-
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
