@@ -880,7 +880,7 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 ==Communication (Drone)==  
 
 - [?] Enregistrer les photos prises avec le drone lors du séminaire à Ray-Sur-Saône (4/11)
-- [?] Enregistrer les photos prises avec le drone (Voiture+ Go pro) > échéance 1er décembre
+- [?] Enregistrer les photos prises avec le drone (Voiture+ Go pro) > :warning: échéance 1er décembre
     - [?] Et aussi modéliser la voiture/faire une présentation brève des étapes/proposer un rendu flashy lol :camera_with_flash:
  
 
@@ -896,6 +896,7 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - [?] Confirmer la tenue du Webinaire sur ARAMIS V3? 
 - [?] cf  Ing70 ==contact/RDV== 
 - [?]  :warning: :warning: Enjeu vis à vis de la signature de la CAV :warning: :warning: Besoin d'avoir une date pour savoir quand la passerelle serait fonctionnelle pour l'ADS 
+- [?] Confirmer les évolutions futures vis à vis de la légende dans le module collections
 
 
 
