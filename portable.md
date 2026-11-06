@@ -851,17 +851,19 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 ## Erwan
 
-- ==API== à demander à ERIDANIS un flux API : position du compteur + conso veille + rendement + ref + lien applicatif pour visibilité sur Géoter
+- ==API== - à demander à ERIDANIS un flux API : position du compteur + conso veille + rendement + ref + lien applicatif pour visibilité sur Géoter
     - Demander à ERIDANIS les éventuels formules des calculs qui se feraient côté client  
 <br>
 <br>
-- ==GEOTER== Ajouter les couches de MT voirie sur Géoter
+- ==GEOTER== - Ajouter les couches de MT voirie sur Géoter
     - Demander à SOGEFI les accès aux BDD
     - Se creuser la tête sur la notion de scope géographique qui n'est pas prévue par Géoter (filtre par INSEE)
-    - Demander les règles de symbologie, les formules
-- ==VOIRIE== Finir autoformation MT voirie, faire un premier jet de vidéo lundi en TT
-- ==GTF== ==FME== ==VH== Fiabiliser la VH pour lundi 5h du mat
-- ==3D== Faire le rendu de la voiture HSN sur Metashape
+    - Demander les règles de symbologie, les formules  
+<br>
+<br>
+- ==VOIRIE== - Finir autoformation MT voirie, faire un premier jet de vidéo lundi en TT
+- ==GTF== ==FME== ==VH== - Fiabiliser la VH pour lundi 5h du mat
+- ==3D== - Faire le rendu de la voiture HSN sur Metashape
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
