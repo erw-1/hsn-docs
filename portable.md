@@ -888,7 +888,7 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - [?] Contacter Caroline FERREIRA, secrétaire de Brussey pour qu'elle transmette l'info des ASCT à son "club de secrétaires" et lui reproposer une démo au besoin
 - [?] Rappeler Lionel GRANDJEAN (SDIS) pour convenir d'un RDV vis à vis du Plan de Défense à mettre en place pour le 1er décembre 
 - [?] Confirmer 1 ou 2 rdv supplémentaires pour le déploiement SIPR
-- [?] Contacter Guillaume MALATERRE (SIDEC) pour savoir comment se passe la domanialitz des données sur l'applicatif réseaux humides
+- [?] Contacter Guillaume MALATERRE (SIDEC) pour savoir comment se passe la domanialité des données sur l'applicatif réseaux humides
     - [?] Ing70 : Contacter Florence PERIARD et Oxalys pour informer la présence des ponts 1/2/3 pour la Passerelle ADS ET ensuite mise en place RDV avec SOGEFI et le SSIR
 
 
@@ -908,10 +908,21 @@ Divers
 :::warning
 - Actions GEOTER  
 [?] Mise en place d'une redondance sur les données liées à la voirie (Ponctuels et routes pour le moment, voir plus tard pour la otation des données  
-[?] IDM pour les compteurs d'eau disponibles sur GEOTER (comme l'ex. sur l'éclairage public
-
+[?] IDM pour les compteurs d'eau disponibles sur GEOTER (comme l'ex. sur l'éclairage public ( Compteur particulier : Position du compteur / Consommation de la veille / Lien vers l'apoplicatif métier et pour les compteurs de têtes/sectorisation : mêmes champs + rendement de la veille)
+- [?] Clarifier/Trier les thématiques sur GEOTER..........
+- [?] Ouvrir les données cuivre à Yassine et Laurent Blain
+- [?] Mise en place des attestations de formations pour GEOTER
+- [?] Mise en place des PV pour SPANC
+- [?] Mise en place des PV pour SIPR 
+- [?] Mise en place des PV pour applcatif réseaux humides
+- [?] Reproposer des créneaux pour formation GEOTER DSSP 
+- [?] Organiser créneau formation du 20 décembre avec Julie
 :::
 
+
+
+
+ 
 
 
 
