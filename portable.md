@@ -1249,7 +1249,7 @@ Appareil capable de s'élever et de circuler dans l'atmosphère terrestre.
 id: "drone_intro"
 title: "Intro drones"
 parent: "drone"
-updated: {"date":"2026-10-28"}
+updated: {"date":"2026-11-06"}
 -->
 
 # Notes drones
@@ -1259,6 +1259,8 @@ updated: {"date":"2026-10-28"}
 - [x] a1-a3 alphatango > [PDF de prep ](https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_categorie_Ouverte.pdf)
 - [ ] [A2 et CATS](https://prepa-drone.fr/)
 
+
+![PDF](https://www.ecologie.gouv.fr/sites/default/files/documents/Guide_categorie_Ouverte.pdf)
 
 ### Révisions A2
 
