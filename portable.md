@@ -872,8 +872,9 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 - [?] Inscrire Olivier de SOGEFI pour les ASCT
 - [?] Croiser avec lui pour plutôt proposer la démo de l'agent conversationnel auprès de ING70 directement sur place
-- [?] 
-   
+- [?] Accentuer les supports sur GEOTER/ VOIRIE/ RESEAUX HUMIDES
+ 
+:question: Quand Teams change réellement
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
