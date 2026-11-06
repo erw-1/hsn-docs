@@ -889,12 +889,13 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - [?] Rappeler Lionel GRANDJEAN (SDIS) pour convenir d'un RDV vis à vis du Plan de Défense à mettre en place pour le 1er décembre 
 - [?] Confirmer 1 ou 2 rdv supplémentaires pour le déploiement SIPR
 - [?] Contacter Guillaume MALATERRE (SIDEC) pour savoir comment se passe la domanialitz des données sur l'applicatif réseaux humides
-    - [?] Contacter Florence PERIARD (ING70) et Oxalys pour informer la présence des ponts 1/2/3 pour la Passerelle ADS 
+    - [?] Ing70 : Contacter Florence PERIARD et Oxalys pour informer la présence des ponts 1/2/3 pour la Passerelle ADS ET ensuite mise en place RDV avec SOGEFI et le SSIR
 
 
 ==GEOTER / ARAMIS / SOGEFI==
 - [?] Confirmer la tenue du Webinaire sur ARAMIS V3? 
 - [?] cf  Ing70 ==contact/RDV== 
+- [?] Besoin d'avoir une date pour savoir quand la passerelle serait fonctionnelle pour l'ADS ( /
 
 
 
