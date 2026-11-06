@@ -906,16 +906,22 @@ Divers
 :::
 
 :::warning
-Actions GEOTER  
+- Actions GEOTER  
 [?] Mise en place d'une redondance sur les données liées à la voirie (Ponctuels et routes pour le moment, voir plus tard pour la otation des données  
 [?] IDM pour les compteurs d'eau disponibles sur GEOTER (comme l'ex. sur l'éclairage public
+- lol
 - [?] e
     - [?] e
 :::
 
 
 
+:::danger
+1. Risk or dangerous action.
+2. lol
 
+- lol
+:::
 
 
 
