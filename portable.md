@@ -812,6 +812,15 @@ updated: {"date":"2026-10-28"}
 -->
 
 <!--pmd
+id: "new-page-3"
+title: "New page"
+parent: "communication"
+updated: {"date":"2026-11-06"}
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
 parent: "communication"
