@@ -866,15 +866,16 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - ==3D== - Faire le rendu de la voiture HSN sur Metashape pour Smart Cities Tour
 
 ### France
-(en cours jpp) 
+(en cours jpp)  
 
+ :question: Quand Teams change réellement de "tenant" ? 
+ 
 ==1er décembre ASCT==
 
 - [?] Inscrire Olivier de SOGEFI pour les ASCT
 - [?] Croiser avec lui pour plutôt proposer la démo de l'agent conversationnel auprès de ING70 directement sur place
 - [?] Accentuer les supports sur GEOTER/ VOIRIE/ RESEAUX HUMIDES
  
- :question: Quand Teams change réellement de "tenant" ? 
  
 ==Communication (Drone)==  
 
@@ -885,6 +886,26 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 ==Contact/RDV== 
 - [?] Contacter Caroline FERREIRA, secrétaire de Brussey pour qu'elle transmette l'info des ASCT à son "club de secrétaires" et lui reproposer une démo au besoin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
