@@ -1014,7 +1014,6 @@ updated: {"date":"2026-10-29"}
 <!--pmd
 id: "feedback_appli"
 title: "Feedback appli"
-parent: "home"
 updated: {"date":"2026-10-30"}
 -->
 # Feedback appli
