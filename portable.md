@@ -861,7 +861,7 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
     - Demander les règles de symbologie, les formules
 - ==VOIRIE== Finir autoformation MT voirie, faire un premier jet de vidéo lundi en TT
 - ==GTF== ==FME== ==VH== Fiabiliser la VH pour lundi 5h du mat
-- 
+- ==3D== Faire le rendu de la voiture HSN sur Metashape
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
