@@ -896,7 +896,9 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - [?] Confirmer la tenue du Webinaire sur ARAMIS V3? 
 - [?] cf  Ing70 ==contact/RDV== 
 - [?]  :warning: :warning: Enjeu vis à vis de la signature de la CAV :warning: :warning: Besoin d'avoir une date pour savoir quand la passerelle serait fonctionnelle pour l'ADS 
-- [?] Confirmer les évolutions futures vis à vis de la légende dans le module collections
+- [?] Confirmer les évolutions futures :  légende dans le module collections, création de favoris/thèmes pour les couches etc. 
+    - [?] Intégrer Anthony dans Ma connutauté MT
+ 
 
 
 
