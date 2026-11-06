@@ -895,8 +895,7 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 ==GEOTER / ARAMIS / SOGEFI==
 - [?] Confirmer la tenue du Webinaire sur ARAMIS V3? 
 - [?] cf  Ing70 ==contact/RDV== 
-- [?] Besoin d'avoir une date pour savoir quand la passerelle serait fonctionnelle pour l'ADS
-- 
+- [?]  :warning: :warning: Enjeu vis à vis de la signature de la CAV :warning: :warning: Besoin d'avoir une date pour savoir quand la passerelle serait fonctionnelle pour l'ADS 
 
 
 
