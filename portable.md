@@ -885,9 +885,14 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
  
 
 ==Contact/RDV== 
-- [?] Contacter Caroline FERREIRA, secrétaire de Brussey pour qu'elle transmette l'info des ASCT à son "club de secrétaires" et lui reproposer une démo au besoin 
+- [?] Contacter Caroline FERREIRA, secrétaire de Brussey pour qu'elle transmette l'info des ASCT à son "club de secrétaires" et lui reproposer une démo au besoin
+- [?] Rappeler Lionel GRANDJEAN (SDIS) pour convenir d'un RDV vis à vis du Plan de Défense à mettre en place pour le 1er décembre 
+- [?] Confirmer 1 ou 2 rdv supplémentaires pour le déploiement SIPR<br>
 
 
+==GEOTER / ARAMIS / SOGEFI==
+- [?] Confirmer la tenue du Webinaire sur ARAMIS V3? 
+- [?] 
 
 
 
