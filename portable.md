@@ -880,7 +880,11 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 - [?] Enregistrer les photos prises avec le drone lors du séminaire à Ray-Sur-Saône (4/11)
 - [?] Enregistrer les photos prises avec le drone (Voiture+ Go pro) > échéance 1er décembre
-    - [?] Et aussi modéliser la voiture/faire une présentation brève des étapes/proposer un ren
+    - [?] Et aussi modéliser la voiture/faire une présentation brève des étapes/proposer un rendu flashy lol :camera_with_flash:
+ 
+
+==Contact/RDV== 
+- [?] Contacter Caroline FERREIRA, secrétaire de Brussey pour qu'elle transmette l'info des ASCT à son "club de secrétaires" et lui reproposer une démo au besoin 
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
