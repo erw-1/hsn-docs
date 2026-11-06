@@ -892,8 +892,11 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
     - [?] Ing70 : Contacter Florence PERIARD et Oxalys pour informer la présence des ponts 1/2/3 pour la Passerelle ADS ET ensuite mise en place RDV avec SOGEFI et le SSIR
 
 
-==GEOTER / ARAMIS / SOGEFI==
-    DIVERS
+==GEOTER / ARAMIS / SOGEFI==  
+
+:::info
+Divers
+:::
 * [?] Confirmer la tenue du Webinaire sur ARAMIS V3? 
 * [?] cf  Ing70 ==contact/RDV== 
 * [?]  :warning: :warning: Enjeu vis à vis de la signature de la CAV :warning: :warning: Besoin d'avoir une date pour savoir quand la passerelle serait fonctionnelle pour l'ADS 
@@ -910,6 +913,14 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 
  
+
+
+
+
+
+
+
+
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
