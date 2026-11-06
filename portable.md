@@ -867,7 +867,7 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 ### France
 
-![(en cours jpp)  ](assets/example-video.webm "GIF mode")
+![(en cours jpp)  ](assets/ehttps://giphy.com/gifs/low-cortisol-X0yofprlZVKZL0Xakh "GIF mode")
 
  :question: Quand Teams change réellement de "tenant" ? 
  
