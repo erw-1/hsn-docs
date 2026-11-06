@@ -830,9 +830,18 @@ updated: {"date":"2026-11-06"}
 -->
 
 <!--pmd
+id: "points-hebdo"
+title: "Points Hebdo"
+parent: "réunions"
+kind: "folder"
+aliases: ["new-page-5"]
+updated: {"date":"2026-11-06"}
+-->
+
+<!--pmd
 id: "new-page-4"
 title: "New page"
-parent: "réunions"
+parent: "points-hebdo"
 updated: {"date":"2026-11-06"}
 -->
 # New page
