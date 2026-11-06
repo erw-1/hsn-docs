@@ -847,6 +847,7 @@ updated: {"date":"2026-11-06"}
 -->
 # Point Hebdo 2026.11.06
 
+Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 ## Erwan
 
