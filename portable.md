@@ -850,7 +850,10 @@ updated: {"date":"2026-11-06"}
 ## Erwan
 
 - ==API== à demander à ERIDANIS : position du compteur + conso veille + rendement + ref + lien applicatif 
-- ==GEOTER== Ajouter les couches de MT voirie
+- ==GEOTER== Ajouter les couches de MT voirie sur Géoter
+- ==VOIRIE== Finir autoformation MT voirie, faire un premier jet de vidéo lundi en TT
+- ==GTF== ==FME== ==VH== Fiabiliser la VH pour lundi 5h du mat
+- 
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
