@@ -812,9 +812,27 @@ updated: {"date":"2026-10-28"}
 -->
 
 <!--pmd
-id: "new-page-3"
-title: "New page"
+id: "déplacements"
+title: "Déplacements"
 parent: "communication"
+kind: "folder"
+aliases: ["new-page-3"]
+updated: {"date":"2026-11-06"}
+-->
+
+<!--pmd
+id: "réunions"
+title: "Réunions"
+parent: "communication"
+kind: "folder"
+aliases: ["new-page-3","déplacements_copy"]
+updated: {"date":"2026-11-06"}
+-->
+
+<!--pmd
+id: "new-page-4"
+title: "New page"
+parent: "réunions"
 updated: {"date":"2026-11-06"}
 -->
 # New page
@@ -823,7 +841,7 @@ Start writing here.
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
-parent: "communication"
+parent: "déplacements"
 aliases: ["new-page-2"]
 updated: {"date":"2026-11-05"}
 -->
