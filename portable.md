@@ -855,7 +855,8 @@ updated: {"date":"2026-11-06"}
 <br>
 - ==GEOTER== Ajouter les couches de MT voirie sur Géoter
     - Demander à SOGEFI les accès aux BDD
-    - Se creuser la tête sur la notion de scope géographique 
+    - Se creuser la tête sur la notion de scope géographique qui n'est pas prévue par Géoter (filtre par INSEE)
+    - Demander les règles de symbologie, les formules
 - ==VOIRIE== Finir autoformation MT voirie, faire un premier jet de vidéo lundi en TT
 - ==GTF== ==FME== ==VH== Fiabiliser la VH pour lundi 5h du mat
 - 
