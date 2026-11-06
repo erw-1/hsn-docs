@@ -849,8 +849,8 @@ updated: {"date":"2026-11-06"}
 
 ## Erwan
 
-- à demander à ERIDANIS : position du compteur + conso veille + rendement + ref + lien applicatif 
-- 
+- ==API== à demander à ERIDANIS : position du compteur + conso veille + rendement + ref + lien applicatif 
+- ==GEOTER== Ajouter les couches de MT voirie
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
