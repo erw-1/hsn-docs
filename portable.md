@@ -847,6 +847,7 @@ updated: {"date":"2026-11-06"}
 -->
 # Point Hebdo 2026.11.06
 
+
 ## Erwan
 
 - ==API== à demander à ERIDANIS un flux API : position du compteur + conso veille + rendement + ref + lien applicatif pour visibilité sur Géoter
