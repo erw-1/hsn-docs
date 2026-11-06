@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "384ec4119651a1803c492548ee519cc8588cb4d751691fc9e7c72ae3669ccb46",
-      "git": "e5ed532071f4d4129f6a90629a339222a6b14948"
+      "hash": "c64754df0d70eaa051624b1e68fec219d91734779076cb1e9aa2af482e854f83",
+      "git": "99df22e2ce7fbcd53ed03c9118509d0c2eee6c03"
     },
     {
       "path": ".nojekyll",
@@ -17,9 +17,9 @@
       "git": "1524e30134bd4a455d061e330e842db07b814402"
     },
     {
-      "path": "pmd-reader-dist/reader-ac9b7a5645c4df37.js",
-      "hash": "ac9b7a5645c4df377dde665a9e2389845155b2ed7cfa988063299929119c36d0",
-      "git": "e5630d316673572b54c44983b7663a8f9d2f5bd8"
+      "path": "pmd-reader-dist/reader-ebf3ae338af1b859.js",
+      "hash": "ebf3ae338af1b8596ebdfa2874cfe424c2305065fdf804c33e4f7597cdc10cba",
+      "git": "f0806af0525152279f0cfbce5dedc488cf5c4f78"
     },
     {
       "path": "pmd.json",
@@ -28,8 +28,8 @@
     },
     {
       "path": "portable.md",
-      "hash": "4c3dc0974353e7a70a07abbf55723180c89ca1357c04cedf94c44e8ce190fc6b",
-      "git": "25ebd3d85766d0e0542078283b7a5107e86e83cf"
+      "hash": "4ef7e5a41ede835f4f67de2890924131e95124263a12a1ec7c429b52c73bc721",
+      "git": "e966dd27568d36b1ce9f991e8dc47d8775204fc6"
     },
     {
       "path": "assets/emojis/lien_hsf_confiance_faible.webp",
@@ -245,6 +245,11 @@
       "path": "assets/screenshot_20261104_113633_samsung_browser.jpg",
       "hash": "4ebaeb8f218425542f2fb31d39e6dfe515e828598adfc463039aae510934a637",
       "git": "b9f0323c966454956b071b63cf8cb59158bb78bd"
+    },
+    {
+      "path": "assets/drawing.excalidraw",
+      "hash": "86e23b2b7b5aa3d2cc062f0c4d5bf6b0ca47037af590cb28a9918e503d297666",
+      "git": "3982a93bbd2b3564f0dc99efa9bdf5a10618efd1"
     }
   ]
 }
