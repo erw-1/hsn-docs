@@ -867,6 +867,15 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 ### France
 
+```mermaid
+kanban
+  Pas commencé
+    [Test]
+  Abordé
+    [Review diagrams]
+  Terminé
+    [Ship bundle]
+```
 
  :question: Quand Teams change réellement de "tenant" ? 
  
