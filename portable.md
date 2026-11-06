@@ -870,13 +870,9 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 Réunions et démonstrations
 
-Olivier / Sogefi — préparer le point du 1er décembre.
-Que faut-il envoyer en amont ?
-Souhaite-t-on une démonstration et l’ouverture de l’outil conversationnel PLU (réseaux humides, cartographie, voirie) ?
-Inscrire la démonstration de l’agent conversationnel au support de Haute-Saône Numérique.
 
 
-Sogefi — vérifier s’il existe une formation ou un webinaire sur la V3.
+[?] Sogefi — vérifier s’il existe une formation ou un webinaire sur la V3 de ARAMIS.
 Organiser une réunion avec ING70 et Oxalis pour traiter les points 1, 2 et 3, puis prévoir un rendez-vous SSIR / Sogefi.
 Confirmer lorsque CartADS sera opérationnel.
 Reproposer des formations GEOTER à la DSSP.
