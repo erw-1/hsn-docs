@@ -869,7 +869,8 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
 (en cours jpp) 
 
-
+==1er décembre ASCT==
+    [?] Inscrire 
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
