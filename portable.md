@@ -872,38 +872,45 @@ Réunions et démonstrations
 
 
 
-[?] Sogefi — vérifier s’il existe une formation ou un webinaire sur la V3 de ARAMIS.
-Organiser une réunion avec ING70 et Oxalis pour traiter les points 1, 2 et 3, puis prévoir un rendez-vous SSIR / Sogefi.
-Confirmer lorsque CartADS sera opérationnel.
-Reproposer des formations GEOTER à la DSSP.
+==SOGEFI== - Vérifier s’il existe une formation ou un webinaire sur la V3 d’ARAMIS  
+<br>
+==RÉUNIONS== - Organiser une réunion avec ING70 et Oxalis pour traiter les points 1, 2 et 3, puis prévoir un rendez-vous SSIR / Sogefi  
+<br>
+==CARTADS== - Confirmer lorsque CartADS sera opérationnel  
+<br>
+==GEOTER== - Reproposer des formations GEOTER à la DSSP<br><br>
 
-Questions à clarifier
+==QUESTIONS== - Vérifier s’il y a eu des changements dans Teams  
 
-Teams : y a-t-il eu des changements ?
-Demander à Guillaume des précisions sur la domanialité des données.
-Clarifier les thématiques de HSN.
-Vérifier la légende des collections et le thème à utiliser pour sauvegarder les couches.
+==DONNÉES== - Demander à Guillaume des précisions sur la domanialité des données  
 
-Données et outils
+==HSN== - Clarifier les thématiques  
 
-Enregistrer quelque part les photos des 4 et 5 novembre.
-Penser à prendre une capture d’écran.
-Mettre en place une redondance des données ROUTES.
-Ouvrir les données cuivre à Yassin et Laurent Blein.
-Mettre en place les PV.
-Compteurs d’eau dans GEOTER — s’inspirer de l’exemple de l’éclairage :
-Position et référence du compteur.
-Consommation de la veille.
-Lien vers l’outil métier.
-Pour les compteurs de tête et de secteur : ajouter le rendement de la veille.
+==GÉOTER== - Vérifier la légende des collections et le thème à utiliser pour sauvegarder les couches<br><br>
+
+==PHOTOS== - Enregistrer quelque part les photos des 4 et 5 novembre  
+
+==CAPTURE== - Penser à prendre une capture d’écran  
+
+==ROUTES== - Mettre en place une redondance des données  
+
+==DONNÉES CUIVRE== - Ouvrir les données à Yassin et Laurent Blein  
+
+==PV== - Mettre en place les PV  
+
+==COMPTEURS D’EAU / GEOTER== - S’inspirer de l’exemple de l’éclairage  
+
+Position et référence du compteur  
+Consommation de la veille  
+Lien vers l’outil métier  
+Pour les compteurs de tête et de secteur, ajouter le rendement de la veille<br><br>
 
 
+==SDIS== - Rappeler le SDIS  
 
-Actions à effectuer
+==COLLECTIVITÉS== - Appeler une ou deux collectivités  
 
-Rappeler le SDIS.
-Appeler une ou deux collectivités.
-Voir Julie au sujet du SPANC.
+==SPANC== - Voir Julie au sujet du SPANC
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
