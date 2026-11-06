@@ -839,14 +839,16 @@ updated: {"date":"2026-11-06"}
 -->
 
 <!--pmd
-id: "new-page-4"
-title: "New page"
+id: "ph-2026-11-06"
+title: "PH 2026.11.06"
 parent: "points-hebdo"
+aliases: ["new-page-4","ph-20261106"]
 updated: {"date":"2026-11-06"}
 -->
-# New page
+# PH 2026.11.06
 
-Start writing here.
+
+à demander à ERIDANIS : position du compteur + conso veille + rendement + ref + lien applicatif 
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
