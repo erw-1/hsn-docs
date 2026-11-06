@@ -905,6 +905,11 @@ Divers
  
 :::
 
+:::warning
+Actions GEOTER
+* [?] Mise en place d'une redondance sur les données liées à la voirie (Ponctuels et routes pour le moment, voir plus tard pour la otation des données
+* [?] 
+:::
 
 
 
