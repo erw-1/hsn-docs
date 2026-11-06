@@ -888,12 +888,13 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - [?] Contacter Caroline FERREIRA, secrétaire de Brussey pour qu'elle transmette l'info des ASCT à son "club de secrétaires" et lui reproposer une démo au besoin
 - [?] Rappeler Lionel GRANDJEAN (SDIS) pour convenir d'un RDV vis à vis du Plan de Défense à mettre en place pour le 1er décembre 
 - [?] Confirmer 1 ou 2 rdv supplémentaires pour le déploiement SIPR
-- [?] Contacter Guillaume MALATERRE (SIDEC) pour savoir comment se passe la doman
+- [?] Contacter Guillaume MALATERRE (SIDEC) pour savoir comment se passe la domanialitz des données sur l'applicatif réseaux humides
+    - [?] Contacter Florence PERIARD (ING70) et Oxalys pour informer la présence des ponts 1/2/3 pour la Passerelle ADS 
 
 
 ==GEOTER / ARAMIS / SOGEFI==
 - [?] Confirmer la tenue du Webinaire sur ARAMIS V3? 
-- [?] 
+- [?] cf  Ing70 ==contact/RDV== 
 
 
 
