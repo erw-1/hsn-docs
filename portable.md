@@ -3,7 +3,7 @@ id: "home"
 title: "Home"
 kind: "home"
 tags: ["start"]
-updated: {"date":"2026-11-09"}
+updated: {"date":"2026-11-13"}
 -->
 ![drawing](assets/drawing.excalidraw)
 
@@ -11,6 +11,7 @@ updated: {"date":"2026-11-09"}
 
 Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil[Feedback ici](#/feedback_appli)
 
+test  
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
