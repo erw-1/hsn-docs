@@ -24,7 +24,7 @@ id: "couche-de-suivi-services"
 title: "Couche de suivi services"
 parent: "home"
 aliases: ["new-page"]
-updated: {"date":"2026-11-04"}
+updated: {"date":"2026-11-17"}
 -->
 # Couche de suivi services
 
@@ -33,7 +33,6 @@ updated: {"date":"2026-11-04"}
 
 2. Décliner cette couche dans chaque emprise de scope (com/cc/syndic).  
 <br>
-
 3. Présenter les dépendances entre les différentes emprises (ex : commune de Port qui est dans l'aire d'action du Sied 70 ; Vesoul est dans la CAV).
 <!--pmd
 id: "technique"
@@ -65,7 +64,7 @@ Start writing here.
 id: "analyse_cuivre_fibre"
 title: "Analyse Cuivre - Fibre"
 parent: "sig"
-updated: {"date":"2026-11-17","note":"Erwan"}
+updated: {"date":"2026-10-28","note":"Erwan"}
 -->
 
 # Analyse des accès cuivre actifs et de leur situation fibre
@@ -251,8 +250,6 @@ flowchart TD
 | 4 | Proximité sur coordonnées cuivre | Utilisée lorsque les coordonnées fibre Orange sont absentes ; immeuble HSF le plus proche dans le même code INSEE, à 150 m maximum | Faible |
 
 Le rapprochement géographique retient un seul candidat, le plus proche. La limite à la même commune INSEE réduit le risque de rattacher une adresse à un immeuble situé dans une commune voisine.
-
-![image](assets/image.png)
 
 Répartition actuelle :
 
