@@ -826,7 +826,6 @@ id: "réunions"
 title: "Réunions"
 parent: "communication"
 kind: "folder"
-aliases: ["new-page-3","déplacements_copy"]
 updated: {"date":"2026-11-06"}
 -->
 
