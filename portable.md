@@ -847,7 +847,7 @@ updated: {"date":"2026-11-20"}
 
 Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
-### Erwan
+## Erwan
 
 - ==API== - à demander à ERIDANIS un flux API : position du compteur + conso veille + rendement + ref + lien applicatif pour visibilité sur Géoter
     - Demander à ERIDANIS les éventuels formules des calculs qui se feraient côté client  
@@ -863,7 +863,7 @@ Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 - ==GTF== ==FME== ==VH== - Fiabiliser la VH pour lundi 5h du mat
 - ==3D== - Faire le rendu de la voiture HSN sur Metashape pour Smart Cities Tour
 
-### France
+## France
 
 
  :question: Quand Teams change réellement de "tenant" ? 
@@ -933,6 +933,23 @@ Divers
 
 
 
+<!--pmd
+id: "new-page-7"
+title: "New page"
+parent: "ph-2026-11-06"
+updated: {"date":"2026-11-20"}
+-->
+# PH du 20 novembre 2026
+
+:::info
+Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
+:::
+
+
+
+
+### France 
+==Sujet 1==
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
