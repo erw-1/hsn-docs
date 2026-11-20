@@ -837,41 +837,6 @@ updated: {"date":"2026-11-06"}
 -->
 
 <!--pmd
-id: "new-page-7"
-title: "PH 2026.11.20"
-parent: "points-hebdo"
-updated: {"date":"2026-11-20"}
--->
-# PH 2026.11.20
-
-:::info
-Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
-:::
-
-
-
-### Divers
-* Points liées au Lorawan, au CRM, Eridanis doit créer 4 royaumes pour geo70.fr 
-    * Voir aussi pour la gestion des comptes déportées (ex: M. Multon veut organiser ses agents en fonction des droits, AP doit tester pour la télérelève de l'eau) 
-
-### France 
-
-
-==Divers==
-
-[?] Croiser avec Julie pour les PV  
-
-[?] Trouver une date pour CCPV CCPL CCRC 
-
-[?] Croiser devis : cart ads ou ça en est, voir prerequis techniques  pour la cav, et devis pour ingenierie 70 ? c'est quoi   
-
-[?] rdv avec nicolas bourseau pour oxalys  
-
-[?] garabit reseau humides sogefi quid?  
-[?] voir suite au copil gestion des droits est ce que ça a ete evoquee et est ce que c'est compris dans la nouvelle version d'aramis 
-
-
-<!--pmd
 id: "ph-2026-11-06"
 title: "PH 2026.11.06"
 parent: "points-hebdo"
@@ -966,6 +931,41 @@ Divers
 
 
 
+
+
+<!--pmd
+id: "new-page-7"
+title: "PH 2026.11.20"
+parent: "points-hebdo"
+updated: {"date":"2026-11-20"}
+-->
+# PH 2026.11.20
+
+:::info
+Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
+:::
+
+
+
+### Divers
+* Points liées au Lorawan, au CRM, Eridanis doit créer 4 royaumes pour geo70.fr 
+    * Voir aussi pour la gestion des comptes déportées (ex: M. Multon veut organiser ses agents en fonction des droits, AP doit tester pour la télérelève de l'eau) 
+
+### France 
+
+
+==Divers==
+
+[?] Croiser avec Julie pour les PV  
+
+[?] Trouver une date pour CCPV CCPL CCRC 
+
+[?] Croiser devis : cart ads ou ça en est, voir prerequis techniques  pour la cav, et devis pour ingenierie 70 ? c'est quoi   
+
+[?] rdv avec nicolas bourseau pour oxalys  
+
+[?] garabit reseau humides sogefi quid?  
+[?] voir suite au copil gestion des droits est ce que ça a ete evoquee et est ce que c'est compris dans la nouvelle version d'aramis 
 
 
 <!--pmd
