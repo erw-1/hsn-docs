@@ -864,6 +864,7 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 [?] Trouver une date pour CCPV CCPL CCRC 
 
 [?] Croiser devis : cart ads ou ça en est , et devis pour ingenierie 70 ? 
+[?] rdv avec nicolas bourseau pour oxalys 
 
 <!--pmd
 id: "ph-2026-11-06"
