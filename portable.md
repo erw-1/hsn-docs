@@ -949,7 +949,7 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 
 ### Divers
 * Points liées au Lorawan, au CRM, Eridanis doit créer 4 royaumes pour geo70.fr 
-    * Voir aussi pour la gestion des comptes déportées (ex: M. Multon veut organiser ses agents en fonction des droits, AP doit tester pour 
+    * Voir aussi pour la gestion des comptes déportées (ex: M. Multon veut organiser ses agents en fonction des droits, AP doit tester pour la télérelève de l'eau) 
 ### France 
 ==Sujet 1==
 <!--pmd
