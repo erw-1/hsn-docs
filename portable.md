@@ -1387,7 +1387,7 @@ Appareil capable de s'élever et de circuler dans l'atmosphère terrestre.
 id: "drone_intro"
 title: "Intro drones"
 parent: "drone"
-updated: {"date":"2026-11-06"}
+updated: {"date":"2026-11-20"}
 -->
 
 # Notes drones
@@ -1410,6 +1410,10 @@ updated: {"date":"2026-11-06"}
 > 4 * 3.7 = 14.8 V \newline
 > 14.8 * 8 = 118,4 Wh
 > $$
+
+$$
+E=mc^2
+$$
 
 - Personnes impliquées = acteurs dans la mission
 - NOTAM : informations temporaires immédiates
