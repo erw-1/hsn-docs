@@ -863,7 +863,8 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 
 [?] Trouver une date pour CCPV CCPL CCRC 
 
-[?] Croiser devis : cart ads ou ça en est , et devis pour ingenierie 70 ? 
+[?] Croiser devis : cart ads ou ça en est, voir prerequis techniques  pour la cav, et devis pour ingenierie 70 ? c'est quoi   
+
 [?] rdv avec nicolas bourseau pour oxalys 
 
 <!--pmd
