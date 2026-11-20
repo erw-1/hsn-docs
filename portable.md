@@ -865,8 +865,10 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 
 [?] Croiser devis : cart ads ou ça en est, voir prerequis techniques  pour la cav, et devis pour ingenierie 70 ? c'est quoi   
 
-[?] rdv avec nicolas bourseau pour oxalys
-[?] garabit reseau humides sogefi quid? 
+[?] rdv avec nicolas bourseau pour oxalys  
+
+[?] garabit reseau humides sogefi quid?  
+[?] voir suite au copil gestion des droits est ce que ça a ete 
 
 
 <!--pmd
