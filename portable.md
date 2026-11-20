@@ -3,13 +3,11 @@ id: "home"
 title: "Home"
 kind: "home"
 tags: ["start"]
-updated: {"date":"2026-11-19"}
+updated: {"date":"2026-11-20"}
 -->
 # Accueil
 
 Ceci est un projet de test pour commencer à faire une base de connaissance tout en testant l'outil[Feedback ici](#/feedback_appli)
-
-test  
 
 > [!TIP]
 > Ce document comporte plusieurs pages, exemples :  
