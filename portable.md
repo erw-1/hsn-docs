@@ -966,6 +966,7 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 
 Merci d'avoir utilisé la doc :fire:
 
+
 <!--pmd
 id: "notes-conflans"
 title: "Notes Conflans"
