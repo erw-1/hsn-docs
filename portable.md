@@ -947,7 +947,8 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 
 
 
-
+### Divers
+* Points liées au Lorawan, au CRM,
 ### France 
 ==Sujet 1==
 <!--pmd
