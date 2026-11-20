@@ -962,6 +962,9 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 [?] garabit reseau humides sogefi quid?  
 [?] voir suite au copil gestion des droits est ce que ça a ete evoquee et est ce que c'est compris dans la nouvelle version d'aramis 
 
+### Erwan 
+
+Merci d'avoir utilisé la doc :fire:
 
 <!--pmd
 id: "notes-conflans"
