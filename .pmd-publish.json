@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "facb2671cbb8ce5f8e4b3e295160b759309b31c5840505d9551e95be1c54ead3",
-      "git": "7dd5ea27810fa86034ff45110352b511f59d667d"
+      "hash": "5df8e361b2166559af6592ae5d019def894d6a23facd82070c490d1df3a97644",
+      "git": "3effd663b3fb8f06d4ae7d202c20d2a834de20c3"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "portable.md",
-      "hash": "8c1a045e997152cc8812ce44dea608b8bdcfba51bc6eaa6316d7507370ff93ed",
-      "git": "00fbe9ecfd513ce95cdc606071a854273f141493"
+      "hash": "7151e18d005ff16c65c2b0a10612ec0656d160cc74489058943f619545f416d9",
+      "git": "d8f11b72278fe6675abfb2480503c9768aa6f394"
     },
     {
       "path": "assets/drawing.excalidraw",
