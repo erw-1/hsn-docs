@@ -860,7 +860,8 @@ Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
 ==Divers==
 
 [?] Croiser avec Julie pour les PV
-[?] 
+[?] Trouver une date pour CCPV CCPL CCRC 
+
 <!--pmd
 id: "ph-2026-11-06"
 title: "PH 2026.11.06"
