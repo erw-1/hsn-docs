@@ -841,13 +841,13 @@ id: "ph-2026-11-06"
 title: "PH 2026.11.06"
 parent: "points-hebdo"
 aliases: ["new-page-4","ph-20261106"]
-updated: {"date":"2026-11-06"}
+updated: {"date":"2026-11-20"}
 -->
 # Point Hebdo 2026.11.06
 
 Rush MT voirie, Rush préparation du Smart Cities Tour 20261201
 
-## Erwan
+### Erwan
 
 - ==API== - à demander à ERIDANIS un flux API : position du compteur + conso veille + rendement + ref + lien applicatif pour visibilité sur Géoter
     - Demander à ERIDANIS les éventuels formules des calculs qui se feraient côté client  
