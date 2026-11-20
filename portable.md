@@ -935,11 +935,11 @@ Divers
 
 <!--pmd
 id: "new-page-7"
-title: "New page"
+title: "Point hebdo"
 parent: "ph-2026-11-06"
 updated: {"date":"2026-11-20"}
 -->
-# PH du 20 novembre 2026
+# Point hebdo
 
 :::info
 Je suis arrivée à 8h50..Zzz Voici une partie des informations :relieved:
