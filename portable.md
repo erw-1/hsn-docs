@@ -1412,7 +1412,7 @@ updated: {"date":"2026-11-20"}
 > $$
 
 $$
-E=mc^2
+E=mc^2\mathrm{Attention}(Q,K,V) = \mathrm{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V
 $$
 
 - Personnes impliquées = acteurs dans la mission
