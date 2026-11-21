@@ -3,7 +3,7 @@ id: "home"
 title: "Home"
 kind: "home"
 tags: ["start"]
-updated: {"date":"2026-11-20"}
+updated: {"date":"2026-11-21"}
 -->
 # Accueil
 
@@ -13,6 +13,10 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > Ce document comporte plusieurs pages, exemples :  
 > [Analyse Cuivre - Fibre](#/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/suivi_mt_voirie)
+
+
+
+
 
 
 <!--pmd
@@ -1412,7 +1416,7 @@ updated: {"date":"2026-11-20"}
 > $$
 
 $$
-E=mc^2
+E=mc^2\mathrm{Attention}(Q,K,V) = \mathrm{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V
 $$
 
 - Personnes impliquées = acteurs dans la mission
