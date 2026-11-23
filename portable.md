@@ -814,7 +814,9 @@ updated: {"date":"2026-11-23"}
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Peugeot + Kit360 HSN" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/1e8caaa6dcde42eb954241a69584f7be/embed?autospin=1&autostart=1&preload=1&ui_theme=dark&dnt=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/peugeot-kit360-hsn-1e8caaa6dcde42eb954241a69584f7be" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Peugeot + Kit360 HSN </a> by <a href="https://sketchfab.com/erw-1" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> erw-1 </a></div>
 
-[Download petgeo.glb](assets/petgeo.glb "download")
+---
+
+[Download Peugeot.glb](assets/petgeo.glb "download")
 
 <!--pmd
 id: "communication"
