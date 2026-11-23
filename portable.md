@@ -829,6 +829,15 @@ updated: {"date":"2026-11-06"}
 -->
 
 <!--pmd
+id: "new-page-8"
+title: "New page"
+parent: "réunions"
+updated: {"date":"2026-11-23"}
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id: "points-hebdo"
 title: "Points Hebdo"
 parent: "réunions"
