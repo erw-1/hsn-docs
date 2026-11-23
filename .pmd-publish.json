@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "9fc2f10ec8e736285ab88bd4c5339e436fb02acf065c8098e58cd48459c5f83b",
-      "git": "f7602992b3e4353a08fafc2dea6bc0a67fa6cc6a"
+      "hash": "57d97750f199a6e3fac96235eaa6c82ccec0a74aa7256f0710a3dbd6d4a283bb",
+      "git": "7301fb00dff580d0713dbec8066a91f8e7a1b26b"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "portable.md",
-      "hash": "cf60396a3750bcf406a9267bb9f10f3030b30dfeff5679ddbff25f2d74bfeac2",
-      "git": "fa3260b795468eb80464802c5aae71a3c4f6e3d9"
+      "hash": "edfb77e7c7b2168611b8ae6dff5ec7c7e395d3b8749ddcb6b45b317e87cda088",
+      "git": "c7af625b6d3701595bdaced68abfb2552e63c051"
     },
     {
       "path": "assets/drawing.excalidraw",
@@ -250,6 +250,11 @@
       "path": "assets/screenshot_20261104_113633_samsung_browser.jpg",
       "hash": "4ebaeb8f218425542f2fb31d39e6dfe515e828598adfc463039aae510934a637",
       "git": "b9f0323c966454956b071b63cf8cb59158bb78bd"
+    },
+    {
+      "path": "assets/petgeo.glb",
+      "hash": "f602f44fcd27b700c76519453eef82a8a9c34a6753a5a02b3c3a03e195acf187",
+      "git": "7172a20d02a6d2df3c8cd12f6ed1bbf426100fee"
     }
   ]
 }
