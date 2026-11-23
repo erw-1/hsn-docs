@@ -804,14 +804,15 @@ Glossaire
     Même sans assurance, il est toujours possible de les renvoyer et Dji peut les réparer pour une somme modique
 
 <!--pmd
-id: "new-page-10"
-title: "New page"
+id: "voiture-3d"
+title: "Voiture 3D"
 parent: "drone"
+aliases: ["new-page-10"]
 updated: {"date":"2026-11-23"}
 -->
-# New page
+# Voiture 3D
 
-Start writing here.
+<div class="sketchfab-embed-wrapper"> <iframe title="Peugeot + Kit360 HSN" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/1e8caaa6dcde42eb954241a69584f7be/embed?autospin=1&autostart=1&preload=1&transparent=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/peugeot-kit360-hsn-1e8caaa6dcde42eb954241a69584f7be" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Peugeot + Kit360 HSN </a> by <a href="https://sketchfab.com/erw-1" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> erw-1</p></div>
 <!--pmd
 id: "communication"
 title: "Communication"
