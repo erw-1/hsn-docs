@@ -804,6 +804,15 @@ Glossaire
     Même sans assurance, il est toujours possible de les renvoyer et Dji peut les réparer pour une somme modique
 
 <!--pmd
+id: "new-page-10"
+title: "New page"
+parent: "drone"
+updated: {"date":"2026-11-23"}
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id: "communication"
 title: "Communication"
 parent: "home"
