@@ -876,6 +876,8 @@ Grosse charge de travail : renouvellement des certificats à gérer, via SSIR ?
 ==Architecture== : Il faut bien présenter la stack des VM etc, l'architecture infra de nos futurs services hébergés pour avoir un plan mature à présenter au SSIR.
 
 Il faut aussi réaliser l'architecture de nos services actuels, à transmettre au SSIR et à maintenir en interne.
+
+==Besoin d'espace "Bac à sable"== : exemple, si on veut faire des tests pour héberger "Fichier" par exemple. Demandes déjà en cours, mais accès à étendre.
 <!--pmd
 id: "points-hebdo"
 title: "Points Hebdo"
