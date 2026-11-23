@@ -829,14 +829,53 @@ updated: {"date":"2026-11-06"}
 -->
 
 <!--pmd
-id: "new-page-8"
-title: "New page"
+id: "réunion-ia-data"
+title: "Réunion IA Data"
 parent: "réunions"
+kind: "folder"
+aliases: ["new-page-8"]
 updated: {"date":"2026-11-23"}
 -->
-# New page
 
-Start writing here.
+<!--pmd
+id: "réunion-ia-2026-11-23"
+title: "Réunion IA 2026.11.23"
+parent: "réunion-ia-data"
+aliases: ["new-page-9"]
+updated: {"date":"2026-11-23"}
+-->
+# Réunion IA 2026.11.23
+
+-# **Présents** : Cyril, Maryline, France, Erwan, Joffrey, Loïc
+
+==Avancées sur les accès sur les machines== : tickets fermés sans résolution du problème. Problème bastion ? 
+Encourager Loïc à communiquer un peu plus sur ses avancées ?
+
+==Demande de Joffrey== : Trouver un créneau pour engager et maintenir des bonnes relations avec le SSIR. Un point mensuel à caler ?
+
+==Ateliers== : pour le RAG, dans les services internes déjà identifier les données, les emplacements réseau, etc.
+
+==RAG== : commencer à avancer, identifier la stack, argumenter le choix des modèles 
+- volet académique : data, mcd, théorie, créer de la matière pour les rapports + **présentation en interne à faire**
+- volet technique : stack argumentée
+
+==Hébergement de la Suite== : auditer via bureau d'études l'hébergement de la Suite à HSN et de leur données.
+- Cyber
+- souveraineté
+- responsabilité 
+
+==Domaines== : Gestion DNS via Netim? Netym? Automatisme via API pour la gestion des domaines.
+
+> [!WARNING]
+> Support "de premier niveau" lié aux noms de domaine à assurer par HSN
+
+Grosse charge de travail : renouvellement des certificats à gérer, via SSIR ?
+
+Ça va être galère -> **bien engager les rdv mensuels avec le SSIR.**
+
+==Architecture== : Il faut bien présenter la stack des VM etc, l'architecture infra de nos futurs services hébergés pour avoir un plan mature à présenter au SSIR.
+
+Il faut aussi réaliser l'architecture de nos services actuels, à transmettre au SSIR et à maintenir en interne.
 <!--pmd
 id: "points-hebdo"
 title: "Points Hebdo"
