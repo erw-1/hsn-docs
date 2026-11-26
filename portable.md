@@ -3,7 +3,7 @@ id: "home"
 title: "Home"
 kind: "home"
 tags: ["start"]
-updated: {"date":"2026-11-21"}
+updated: {"date":"2026-11-26"}
 -->
 # Accueil
 
@@ -15,7 +15,7 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > [Suivi MT Voirie](#/suivi_mt_voirie)
 
 
-
+Test
 
 
 <!--pmd
