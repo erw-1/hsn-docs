@@ -59,7 +59,7 @@ Start writing here.
 id: "analyse_cuivre_fibre"
 title: "Analyse Cuivre - Fibre"
 parent: "sig"
-updated: {"date":"2026-10-28","note":"Erwan"}
+updated: {"date":"2026-11-27","note":"Erwan"}
 -->
 
 # Analyse des accès cuivre actifs et de leur situation fibre
@@ -71,9 +71,7 @@ updated: {"date":"2026-10-28","note":"Erwan"}
 
 ## 1. Objectif du projet
 
-Ce projet vise à localiser les adresses disposant encore d'au moins un accès cuivre actif, à les rapprocher des données fibre disponibles, puis à qualifier leur niveau de préparation à la migration vers la fibre.
-
-Test
+Ce projet vise à localiser les adresses disposant encore d'au moins un accès cuivre actif, à les rapprocher des données fibre disponibles, puis à qualifier leur niveau de préparation à la migration vers la fibre.  
 
 Le résultat constitue une aide à l'analyse pour HSN, HSF et les collectivités. Il doit permettre de distinguer rapidement :
 
