@@ -1482,7 +1482,7 @@ Hidden content.
 console.log('portable.md');
 ```
 
-
+[@lol]
 
 [^lol]: lolilol
 
@@ -3480,3 +3480,20 @@ kind: "figures"
 updated: {"date":"2026-10-29"}
 -->
 # Figures, tables and equations
+<!--pmd
+id: "pmd_references"
+title: "References"
+parent: "home"
+kind: "references"
+updated: {"date":"2026-11-27"}
+-->
+<!-- pmd-reference-style: author-year -->
+# References
+
+## lol
+
+<!-- pmd-reference: {"title":"lol","author":[{"family":"Vinot","given":"Erwan"},{"family":"Lol"}],"issued":{"date-parts":[[2021]]}} -->
+
+
+
+
