@@ -1461,6 +1461,25 @@ Hidden content.
 :::
 
 <!-- LOOOOOOOOL -->
+
+<form id="pmd-demo-calculator">
+  <label>First number <input name="left" type="number" value="2"></label>
+  <span> + </span>
+  <label>Second number <input name="right" type="number" value="3"></label>
+  <span> = </span><output name="result">5</output>
+</form>
+<script>
+(() => {
+  const calculator = document.querySelector("#pmd-demo-calculator");
+  const update = () => {
+    calculator.elements.result.value =
+      Number(calculator.elements.left.value) + Number(calculator.elements.right.value);
+  };
+  calculator.addEventListener("input", update);
+  update();
+})();
+</script>
+
 <!--pmd
 id: "km_glossary"
 title: "Glossaire"
