@@ -3,7 +3,7 @@ id: "home"
 title: "Home"
 kind: "home"
 tags: ["start"]
-updated: {"date":"2026-11-26"}
+updated: {"date":"2026-11-27"}
 -->
 # Accueil
 
@@ -13,10 +13,6 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > Ce document comporte plusieurs pages, exemples :  
 > [Analyse Cuivre - Fibre](#/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/suivi_mt_voirie)
-
-
-Test
-
 
 <!--pmd
 id: "couche-de-suivi-services"
