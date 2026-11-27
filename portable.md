@@ -1437,12 +1437,12 @@ updated: {"date":"2026-11-27"}
 -->
 # Tests appli
 
-**bold text**  
-*italic text*  
--# <kbd>++==~~***||^underlined text^||***~~==++</kbd>  
--# ++==~~***||~underlined text~||***~~==++  
--# ~++==~~***||underlined text||***~~==++~  
--# ^++==~~***||underlined text||***~~==++^  
+- [ ] **bold text**  
+- [ ] *italic text*  
+- [ ] <kbd>++==~~***||^underlined text^||***~~==++</kbd>  
+- [ ] ++==~~***||~underlined text~||***~~==++  
+- [ ] ~++==~~***||underlined text||***~~==++~  
+- [ ] ^++==~~***||underlined text||***~~==++^  
 <!--pmd
 id: "km_glossary"
 title: "Glossaire"
