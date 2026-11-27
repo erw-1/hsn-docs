@@ -2367,6 +2367,15 @@ apprendre les conditions de visivilite VMC
 zone d'intervention = minimum +10
 
 <!--pmd
+id: "new-page-11"
+title: "New page"
+parent: "drone_notions"
+updated: {"date":"2026-11-27"}
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id: "drone_risques"
 title: "Risques"
 parent: "drone_notions"
