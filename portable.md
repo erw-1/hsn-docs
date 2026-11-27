@@ -1533,10 +1533,6 @@ updated: {"date":"2026-11-27"}
 > 14.8 * 8 = 118,4 Wh
 > $$
 
-$$
-{Attention}(Q,K,V) = \mathrm{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V
-$$
-
 - Personnes impliquées = acteurs dans la mission
 - NOTAM : informations temporaires immédiates
 - Charge utile = equipements du dronee, caméra comprise
