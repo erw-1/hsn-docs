@@ -1445,7 +1445,7 @@ updated: {"date":"2026-11-27"}
 - [ ] ^++==~~***||underlined text||***~~==++^  
 
 | Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
+| -[^lol]-- | --- | --- |
 | - [ ] <kbd>++==~~***||^underlined text^||***~~==++</kbd> | Value | Value |
 | Value | Value | ||Value|| |
 
@@ -1475,13 +1475,18 @@ Hidden content.
 })();
 </script>
 
-
+[google](https://google.com)
 
 
 ```text
 console.log('portable.md');
 ```
 
+
+
+[^lol]: lolilol
+
+[^1]: test
 
 <!--pmd
 id: "km_glossary"
