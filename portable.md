@@ -1429,6 +1429,16 @@ Fixed :green_heart:
 :::
 
 <!--pmd
+id: "tests"
+title: "Tests appli"
+parent: "feedback_appli"
+aliases: ["new-page-12"]
+updated: {"date":"2026-11-27"}
+-->
+# Tests appli
+
+Start writing here.
+<!--pmd
 id: "km_glossary"
 title: "Glossaire"
 kind: "glossary"
