@@ -1452,6 +1452,15 @@ updated: {"date":"2026-11-27"}
 > [!NOTE]
 > Useful context.
 
+> - [ ] <kbd>++==~~***||^underlined text^||***~~==++</kbd>
+
+---
+
+:::spoiler Click to reveal
+Hidden content.
+:::
+
+<!-- LOOOOOOOOL -->
 <!--pmd
 id: "km_glossary"
 title: "Glossaire"
