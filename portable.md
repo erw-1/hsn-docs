@@ -1439,7 +1439,7 @@ updated: {"date":"2026-11-27"}
 
 **bold text**  
 *italic text*  
--# ++==~~***||^underlined text^||***~~==++  
+-# <kbd>++==~~***||^underlined text^||***~~==++</kbd>  
 -# ++==~~***||~underlined text~||***~~==++  
 -# ~++==~~***||underlined text||***~~==++~  
 -# ^++==~~***||underlined text||***~~==++^  
