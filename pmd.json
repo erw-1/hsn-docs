@@ -103,6 +103,7 @@
     "readingWidth": "full"
   },
   "site": {
+    "url": "https://erw-1.github.io/hsn-docs/",
     "icon": "assets/fibre_icon-2.png",
     "showLogo": true,
     "showFavicon": true
