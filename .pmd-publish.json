@@ -32,11 +32,6 @@
       "git": "2ae8b7fbf44925e1775704f03debf7cda2c91557"
     },
     {
-      "path": "assets/drawing.excalidraw",
-      "hash": "3cb26cd7c102a5e928354cd24889d357be72c4e74631e6a70c3c634fb47747c8",
-      "git": "78e6c895fc099b7baecb262048e49044e1e2ff65"
-    },
-    {
       "path": "assets/emojis/lien_hsf_confiance_faible.webp",
       "hash": "04c2354ffc3b40a30ec0652a4e5d895d4ad63a61c69175ed910d6eb186fe31b1",
       "git": "c1f26c5e125bebef49dbb52144cf6872b9814bfa"
@@ -220,11 +215,6 @@
       "path": "assets/image-9.png",
       "hash": "0ac335ddf9d7299505c6564c8b5f249f1fcd58467aee5d9a1d8c0b2df262fae0",
       "git": "609ba5492c5eca0adc78d38b976cb05c9fc574d0"
-    },
-    {
-      "path": "assets/image.png",
-      "hash": "7c5e81051bfedbee64a190c3ad324433777a6322e353b43d4e82c1d440d3ef2c",
-      "git": "6f64eca51f379f6ede93fe2ebd3e6b82531daffb"
     },
     {
       "path": "assets/legende-fibre-hsf.svg",
