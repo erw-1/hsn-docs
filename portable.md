@@ -1443,6 +1443,12 @@ updated: {"date":"2026-11-27"}
 - [ ] ++==~~***||~underlined text~||***~~==++  
 - [ ] ~++==~~***||underlined text||***~~==++~  
 - [ ] ^++==~~***||underlined text||***~~==++^  
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Value | Value | Value |
+| Value | Value | Value |
+
 <!--pmd
 id: "km_glossary"
 title: "Glossaire"
