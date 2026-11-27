@@ -1446,8 +1446,11 @@ updated: {"date":"2026-11-27"}
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| Value | Value | Value |
-| Value | Value | Value |
+| - [ ] <kbd>++==~~***||^underlined text^||***~~==++</kbd> | Value | Value |
+| Value | Value | ||Value|| |
+
+> [!NOTE]
+> Useful context.
 
 <!--pmd
 id: "km_glossary"
