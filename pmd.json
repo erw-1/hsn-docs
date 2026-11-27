@@ -2,6 +2,7 @@
   "pmd": 1,
   "title": "doc HSN beta",
   "lang": "fr",
+  "scripts": true,
   "editorLink": false,
   "emoji": [
     {

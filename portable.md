@@ -1457,17 +1457,17 @@ updated: {"date":"2026-11-27"}
 ---
 
 :::spoiler Click to reveal
-Hidden content.
-:::
-
-<!-- LOOOOOOOOL -->
-
 <form id="pmd-demo-calculator">
   <label>First number <input name="left" type="number" value="2"></label>
   <span> + </span>
   <label>Second number <input name="right" type="number" value="3"></label>
   <span> = </span><output name="result">5</output>
 </form>
+:::
+
+<!-- LOOOOOOOOL -->
+
+
 <script>
 (() => {
   const calculator = document.querySelector("#pmd-demo-calculator");
