@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>doc HSN beta</ShortName>
+  <Description>doc HSN beta</Description>
+  <Image>https://erw-1.github.io/hsn-docs/assets/fibre_icon-2.png</Image>
+  <Url type="text/html" template="https://erw-1.github.io/hsn-docs/?q={searchTerms}"/>
+</OpenSearchDescription>

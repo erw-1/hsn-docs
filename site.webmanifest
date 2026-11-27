@@ -1,0 +1,15 @@
+{
+  "name": "doc HSN beta",
+  "short_name": "doc HSN beta",
+  "description": "doc HSN beta",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#3fabd1",
+  "icons": [
+    {
+      "src": "assets/fibre_icon-2.png"
+    }
+  ]
+}

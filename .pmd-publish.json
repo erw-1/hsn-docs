@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "84449c60d39865961ae71f67822a23d2f270908a2159b4e69aa14aa2fe4cf6bd",
-      "git": "bb1a148ae12da26fb768d1d46a6fabb71665cbf4"
+      "hash": "07f0ee90558c0d65ffda7ff1047eba13c8feeff6ccaa3f4a066da343d18796c4",
+      "git": "0e6e1934e4a1a3cddb50f8dad197040e183e5de0"
     },
     {
       "path": ".nojekyll",
@@ -22,9 +22,29 @@
       "git": "09e99d03ec93c63f4d2392dacca742b53dc6455d"
     },
     {
+      "path": "robots.txt",
+      "hash": "77fad84834162fc3d5ad685cb4b0d4ab72298035860200a27f614634513b429e",
+      "git": "f1e8f16b3463598ac2bc66b6e3976c36978ef2c0"
+    },
+    {
+      "path": "sitemap.xml",
+      "hash": "5f9ca75cb40655a6670ee3826b96cc1e326b643487a75af45c6ce51ffb6058b5",
+      "git": "433365dad334e4ab299e4024f7c4f1a97e4a001b"
+    },
+    {
+      "path": "site.webmanifest",
+      "hash": "9e292687c23aeb71fedc429fa866afe940b450b1beb42fd3257bf2a9f7be066a",
+      "git": "bf0cbe46e586517ddaf48eab9825beda6840c89a"
+    },
+    {
+      "path": "opensearch.xml",
+      "hash": "69bff80465b4d9dd38b561166d5e74d43613efacd19082e037682e56d851f120",
+      "git": "90551bc9cbf529e6e64c898f699bd7cdff430bc8"
+    },
+    {
       "path": "pmd.json",
-      "hash": "871588f26ef4ea9f871f359d20c0d388473ad116f585b5495220a2a373a13a92",
-      "git": "db8d8664dc506ebe8772feb9bf20edd4a358b0d9"
+      "hash": "354006ef83135e1503d3adada4d992db3e676451d8e9f46c20d01ed7d32ccc11",
+      "git": "54420bf30a842e0f9c4d912d8162a8800c2e2195"
     },
     {
       "path": "portable.md",
