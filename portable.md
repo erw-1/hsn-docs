@@ -1440,6 +1440,9 @@ updated: {"date":"2026-11-27"}
 **bold text**  
 *italic text*  
 -# ++==~~***||^underlined text^||***~~==++
+-# ++==~~***||~underlined text~||***~~==++
+-# ~++==~~***||underlined text||***~~==++~
+-# ^++==~~***||underlined text||***~~==++^
 <!--pmd
 id: "km_glossary"
 title: "Glossaire"
