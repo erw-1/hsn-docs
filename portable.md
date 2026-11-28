@@ -15,6 +15,15 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > [Suivi MT Voirie](#/suivi_mt_voirie)
 
 <!--pmd
+id: "new-page-13"
+title: "New page"
+parent: "home"
+updated: {"date":"2026-11-28"}
+-->
+# New page
+
+Start writing here.
+<!--pmd
 id: "couche-de-suivi-services"
 title: "Couche de suivi services"
 parent: "home"
