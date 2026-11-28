@@ -3,7 +3,7 @@ id: "home"
 title: "Home"
 kind: "home"
 tags: ["start"]
-updated: {"date":"2026-11-27"}
+updated: {"date":"2026-11-28"}
 -->
 # Accueil
 
@@ -13,6 +13,11 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > Ce document comporte plusieurs pages, exemples :  
 > [Analyse Cuivre - Fibre](#/analyse_cuivre_fibre)  
 > [Suivi MT Voirie](#/suivi_mt_voirie)
+
+
+Link first page H1 with page title
+- editor settings toggle for that (on by default)
+- add a "linked" glyph button in the right of the title field (like the auto id one for the id field. Clicking it when the linked title is on : unlink locally 
 
 <!--pmd
 id: "couche-de-suivi-services"
