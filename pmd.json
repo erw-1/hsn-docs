@@ -99,6 +99,7 @@
     }
   ],
   "reader": {
+    "toc": false,
     "graph": false,
     "themeToggle": false,
     "print": true,
