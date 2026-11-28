@@ -3,8 +3,8 @@
   "files": [
     {
       "path": "index.html",
-      "hash": "e46cec845a6447103024971c84df4cada8d7c21e55ef8ca18cc957d1fa774541",
-      "git": "f1a364df667f57a209189a479b004bd1405feba8"
+      "hash": "e2dd12bc626d43d42de5d14ccd8b38d79d526c900319e22d0efb3cb08126f219",
+      "git": "fcca529a43cf8eac499749daedbd8b3b3a6c1514"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "sitemap.xml",
-      "hash": "5f9ca75cb40655a6670ee3826b96cc1e326b643487a75af45c6ce51ffb6058b5",
-      "git": "433365dad334e4ab299e4024f7c4f1a97e4a001b"
+      "hash": "be79c1150565d24a01df01c5e313fb31debfdf69861d102a49a0719e6cefb4e8",
+      "git": "5adc0b34f42b2e918bd35554515116966a5839d1"
     },
     {
       "path": "site.webmanifest",
@@ -48,8 +48,8 @@
     },
     {
       "path": "portable.md",
-      "hash": "d5e285f144150a18640d25cd32e1711459b14a4ac0be95b0c812083f89ee8a2b",
-      "git": "cd567a1f273d31629c815f7e08f3fba854b4b0ed"
+      "hash": "724cbced43736b7ed827894ad60c7ad9dcb5d4d8e5aba4f301f4de167c22f0d0",
+      "git": "9d69627afa7d652328abe4a724f3447b07041f70"
     },
     {
       "path": "assets/emojis/lien_hsf_confiance_faible.webp",
