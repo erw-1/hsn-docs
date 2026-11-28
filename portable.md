@@ -15,9 +15,12 @@ Ceci est un projet de test pour commencer à faire une base de connaissance tout
 > [Suivi MT Voirie](#/suivi_mt_voirie)
 
 
-Link first page H1 with page title
-- editor settings toggle for that (on by default)
-- add a "linked" glyph button in the right of the title field (like the auto id one for the id field. Clicking it when the linked title is on : unlink locally 
+Link first page H1 with page title : 
+- editor settings global toggle for that (on by default)
+- add a "linked" glyph button in the right of the title field (like the auto id one for the id field.
+    - Clicking it when the global linked title is on : unlink locally for this page 
+    - clicking it when the global linked title is off : link it locally for this page 
+        - 
 
 <!--pmd
 id: "couche-de-suivi-services"
